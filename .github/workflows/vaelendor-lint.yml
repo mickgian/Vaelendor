@@ -1,0 +1,61 @@
+name: Vaelendor Narrative Lint
+
+on:
+  push:
+    paths:
+      - 'libro*/capitoli/**'
+  pull_request:
+    paths:
+      - 'libro*/capitoli/**'
+
+jobs:
+  narrative-lint:
+    name: Narrative Linter + Tracker Validator
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Find modified chapters
+        id: chapters
+        run: |
+          if [ "${{ github.event_name }}" = "pull_request" ]; then
+            FILES=$(git diff --name-only ${{ github.event.pull_request.base.sha }} ${{ github.sha }} | grep 'capitoli/capitolo-' || true)
+          else
+            FILES=$(git diff --name-only HEAD~1 | grep 'capitoli/capitolo-' || true)
+          fi
+          echo "files<<EOF" >> $GITHUB_OUTPUT
+          echo "$FILES" >> $GITHUB_OUTPUT
+          echo "EOF" >> $GITHUB_OUTPUT
+
+      - name: Run Narrative Linter
+        if: steps.chapters.outputs.files != ''
+        run: |
+          EXIT_CODE=0
+          while IFS= read -r file; do
+            if [ -n "$file" ] && [ -f "$file" ]; then
+              echo "::group::Linting $file"
+              python hooks/narrative-linter.py "$file" || EXIT_CODE=1
+              echo "::endgroup::"
+            fi
+          done <<< "${{ steps.chapters.outputs.files }}"
+          exit $EXIT_CODE
+
+      - name: Run Tracker Validator
+        if: steps.chapters.outputs.files != '' && success()
+        run: |
+          EXIT_CODE=0
+          while IFS= read -r file; do
+            if [ -n "$file" ] && [ -f "$file" ]; then
+              echo "::group::Validating $file"
+              python hooks/tracker-validator.py "$file" || EXIT_CODE=1
+              echo "::endgroup::"
+            fi
+          done <<< "${{ steps.chapters.outputs.files }}"
+          exit $EXIT_CODE

@@ -1,0 +1,81 @@
+{
+    "nomi": [
+        {
+            "canonico": "Zorgar",
+            "varianti_errate": ["Zorgan", "Zorghar", "Zorgarr"]
+        },
+        {
+            "canonico": "Sylas",
+            "varianti_errate": ["Silas", "Sylass", "Syllas"]
+        },
+        {
+            "canonico": "Dain",
+            "varianti_errate": ["Dane", "Dayn", "Daine"]
+        },
+        {
+            "canonico": "Aldric",
+            "varianti_errate": ["Aldrick", "Aldrik", "Aldrich"]
+        },
+        {
+            "canonico": "Elara",
+            "varianti_errate": ["Ellara", "Elarra", "Elera"]
+        },
+        {
+            "canonico": "Mirael",
+            "varianti_errate": ["Miriel", "Miraele", "Mirael"]
+        },
+        {
+            "canonico": "Fizzle",
+            "varianti_errate": ["Fizle", "Fizzl", "Fizel"]
+        },
+        {
+            "canonico": "Vera",
+            "varianti_errate": []
+        },
+        {
+            "canonico": "Kaelen Valdris",
+            "varianti_errate": ["Kaelen Valdrix", "Kalen", "Caelen"]
+        },
+        {
+            "canonico": "Aldwyn",
+            "varianti_errate": ["Aldwin", "Alwyn", "Aldwynn"]
+        },
+        {
+            "canonico": "Brennan",
+            "varianti_errate": ["Brenan", "Brennen", "Brennann"]
+        },
+        {
+            "canonico": "Willem",
+            "varianti_errate": ["William", "Wilhem", "Willam"]
+        },
+        {
+            "canonico": "Rorik",
+            "varianti_errate": ["Roric", "Rorick", "Roryk"]
+        },
+        {
+            "canonico": "Tomás",
+            "varianti_errate": ["Thomas", "Tomas"]
+        }
+    ],
+    "luoghi": [
+        {
+            "canonico": "La Spiga e il Tino",
+            "varianti_errate": ["La Spiga e il Tino", "Spiga e Tino", "La Spiga & il Tino", "la spiga e il tino"]
+        },
+        {
+            "canonico": "Millbrook",
+            "varianti_errate": ["Mill Brook", "Millbrok", "Mill-brook"]
+        }
+    ],
+    "ruoli": [
+        {
+            "canonico": "sacerdote",
+            "varianti_errate": ["chierico", "cherico", "clerigo"]
+        },
+        {
+            "canonico": "guaritore",
+            "descrizione": "Willem è l'unico guaritore di Millbrook",
+            "varianti_errate": []
+        }
+    ]
+}
