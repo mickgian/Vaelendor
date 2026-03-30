@@ -22,7 +22,7 @@
         },
         {
             "canonico": "Mirael",
-            "varianti_errate": ["Miriel", "Miraele", "Mirael"]
+            "varianti_errate": ["Miriel", "Miraele", "Myrael"]
         },
         {
             "canonico": "Fizzle",
@@ -60,7 +60,7 @@
     "luoghi": [
         {
             "canonico": "La Spiga e il Tino",
-            "varianti_errate": ["La Spiga e il Tino", "Spiga e Tino", "La Spiga & il Tino", "la spiga e il tino"]
+            "varianti_errate": ["Spiga e Tino", "La Spiga & il Tino"]
         },
         {
             "canonico": "Millbrook",
