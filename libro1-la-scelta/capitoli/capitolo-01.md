@@ -743,6 +743,69 @@ Per tutti loro.
 
 ---
 
+## Fine Capitolo 1
+
+---
+
+## Geografia del Capitolo
+
+### Luoghi Attraversati
+
+**Prologo (fuga notturna):**
+- Bosco oscuro — foresta fitta, radici e rami bassi, buio quasi totale; il party scappa in fuga da cavalieri e cani
+- Ruscello con ponticello — punto di rallentamento, Zorgar porta Vera ferita
+- Collina boscosa — il tunnel nanico nascosto sotto una roccia sporgente, scoperta fortuita di Sylas
+- Tunnel nanico — antico, costruito secoli fa; emergenza su una china erbosa al mattino
+
+**Capitolo 1 (funerale e sera):**
+- Cimitero di Millbrook — piccolo, 10-12 tombe, ai margini del villaggio; la cerimonia si svolge all'alba
+- Tempio dei Tre — edificio bianco sulla collina nord, tre finestre colorate visibili dall'esterno
+- La Spiga e il Tino — locanda principale, tavoli di legno scuro, camino acceso, odore di birra e stufato
+
+### Punti di Riferimento
+- Il bosco da cui il party emerge nel Prologo (nord di Millbrook, non mappato)
+- Le Montagne all'orizzonte est — visibili dalla china al mattino dopo la fuga
+- Il campanile del tempio — punto di orientamento visivo per chi arriva a Millbrook
+
+---
+
+## Cinque Scene Salienti
+
+### 1. La Fuga nel Bosco (Prologo)
+**Descrizione:** Il party corre nel buio, inseguito da cavalieri armati e cani. Zorgar porta Vera ferita in braccio, il sangue che cola sul suo mantello. Frecce fischiano tra gli alberi. La tensione è al massimo.
+**Elementi visivi:** Bosco nero, torce degli inseguitori che lampeggiano tra i tronchi, Zorgar enorme e silenzioso che corre con il corpo di Vera, volti tesi nel buio.
+**Potenziale per illustrazione:** ★★★★★
+
+### 2. Il Tunnel Nanico (Prologo)
+**Descrizione:** Sylas scopre il varco nascosto sotto una roccia sporgente — un tunnel antico, costruito da nani secoli prima. Il party si immerge nel buio sotterraneo mentre gli inseguitori passano oltre sopra di loro.
+**Elementi visivi:** Ingresso basso nella roccia, luce delle torce che scompare, il contrasto tra il panico della fuga e il silenzio improvviso del tunnel, l'architettura nanica precisa e antica.
+**Potenziale per illustrazione:** ★★★★☆
+
+### 3. La Benedizione sulla Tomba (Scena 4: La Cerimonia)
+**Descrizione:** Aldric alza le mani sulla cassa di legno e una luce dorata, tangibile, scende sulla tomba. Una vecchia tiene una margherita bianca. Zorgar non riesce a guardare.
+**Elementi visivi:** Luce dorata su fondo grigio del mattino, il simbolo dei Tre sul petto di Aldric, la vecchia curva con il fiore, Zorgar rigido con la mascella contratta.
+**Potenziale per illustrazione:** ★★★★☆
+
+### 4. Zorgar al Cimitero: Il Gesto Antico (Scena 5: Il Peso del Silenzio)
+**Descrizione:** Dopo la cerimonia, Zorgar resta solo alla tomba. Mette la mano sinistra sul petto — un gesto che nessuno degli altri riconosce. Un gesto di guerriero, antico, che va oltre il lutto normale.
+**Elementi visivi:** Il mezz'orco enorme di spalle alla tomba, la mano sul petto, la testa leggermente china, le zanne visibili nel profilo.
+**Potenziale per illustrazione:** ★★★★☆
+
+### 5. Sylas che Osserva il Funerale (Scena 3: Il Cimitero di Millbrook)
+**Descrizione:** Sylas si posiziona ai margini del cimitero, schiena a un albero, con visuale su tutte le uscite. Osserva ogni volto, ogni dettaglio — la donna con le mani callose, il bambino con la marmellata sul viso, i vecchi che parlano di raccolti accanto alla bara.
+**Elementi visivi:** Sylas isolato ai bordi della scena, gli altri in primo piano inconsapevoli dello sguardo, la dicotomia tra il suo distacco e il dolore degli altri.
+**Potenziale per illustrazione:** ★★★☆☆
+
+---
+
+## Scene Consigliate per Illustrazione
+
+**Prima scelta:** La fuga nel bosco (Prologo) — Impatto emotivo immediato, introduce tutti i personaggi chiave in azione, stabilisce il tono di urgenza dell'intera saga. Zorgar con Vera in braccio è un'immagine iconica.
+
+**Seconda scelta:** Zorgar al cimitero — il gesto antico (Scena 5) — Emotivamente potente, rivela la profondità del personaggio. Un guerriero che piange senza piangere. Funziona perfettamente come illustrazione autonoma.
+
+---
+
 ## Note sulla Versione 7.0
 
 ### Cosa è stato ampliato:

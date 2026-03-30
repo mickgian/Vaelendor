@@ -912,6 +912,60 @@ Era la risposta più onesta che potesse dare.
 
 ---
 
+## Geografia del Capitolo
+
+### Luoghi Attraversati
+- **Strada per Millbrook (da est)** — fango secco, erba alta ai bordi, nessun viaggiatore; Elara arriva da sola dopo tre giorni di cammino
+- **Collina panoramica sopra Millbrook** — punto di arresto, primo sguardo sul villaggio dall'alto
+- **Centro del villaggio** — strada principale di terra battuta, ruscello con ponticello di pietra, mulino con ruota ad acqua visibile
+- **Mercato** — 3-4 bancarelle improvvisate, piazza centrale con pozzo
+- **Traversa stretta** — vicolo laterale dove avviene la collisione comica tra Elara, Mara e Dain
+- **La Spiga e il Tino** — locanda in fondo alla strada principale, insegna in legno, tavoli di quercia, camino
+
+### Punti di Riferimento
+- Il tempio dei Tre sulla collina nord — visibile dall'ingresso del villaggio e dalla finestra della locanda
+- Il ruscello che attraversa il centro — confine naturale tra le due metà del villaggio
+- Il mulino ad acqua — centro dell'attività economica, vicino alla casa di Willem
+
+---
+
+## Cinque Scene Salienti
+
+### 1. Prima Vista di Millbrook dalla Collina (Scena 2: Prima Vista)
+**Descrizione:** Elara stanca si ferma sulla collina e vede per la prima volta Millbrook: case di pietra e legno, fumo dai camini, il mulino che gira, il tempio bianco con le tre finestre colorate che brillano nella luce pomeridiana.
+**Elementi visivi:** Vista dall'alto del villaggio in controluce dorato, Elara di spalle con lo zaino consumato, la profondità del paesaggio — campi, boschi, montagne in lontananza.
+**Potenziale per illustrazione:** ★★★★★
+
+### 2. La Collisione nella Traversa (Scena 7: La Collisione)
+**Descrizione:** Elara che scappa da Mirael viene travolta da Mara che insegue il cane, poi finisce addosso a Dain che cammina leggendo una pergamena. Caduta a catena, pergamene nel fango, Micio che osserva dall'alto con aria di superiorità felina.
+**Elementi visivi:** Tre corpi in posizioni caotiche nel vicolo stretto, pergamene sparse nel fango, il cane che abbaia, Micio seduto su una cassa con espressione distaccata.
+**Potenziale per illustrazione:** ★★★★★
+
+### 3. Micio Segue Elara (Scena 6: Mirael — area)
+**Descrizione:** Il gatto nero di Mirael — che di solito ignora tutti — scende dalla spalla della maga e segue spontaneamente Elara nel vicolo. Mirael lo chiama. Lui non si volta.
+**Elementi visivi:** Il gatto nero che cammina deliberatamente verso Elara, la sua coda dritta, Mirael sorpresa alle spalle, Elara che si accorge di essere seguita con disagio.
+**Potenziale per illustrazione:** ★★★★☆
+
+### 4. Elara alla Finestra al Tramonto (Scena 11: Il Tramonto)
+**Descrizione:** Elara sola alla finestra della locanda, il cielo che vira all'arancione. Per la prima volta in due anni, potrebbe dormire senza svegliarsi a ogni rumore. Il gruppo alle sue spalle, il villaggio fuori. Un momento di pace fragile.
+**Elementi visivi:** Silhouette di Elara alla finestra, luce del tramonto, il villaggio che si addormenta, il contrasto tra la solitudine del personaggio e la presenza del gruppo dietro di lei.
+**Potenziale per illustrazione:** ★★★★☆
+
+### 5. Bambina Mara e la Mucca Guarita (Scena 8: La Bambina)
+**Descrizione:** Mara, con la marmellata ancora sul viso, racconta come "zio Aldric" abbia guarito la mucca Stella con le mani che producevano luce visibile. La fede incrollabile di una bambina. Elara ascolta con qualcosa di strano nello sguardo.
+**Elementi visivi:** La bambina gesticolante con gli occhi spalancati, le mani che mimano la luce dorata, Elara inginocchiata ad ascoltarla, il tempio in lontananza oltre la finestra.
+**Potenziale per illustrazione:** ★★★☆☆
+
+---
+
+## Scene Consigliate per Illustrazione
+
+**Prima scelta:** Prima vista di Millbrook dalla collina (Scena 2) — Immagine iconica che introduce il setting principale della saga. La stanchezza di Elara contrasta con la bellezza del villaggio. Funziona come illustrazione di apertura del capitolo.
+
+**Seconda scelta:** La collisione nella traversa (Scena 7) — Momento comico memorabile che introduce tre personaggi simultaneamente. Alta energia visiva, immediatamente identificabile come scena di commedia.
+
+---
+
 ## Strati Narrativi — Capitolo 2
 
 ### Strato di Superficie

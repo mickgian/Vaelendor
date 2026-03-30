@@ -984,6 +984,58 @@ Poi il sonno lo prese.
 
 ---
 
+## Geografia del Capitolo
+
+### Luoghi Attraversati
+- **La Spiga e il Tino — sala da pranzo** — tavoli di quercia, odore di stufato e birra, camino centrale, bancone di Rorik sul lato
+- **La Spiga e il Tino — cucina** (off-screen) — da qui emerge Fizzle trascinato da Rorik
+- **Cortile esterno della locanda** — dove Elara esce per prendere aria; stellato, silenzioso, odore di fieno dai campi
+- **Camera al primo piano** — camera condivisa con due letti e un camino; il gruppo si sistema per la notte
+
+### Punti di Riferimento
+- Il camino della locanda — epicentro della conversazione sul fuoco, punto di calore e luce nella scena notturna
+- La finestra della sala da pranzo — attraverso cui Elara guarda il gruppo dall'esterno
+- I barili di Rorik — dove Fizzle viene scoperto (cucina/dispensa)
+
+---
+
+## Cinque Scene Salienti
+
+### 1. Rorik Trascina Fizzle dai Barili (Scena 5: Fizzle)
+**Descrizione:** L'oste emerge dalla cucina trascinando per il colletto uno gnomo con sopracciglia bruciacchiate, piedi scalzi anneriti e capelli bianchi sparati in tutte le direzioni. Fizzle annuncia serenamente di stare "analizzando la fermentazione" dei barili.
+**Elementi visivi:** La mole di Rorik che contrasta con la miniatura di Fizzle, l'espressione furiosa dell'oste contro quella completamente serena dello gnomo, le monete d'argento che tintinnano sul bancone.
+**Potenziale per illustrazione:** ★★★★★
+
+### 2. Il Display delle Pozioni (Scena 9: Pozioni e Pericoli)
+**Descrizione:** Fizzle allinea sul tavolo le sue fiale: arancione incandescente, verde acido torbido, blu etichetta mancante, e la fiala viola che pulsa di luce propria — "c'è qualcosa dentro che non ho messo io."
+**Elementi visivi:** Le quattro fiale sul tavolo di legno scuro, la luce viola che illumina i volti del gruppo dall'interno, le espressioni che vanno dalla curiosità al terrore.
+**Potenziale per illustrazione:** ★★★★★
+
+### 3. Micio e Fizzle Si Fissano (Scena 7: Il Gatto e lo Gnomo)
+**Descrizione:** Micio salta giù dal tavolo e si avvicina a Fizzle con lo stesso comportamento anomalo che aveva usato con Elara. I due si fissano a lungo — il gatto nero con gli occhi dorati, lo gnomo con l'espressione di chi sta analizzando qualcosa. "Piccolo non-gatto," dice infine Fizzle.
+**Elementi visivi:** Il gatto e lo gnomo a occhi negli occhi, lo stesso livello di altezza, il tavolo della cena sullo sfondo, gli altri che osservano in silenzio.
+**Potenziale per illustrazione:** ★★★★☆
+
+### 4. Dain e Fizzle al Camino — Sul Fuoco (Scena 10: Il Fuoco)
+**Descrizione:** Dain chiede di dimostrare l'immunità al fuoco. Fizzle passa lentamente la mano attraverso la fiamma di una candela. Niente. Nessuna scottatura. Il volto di Fizzle si fa serio per la prima volta — "non mi brucia da quando avevo sette anni."
+**Elementi visivi:** La fiamma della candela, la mano dello gnomo che la attraversa senza danno, la luce arancione che illumina i due volti, la serietà improvvisa di un personaggio altrimenti caotico.
+**Potenziale per illustrazione:** ★★★★☆
+
+### 5. La Camera Condivisa — Prima del Sonno (Scena 13: Prima del Sonno)
+**Descrizione:** Il gruppo si sistema nella stanza al piano di sopra: Zorgar e Sylas per terra, Dain e Mirael sui letti, Elara sul letto più lontano dalla porta, Fizzle arrotolato sul pavimento vicino al camino come se fosse la cosa più naturale del mondo.
+**Elementi visivi:** Sette persone nello stesso spazio, ognuna nel suo angolo, la luce del fuoco che proietta ombre danzanti, Micio seduto sul davanzale che guarda fuori.
+**Potenziale per illustrazione:** ★★★☆☆
+
+---
+
+## Scene Consigliate per Illustrazione
+
+**Prima scelta:** Il display delle pozioni — la fiala viola pulsante (Scena 9) — Visivamente unica e memorabile. La luce viola che illumina i volti crea un'atmosfera perfetta tra meraviglia e inquietudine. Anticipa sviluppi futuri senza spoilerare.
+
+**Seconda scelta:** Rorik che trascina Fizzle dai barili (Scena 5) — Momento comico iconico e introduttivo. Alto contrasto fisico, immediato nella sua comicità. Caratterizza Fizzle in un'unica immagine.
+
+---
+
 ## Strati Narrativi — Capitolo 3
 
 ### Strato di Superficie

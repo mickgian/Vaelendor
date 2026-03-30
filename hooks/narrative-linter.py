@@ -39,7 +39,7 @@ def extract_book_key(filepath):
 
 def get_narrative_text(content):
     """Extract only narrative text, excluding analysis sections."""
-    markers = ["## Strati Narrativi", "## Elementi a Doppio Strato", "## Momenti Chiave"]
+    markers = ["## Fine Capitolo", "## Strati Narrativi", "## Elementi a Doppio Strato", "## Momenti Chiave", "## Geografia del Capitolo", "## Cinque Scene Salienti", "## Note sulla Versione"]
     for marker in markers:
         idx = content.find(marker)
         if idx != -1:

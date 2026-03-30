@@ -687,6 +687,61 @@ E Aldric ebbe la strana sensazione che la sua vita stesse per cambiare.
 
 ---
 
+## Geografia del Capitolo
+
+### Luoghi Attraversati
+- **Tempio di Millbrook — alloggio** — stanza semplice, letto duro, finestra verso est, vaso di margherite sul davanzale
+- **Tempio — corridoi e cappella** — pareti imbiancate di fresco, statua dei Tre, tre finestre colorate; al mattino la luce crea macchie rosse/blu/dorate sul pavimento
+- **Tempio — infermeria** — due letti, armadio con erbe e bende, odore di lavanda; il messaggero viene curato qui
+- **Tempio — cortile interno** — dove Aldwyn aspetta con i guanti già indossati, pronti a partire
+- **Fucina di Garrett** — cuore artigianale del villaggio, incudine, martello fermo; al centro di Millbrook
+- **Casa di Willem** — accanto al mulino, piccola e ordinata, soffitto con fasci di erbe appesi, scaffali di vasi e fiale
+- **La Spiga e il Tino** — ultima scena; Aldric entra per provviste, vede il party per la prima volta
+
+### Punti di Riferimento
+- Thornwick — mezza giornata a nord; la minaccia che orienta tutto il capitolo
+- Il tempio sulla collina nord — punto di partenza e ritorno per Aldric
+- Il mulino — riferimento geografico del villaggio, vicino a Willem
+
+---
+
+## Cinque Scene Salienti
+
+### 1. La Guarigione del Messaggero (Scena 3: Il Messaggero)
+**Descrizione:** Aldric si inginocchia davanti al ragazzo di 14 anni seduto sul letto, le ginocchia strette al petto, le labbra che si muovono in silenzio: "…bruciavano… bruciavano tutti…". La luce dei Tre scorre attraverso Aldric e le ferite sui piedi iniziano a chiudersi lentamente.
+**Elementi visivi:** La luce dorata visibile sulle mani di Aldric, i piedi del ragazzo che si rimarginano, Padre Edmun in piedi sullo sfondo con gli occhi tristi, il viso terrorizzato del messaggero che si distende lentamente.
+**Potenziale per illustrazione:** ★★★★★
+
+### 2. Micio che Fissa Aldric (Scena 8: La Taverna)
+**Descrizione:** Aldric nota il party nell'angolo e incontra lo sguardo del gatto nero sul tavolo. Un'intensità non animale — troppo consapevole, troppo valutativa. Aldric non distoglie lo sguardo per primo. È il gatto a farlo.
+**Elementi visivi:** Il primo piano degli occhi dorati di Micio, Aldric sullo sfondo al bancone con espressione sorpresa, il contrasto tra l'atmosfera caotica della locanda e l'immobilità assoluta del gatto.
+**Potenziale per illustrazione:** ★★★★★
+
+### 3. Aldric Prepara il Kit da Guaritore (Scena 7: Le Provviste)
+**Descrizione:** Nell'infermeria silenziosa, Aldric organizza con precisione militare garze, unguenti, aghi, erbe. Ogni oggetto al posto che può trovare al buio, nel caos, quando il sangue scorre. Il Triquetra d'argento gli pende dal collo mentre lavora.
+**Elementi visivi:** Le mani di Aldric che dispongono con cura gli strumenti, la luce filtrata della finestra, la borsa da guaritore aperta sul tavolo, l'ordine assoluto contrapposto al disordine che lo aspetta a Thornwick.
+**Potenziale per illustrazione:** ★★★★☆
+
+### 4. La Cappella con Padre Edmun (Scena 4: La Cappella)
+**Descrizione:** Aldric trova il vecchio sacerdote inginocchiato davanti all'altare. La luce mattutina attraversa le tre finestre colorate e proietta macchie rosse, blu e dorate sul pavimento di pietra. Edmun dice qualcosa che Aldric non dimenticherà su Vera: "quella ragazza ha qualcosa di strano."
+**Elementi visivi:** Il vecchio sacerdote di spalle all'altare, la luce colorata sul pavimento, Aldric sulla soglia, l'atmosfera di quiete religiosa che contrasta con le notizie di Thornwick.
+**Potenziale per illustrazione:** ★★★☆☆
+
+### 5. Il Primo Avvistamento del Party (Scena 8: La Taverna)
+**Descrizione:** Aldric al bancone vede nell'angolo sette persone improbabili: il mezz'orco enorme, il nano pensieroso, l'uomo dai capelli scuri, la donna con l'arco, la maga col quaderno, lo gnomo che lecca il bordo del boccale — e il gatto che lo fissa.
+**Elementi visivi:** La prospettiva di Aldric che inquadra il tavolo nell'angolo, il gruppo come un insieme strano e improbabile, la locanda piena di gente intorno a loro, il gatto come dettaglio perturbante al centro.
+**Potenziale per illustrazione:** ★★★★☆
+
+---
+
+## Scene Consigliate per Illustrazione
+
+**Prima scelta:** La guarigione del messaggero (Scena 3) — La magia divina in azione, visivamente potente e narrativamente centrale. Il ragazzo traumatizzato e la luce che guarisce è un'immagine che funziona su più livelli emotivi.
+
+**Seconda scelta:** Micio che fissa Aldric (Scena 8) — Inquietante e misterioso. Il gatto come personaggio che "vede" qualcosa negli altri — un'immagine che si ripete nei capitoli precedenti ma qui ha un peso diverso perché è Aldric a venire valutato.
+
+---
+
 ## Strati Narrativi — Capitolo 4
 
 ### Strato di Superficie
