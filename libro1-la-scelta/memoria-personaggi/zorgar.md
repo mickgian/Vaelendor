@@ -1,12 +1,14 @@
 # Memoria di Zorgar — Libro 1
 
-**Aggiornato al:** Capitolo 2
+**Aggiornato al:** Capitolo 3
 
 ## Cosa SA
 - Cap 1: Il funerale è stato officiato con rispetto genuino
 - Cap 1: Aldric è un sacerdote della Chiesa dei Tre — genuinamente devoto
 - Cap 1: Millbrook è un villaggio tranquillo, la gente è normale
 - Cap 2: Elara e Mirael si sono unite informalmente al gruppo alla locanda
+- Cap 3: Fizzle si è unito al tavolo grazie a Mirael — trovato da Rorik a leccare i barili
+- Cap 3: Fizzle dichiara che il fuoco non lo brucia — risponde con onestà diretta alle sue domande
 
 ## Cosa SOSPETTA
 - Niente di specifico — è in fase di elaborazione del lutto, non in modalità valutativa
@@ -25,9 +27,11 @@
 | Aldric | Rispetto immediato | "Mi fido di lui" — raro per Zorgar con uno sconosciuto |
 | Elara | Neutro-protettivo | L'ha difesa da Mirael senza pensarci |
 | Mirael | Ironico ma bonario | "Osserva meno. Bevi di più." |
+| Fizzle | Rispetto pragmatico | L'onestà di Fizzle ("mi piace, è onesto") vale quanto la fiducia da battaglia |
 
 ## Stato Fisico/Emotivo
 - In lutto attivo — elabora in silenzio, non mostra vulnerabilità in pubblico
 - Il bambino ("metà cattivo e metà buono") lo ha fatto sorridere — momento raro
+- La birra al quinto boccale "ha il sapore giusto" — il lutto si sta allentando
 - Non ha ancora un piano; vuole restare a Millbrook ancora un po'
 - Il gesto della mano sul cuore al funerale è un rito antico (origini mezz'orche, non spiegato)

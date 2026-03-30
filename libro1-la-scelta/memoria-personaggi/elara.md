@@ -1,6 +1,6 @@
 # Memoria di Elara — Libro 1
 
-**Aggiornato al:** Capitolo 2
+**Aggiornato al:** Capitolo 3
 
 ## Cosa SA
 - Cap 2: Millbrook è un villaggio tranquillo — né accogliente né ostile, realistico
@@ -12,6 +12,8 @@
 - Cap 2: Dain viaggia da 20 anni cercando qualcosa (non ha specificato cosa)
 - Cap 2: Sylas si chiama solo Sylas — nessun cognome (stesso schema di Elara)
 - Cap 2: La locanda si chiama "La Spiga e il Tino", gestita da Rorik
+- Cap 3: Fizzle è uno gnomo alchimista che si è unito al gruppo — cacciato da Wimblebrook, cognome perso
+- Cap 3: Fizzle porta pozioni pericolose inclusa una viola pulsante di formula ignota
 
 ## Cosa SOSPETTA
 - Cap 2: Micio la osserva in modo sbagliato — "troppo intelligente, troppo consapevole"
@@ -34,9 +36,12 @@
 | Sylas | Riconoscimento implicito | Stesse abitudini di fuga — nessuna parola necessaria |
 | Zorgar | Neutro-positivo | L'ha difesa da Mirael — gesto spontaneo |
 | Aldric | Conosciuto solo per nome | "Zio Aldric" secondo Mara — genuinamente buono |
+| Fizzle | Osservazione distante | Non ha parlato con lui — lo ha guardato solo dalla finestra |
 
 ## Stato Fisico/Emotivo
 - Stanca: tre giorni di cammino, scarpe con suola sinistra che si stacca, cinghia zaino consumata
 - 2 anni in fuga — non sa da cosa, sa dove non può restare
 - Leggermente rilassata per la prima volta: "un posto dove dormire senza svegliarsi a ogni rumore"
 - Ha detto "forse" all'invito di Dain per il tempietto — la risposta più onesta che poteva dare
+- È uscita per prendere aria — non fuga, ma sovraccarico di persone e voci
+- Ha osservato il gruppo dalla finestra: "Non sono sola stanotte" — primo accenno di rilassamento

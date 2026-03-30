@@ -1,6 +1,6 @@
 # Memoria di Mirael — Libro 1
 
-**Aggiornato al:** Capitolo 2
+**Aggiornato al:** Capitolo 3
 
 ## Cosa SA
 - Cap 2: Elara viaggia da 2 anni sola, senza cognome — postura difensiva, risposte corte, mani vicino a un'arma
@@ -11,11 +11,16 @@
 - Cap 2: Sylas si chiama solo Sylas — abitudini di chi non vuole essere trovato
 - Cap 2: La locanda si chiama "La Spiga e il Tino", gestita da Rorik
 - Cap 2: La birra è "onesta" secondo Dain — sistema di valutazione interessante da approfondire
+- Cap 3: Fizzle è uno gnomo alchimista con comprensione non convenzionale ma empiricamente fondata della chimica
+- Cap 3: Fizzle afferma di "sentire" che Micio non è un gatto — senza spiegazione razionale
+- Cap 3: Micio si è avvicinato spontaneamente a Fizzle (prima volta che lo fa con qualcuno, eccetto Elara)
+- Cap 3: Fizzle è immune al fuoco da 83 anni (da quando aveva 7 anni)
 
 ## Cosa SOSPETTA
 - Cap 2: Elara ha "peculiarità percettive" — Micio lo ha rilevato, Mirael non sa ancora come interpretarlo
 - Cap 2: L'incontro in traversa era "statisticamente improbabile" — coincidenza o qualcosa d'altro?
 - Cap 2: Dain cerca qualcosa di specifico, non solo storia accademica
+- Cap 3: Come fa Fizzle a "sentire" cosa non è Micio? Non è magia, è qualcosa di diverso
 
 ## Cosa NON SA
 - Cosa sia esattamente Micio ("Davvero non lo so")
@@ -31,9 +36,11 @@
 | Zorgar | Accetta la critica bonaria | Ha bevuto dopo il "Osserva meno. Bevi di più." |
 | Sylas | Osservazione | Pochi dati disponibili — anomalia da studiare |
 | Aldric | Conosciuto solo per nome | Menzionato da Mara — da includere nelle osservazioni |
+| Fizzle | Fascino scientifico intenso | "Finalmente qualcuno che fa le domande giuste!" — è lei a invitarlo al tavolo |
 
 ## Stato Fisico/Emotivo
 - Energica, curiosa, in continua presa di appunti
 - Mantello al contrario (non se ne è accorta o non le importa)
 - Quaderno pieno di note sul gruppo — li ha categorizzati in 20 minuti
 - Genuinamente incerta su Micio per la prima volta ("Davvero non lo so") — momento raro di umiltà
+- Sta riempiendo il quaderno a velocità sostenuta: 4 pagine su Zorgar, 3 su Sylas, 2.5 su Dain, più Fizzle e le pozioni
