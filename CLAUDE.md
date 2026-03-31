@@ -188,14 +188,18 @@ In caso di dubbio, **chiedere all'utente**.
 
 ### Flusso completo di lavoro su un capitolo:
 ```
-[1] INIZIO LAVORO → pre-edit.sh        (carica contesto)
+[1] INIZIO LAVORO → pre-edit.sh           (carica contesto)
 [2] SCRITTURA/MODIFICA del capitolo
-[3] SALVATAGGIO → narrative-linter.py   (verifica testo)
-[4] SE OK → tracker-validator.py        (verifica coerenza con tracker)
-[5] SE OK → checkpoint-generator.py     (aggiorna checkpoint)
-[6] INFINE → memoria-updater.py         (aggiorna memorie personaggi)
-[7] POST-EDIT → post-edit.sh            (verifica che tutto sia aggiornato)
-[8] FINE ✅
+[3] SALVATAGGIO → narrative-linter.py     (encoding, termini proibiti, nomi, lunghezza)
+[4] SE OK → worldbuilding-validator.py    (capacità personaggi, luoghi, tono Chiesa)
+[5] SE OK → tracker-validator.py          (morti, regole mondo, rivelazioni, foreshadowing)
+[6] SE OK → checkpoint-generator.py       (aggiorna checkpoint)
+[7] INFINE → memoria-updater.py           (aggiorna memorie personaggi)
+[8] POST-EDIT → post-edit.sh              (verifica che tutto sia aggiornato)
+[9] FINE ✅
+
+[OPZIONALE] python hooks/personaggi-secondari-checker.py <libro-dir>
+            (verifica a livello libro che i personaggi secondari siano menzionati)
 ```
 
 ### Comandi hook:
@@ -203,10 +207,12 @@ In caso di dubbio, **chiedere all'utente**.
 |---|---|
 | Pre-edit | `./hooks/pre-edit.sh <libro> <capitolo>` |
 | Linter | `python hooks/narrative-linter.py <file>` |
+| Worldbuilding | `python hooks/worldbuilding-validator.py <file>` |
 | Validator | `python hooks/tracker-validator.py <file>` |
 | Checkpoint | `python hooks/checkpoint-generator.py <file>` |
 | Memorie | `python hooks/memoria-updater.py <file>` |
 | Post-edit | `./hooks/post-edit.sh <libro> <capitolo>` |
 | Revisione | `python hooks/review-report.py <file>` |
+| Personaggi secondari | `python hooks/personaggi-secondari-checker.py <libro-dir>` |
 
 Per i dettagli su ogni hook, vedere i file nella directory `hooks/`.

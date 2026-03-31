@@ -1,0 +1,189 @@
+{
+  "libro1": {
+    "titolo": "La Scelta",
+    "personaggi": [
+      {"nome": "Maren",          "varianti": ["Maren"],                        "ruolo": "Antagonista — dà la missione, invia ordini"},
+      {"nome": "Tomàs",          "varianti": ["Tomàs", "Tomas"],               "ruolo": "Figura paterna di Vera — scena emotiva"},
+      {"nome": "Fratello Soren", "varianti": ["Soren"],                        "ruolo": "Rifugio al monastero, guida"},
+      {"nome": "Araldo Theron",  "varianti": ["Theron"],                       "ruolo": "Purificatore che insegue"},
+      {"nome": "Elric Vane",     "varianti": ["Elric"],                        "ruolo": "Con Maren"},
+      {"nome": "Vrek",           "varianti": ["Vrek"],                         "ruolo": "Cacciatore sulle tracce"},
+      {"nome": "Fenwick",        "varianti": ["Fenwick"],                      "ruolo": "Trasporto"},
+      {"nome": "Mira Valen",     "varianti": ["Mira Valen", "Sorella Mira"],   "ruolo": "Menzionata (background Aldric)"},
+      {"nome": "Pyraxis",        "varianti": ["Pyraxis"],                      "ruolo": "Avvistato come fenice nelle leggende"}
+    ]
+  },
+  "libro2": {
+    "titolo": "I Sussurri della Montagna",
+    "personaggi": [
+      {"nome": "Thyra",               "varianti": ["Thyra"],                      "ruolo": "Guida alla valle nascosta"},
+      {"nome": "Torvak Bronzehammer", "varianti": ["Torvak", "Bronzehammer"],     "ruolo": "Accoglienza a Karak Tharum"},
+      {"nome": "Dalla Ironwhisper",   "varianti": ["Dalla", "Ironwhisper"],       "ruolo": "Conferma leggende con canti antichi"},
+      {"nome": "La Vecchia Nanica",   "varianti": ["Vecchia Nanica"],             "ruolo": "Riconosce il marchio di Zorgar"},
+      {"nome": "Nonna Sage",          "varianti": ["Sage"],                       "ruolo": "Rifugio breve"},
+      {"nome": "Velanna",             "varianti": ["Velanna"],                    "ruolo": "Comparsa misteriosa — indica la strada"},
+      {"nome": "Araldo Theron",       "varianti": ["Theron"],                     "ruolo": "Inseguimento"},
+      {"nome": "Vrek",                "varianti": ["Vrek"],                       "ruolo": "Inseguimento"},
+      {"nome": "Ser Marcus",          "varianti": ["Marcus"],                     "ruolo": "Inseguimento del party"}
+    ]
+  },
+  "libro3": {
+    "titolo": "Il Conclave delle Ombre",
+    "personaggi": [
+      {"nome": "Seris Valdris",   "varianti": ["Seris", "Tessitrice"],           "ruolo": "Leader del Conclave"},
+      {"nome": "Rhen",            "varianti": ["Rhen"],                          "ruolo": "Guida al Conclave, mentore"},
+      {"nome": "Meren Thorne",    "varianti": ["Meren"],                         "ruolo": "Logistica"},
+      {"nome": "Corvus",          "varianti": ["Corvus"],                        "ruolo": "Sicurezza, evacuazione"},
+      {"nome": "Talia Quickfoot", "varianti": ["Talia", "Quickfoot"],            "ruolo": "Accoglienza"},
+      {"nome": "Il Vecchio Brennan", "varianti": ["Vecchio Brennan"],            "ruolo": "Archivio, documenti"},
+      {"nome": "Thorn",           "varianti": ["Thorn"],                         "ruolo": "Prima apparizione — spiega la magia vera"},
+      {"nome": "Maren",           "varianti": ["Maren"],                         "ruolo": "Cattura Dain"},
+      {"nome": "Sorella Cruel",   "varianti": ["Cruel", "Malica"],               "ruolo": "Tortura Dain (implicata)"},
+      {"nome": "Fizzwick",        "varianti": ["Fizzwick"],                      "ruolo": "Informazioni casuali utili"},
+      {"nome": "Pippin Merryweather", "varianti": ["Pippin"],                    "ruolo": "Rifugio nelle Contee"},
+      {"nome": "Ser Marcus",      "varianti": ["Marcus"],                        "ruolo": "Inseguimento del party"}
+    ]
+  },
+  "libro4": {
+    "titolo": "Il Sabotatore",
+    "personaggi": [
+      {"nome": "Corvus",              "varianti": ["Corvus"],                     "ruolo": "Guida il salvataggio di Dain"},
+      {"nome": "Thorn",               "varianti": ["Thorn"],                      "ruolo": "Comandante dell'operazione"},
+      {"nome": "Meren Thorne",        "varianti": ["Meren"],                      "ruolo": "Rifugi e logistica"},
+      {"nome": "Pyraxis",             "varianti": ["Pyraxis"],                    "ruolo": "Prima apparizione diretta — guida il party"},
+      {"nome": "Il Vecchio Brennan",  "varianti": ["Vecchio Brennan"],            "ruolo": "Documenti sul Massacro di Valdris"},
+      {"nome": "Fratello Soren",      "varianti": ["Soren"],                      "ruolo": "Ritorno — informazioni dai morti"},
+      {"nome": "Vrek",                "varianti": ["Vrek"],                       "ruolo": "Cambia lato"},
+      {"nome": "I Tre Giustizieri",   "varianti": ["Giustizieri", "Kael", "Brennus", "Selene"], "ruolo": "Prima apparizione"},
+      {"nome": "Lady Mirella",        "varianti": ["Mirella"],                    "ruolo": "Vende informazioni sulla posizione di Dain"}
+    ]
+  },
+  "libro5": {
+    "titolo": "Aethermor",
+    "personaggi": [
+      {"nome": "Thyra",             "varianti": ["Thyra"],                        "ruolo": "Testimone antica"},
+      {"nome": "Velanna",           "varianti": ["Velanna"],                      "ruolo": "Guida attraverso vie impossibili"},
+      {"nome": "L'Eremita",         "varianti": ["Eremita"],                      "ruolo": "Avvertimenti sul prezzo del rituale"},
+      {"nome": "Archon Threnys",    "varianti": ["Threnys", "Archon"],            "ruolo": "Mostra il Patto originale"},
+      {"nome": "I Figli dei Draghi","varianti": ["Figli dei Draghi"],             "ruolo": "Convergono su Aethermor — il cielo si riempie"},
+      {"nome": "Yenna",             "varianti": ["Yenna"],                        "ruolo": "Cura i traumatizzati dopo il sacrificio"},
+      {"nome": "Fizzwick",          "varianti": ["Fizzwick"],                     "ruolo": "Mappe di Aethermor pre-Tradimento"},
+      {"nome": "Isadora Velmorn",   "varianti": ["Isadora", "Velmorn"],           "ruolo": "Copertura politica dopo Aethermor"},
+      {"nome": "I Tre Giustizieri", "varianti": ["Giustizieri", "Kael", "Brennus", "Selene"], "ruolo": "Inseguono il party"},
+      {"nome": "Serafina Corvath",  "varianti": ["Serafina"],                     "ruolo": "I suoi appunti vengono cercati"}
+    ]
+  },
+  "libro6": {
+    "titolo": "Il Risveglio del Fuoco",
+    "personaggi": [
+      {"nome": "Torvak Bronzehammer","varianti": ["Torvak", "Bronzehammer"],     "ruolo": "Difende la Forgia Nera, forgia l'arma"},
+      {"nome": "Dalla Ironwhisper",  "varianti": ["Dalla", "Ironwhisper"],       "ruolo": "Canta la canzone che calma Vaelthrix"},
+      {"nome": "Thrain Coalvein",    "varianti": ["Thrain", "Coalvein"],         "ruolo": "Muore difendendo la Forgia"},
+      {"nome": "Pyraxis",            "varianti": ["Pyraxis"],                    "ruolo": "Aiuta Dain a parlare con Vaelthrix"},
+      {"nome": "Thorn",              "varianti": ["Thorn"],                      "ruolo": "Comanda le forze a Kharveth"},
+      {"nome": "Ser Marcus",         "varianti": ["Marcus"],                     "ruolo": "Presente — inizia a dubitare"},
+      {"nome": "Borin Deepdelve",    "varianti": ["Borin", "Deepdelve"],         "ruolo": "Difesa politica di Kharveth"},
+      {"nome": "Jora",               "varianti": ["Jora"],                       "ruolo": "Suo figlio (Templare) muore a Kharveth"},
+      {"nome": "I Tre Giustizieri",  "varianti": ["Giustizieri", "Kael", "Brennus", "Selene"], "ruolo": "Sconfitti a Kharveth"}
+    ]
+  },
+  "libro7": {
+    "titolo": "La Madre delle Catene",
+    "personaggi": [
+      {"nome": "Mira Valen",           "varianti": ["Mira Valen", "Sorella Mira"],  "ruolo": "Nasconde il party, fornisce mappe"},
+      {"nome": "Cassian Dreth",        "varianti": ["Cassian", "Dreth"],            "ruolo": "Chiave per i passaggi segreti"},
+      {"nome": "Elric Vane",           "varianti": ["Elric"],                       "ruolo": "Aiuta a fuggire — crisi"},
+      {"nome": "Corvus",               "varianti": ["Corvus"],                      "ruolo": "Ruolo chiave nel salvataggio"},
+      {"nome": "Serafina Corvath",     "varianti": ["Serafina"],                    "ruolo": "Apre la biblioteca segreta"},
+      {"nome": "Sorella Cruel",        "varianti": ["Cruel", "Malica"],             "ruolo": "Scontro con Vasha"},
+      {"nome": "Maren",                "varianti": ["Maren"],                       "ruolo": "Difesa di Aldheim"},
+      {"nome": "Arcivescovo Crane",    "varianti": ["Arcivescovo", "Valdric Crane"],"ruolo": "Antagonista principale — avatar di Morrhain"},
+      {"nome": "Anya Thorne",          "varianti": ["Anya Thorne", "Sorella Anya"], "ruolo": "Libera i prigionieri"},
+      {"nome": "Vrek",                 "varianti": ["Vrek"],                        "ruolo": "Conosce Aldheim — aiuta"},
+      {"nome": "Il Fratello Anonimo",  "varianti": ["Fratello Anonimo"],            "ruolo": "Riappare — aiuta"},
+      {"nome": "Isadora Velmorn",      "varianti": ["Isadora"],                     "ruolo": "Distrazione politica"},
+      {"nome": "Vareth Aldric",        "varianti": ["Vareth"],                      "ruolo": "Distrazione politica"},
+      {"nome": "Fenwick",              "varianti": ["Fenwick"],                     "ruolo": "Trasporto armi verso Aldheim"}
+    ]
+  },
+  "libro8": {
+    "titolo": "La Memoria del Ghiaccio",
+    "personaggi": [
+      {"nome": "Aelindra Moonveil",  "varianti": ["Aelindra", "Moonveil"],       "ruolo": "Guida il party nel nord"},
+      {"nome": "Orin Frostwhisper",  "varianti": ["Orin", "Frostwhisper"],       "ruolo": "Sacerdote di Mortis — protezione"},
+      {"nome": "Echi di Ithrendal",  "varianti": ["Echi", "Echoes"],             "ruolo": "Mostrano la verità del Tradimento"},
+      {"nome": "Fratello Soren",     "varianti": ["Soren"],                      "ruolo": "Conferma le visioni di Ithrendal"},
+      {"nome": "Il Vecchio Brennan", "varianti": ["Vecchio Brennan"],            "ruolo": "I documenti confermano le visioni"},
+      {"nome": "Serafina Corvath",   "varianti": ["Serafina"],                   "ruolo": "I documenti confermano le visioni"},
+      {"nome": "Talia Quickfoot",    "varianti": ["Talia"],                      "ruolo": "Diffonde le visioni nelle città"},
+      {"nome": "Pippin Merryweather","varianti": ["Pippin"],                     "ruolo": "Diffonde le visioni nelle Contee"},
+      {"nome": "Ser Marcus",         "varianti": ["Marcus"],                     "ruolo": "Crisi — le visioni lo raggiungono"},
+      {"nome": "Vareth Aldric",      "varianti": ["Vareth"],                     "ruolo": "Inizia a dubitare"},
+      {"nome": "Lady Mirella",       "varianti": ["Mirella"],                    "ruolo": "Informazioni sulla situazione politica"}
+    ]
+  },
+  "libro9": {
+    "titolo": "Il Vento Spezzato",
+    "personaggi": [
+      {"nome": "Gruumak Bloodsong", "varianti": ["Gruumak", "Bloodsong"],       "ruolo": "Centrale — accoglie Zorgar come ritornato"},
+      {"nome": "Kira Windcaller",   "varianti": ["Kira", "Windcaller"],         "ruolo": "Spiega l'eredità di Zorgar, prepara al vento"},
+      {"nome": "Thrak",             "varianti": ["Thrak"],                      "ruolo": "Figlio di Gruumak — si lega a Zorgar come fratello"},
+      {"nome": "Lyris Stormborn",   "varianti": ["Lyris", "Stormborn"],         "ruolo": "Aiuta Zorgar nelle Steppe"},
+      {"nome": "Velanna",           "varianti": ["Velanna"],                    "ruolo": "Rivela il suo ruolo completo — Mano di Thyra"},
+      {"nome": "Meren Thorne",      "varianti": ["Meren"],                      "ruolo": "La sua rete nelle Steppe aiuta Zorgar"},
+      {"nome": "Yenna",             "varianti": ["Yenna"],                      "ruolo": "Presente — aiuta"}
+    ]
+  },
+  "libro10": {
+    "titolo": "L'Abisso Risponde",
+    "personaggi": [
+      {"nome": "Lady Sera Nightshade",    "varianti": ["Sera Nightshade", "Nightshade"], "ruolo": "Guida il party nell'Abisso"},
+      {"nome": "Il Custode dell'Abisso",  "varianti": ["Custode dell'Abisso"],           "ruolo": "Ostacolo — Vera lo convince"},
+      {"nome": "Tomàs",                   "varianti": ["Tomàs", "Tomas"],                "ruolo": "Vera torna — addio emotivo"},
+      {"nome": "Corvus",                  "varianti": ["Corvus"],                        "ruolo": "Rivelazione sulla sua storia"},
+      {"nome": "Araldo Theron",           "varianti": ["Theron"],                        "ruolo": "Muore affrontando le forze dell'Abisso"}
+    ]
+  },
+  "libro11": {
+    "titolo": "I Tre Che Tradirono",
+    "personaggi": [
+      {"nome": "Thorn",              "varianti": ["Thorn"],                      "ruolo": "Comandante — un fronte"},
+      {"nome": "Yenna",              "varianti": ["Yenna"],                      "ruolo": "Coordina i guaritori"},
+      {"nome": "Meren Thorne",       "varianti": ["Meren"],                      "ruolo": "Logistica della guerra"},
+      {"nome": "Gruumak Bloodsong",  "varianti": ["Gruumak"],                    "ruolo": "Guida i mezzorchi"},
+      {"nome": "Lyris Stormborn",    "varianti": ["Lyris"],                      "ruolo": "Guida la cavalleria delle Steppe"},
+      {"nome": "Borin Deepdelve",    "varianti": ["Borin"],                      "ruolo": "Schiera ufficialmente i nani"},
+      {"nome": "Vaelith Starweave",  "varianti": ["Vaelith", "Starweave"],       "ruolo": "Guida gli elfi"},
+      {"nome": "Mira Valen",         "varianti": ["Mira Valen", "Sorella Mira"], "ruolo": "Guida i sacerdoti pentiti"},
+      {"nome": "Elric Vane",         "varianti": ["Elric"],                      "ruolo": "Redenzione — combatte per il party"},
+      {"nome": "Ser Marcus",         "varianti": ["Marcus"],                     "ruolo": "Redenzione completa"},
+      {"nome": "Sera Nightshade",    "varianti": ["Sera Nightshade", "Nightshade"], "ruolo": "Fronte contro Vethran"},
+      {"nome": "Corvus",             "varianti": ["Corvus"],                     "ruolo": "Muore eroicamente"},
+      {"nome": "Cassian Dreth",      "varianti": ["Cassian"],                    "ruolo": "Cambia lato all'ultimo momento"},
+      {"nome": "Vareth Aldric",      "varianti": ["Vareth"],                     "ruolo": "Assume il trono, si schiera contro i Tre"},
+      {"nome": "Isadora Velmorn",    "varianti": ["Isadora"],                    "ruolo": "Schiera le sue truppe"},
+      {"nome": "Talia Quickfoot",    "varianti": ["Talia"],                      "ruolo": "Riunita col fratello"},
+      {"nome": "Barone Vorn",        "varianti": ["Vorn"],                       "ruolo": "Si sacrifica per redimersi"},
+      {"nome": "Selene (Giustizieri)","varianti": ["Selene"],                    "ruolo": "Cambia lato quando vede la verità"},
+      {"nome": "Maren",              "varianti": ["Maren"],                      "ruolo": "Scontro finale con Rhen"},
+      {"nome": "Arcivescovo Crane",  "varianti": ["Arcivescovo", "Valdric Crane"],"ruolo": "Scontro finale — avatar di Setherak"},
+      {"nome": "Serafina Corvath",   "varianti": ["Serafina"],                   "ruolo": "Pubblica La Vera Storia"},
+      {"nome": "Il Vecchio Brennan", "varianti": ["Vecchio Brennan"],            "ruolo": "Pubblica tutto — la verità diventa pubblica"}
+    ]
+  },
+  "libro12": {
+    "titolo": "Il Nuovo Patto",
+    "personaggi": [
+      {"nome": "Archon Threnys",     "varianti": ["Threnys", "Archon"],          "ruolo": "Guida il rituale del Nuovo Patto"},
+      {"nome": "Fratello Soren",     "varianti": ["Soren"],                      "ruolo": "Rappresenta Aevar"},
+      {"nome": "Torvak Bronzehammer","varianti": ["Torvak"],                     "ruolo": "La lama impossibile — rituale"},
+      {"nome": "Velanna",            "varianti": ["Velanna"],                    "ruolo": "Tiene insieme i fili"},
+      {"nome": "Thyra",              "varianti": ["Thyra"],                      "ruolo": "Testimone antica"},
+      {"nome": "Pyraxis",            "varianti": ["Pyraxis"],                    "ruolo": "Presente"},
+      {"nome": "I Figli dei Draghi", "varianti": ["Figli dei Draghi"],           "ruolo": "Partecipano al Nuovo Patto"},
+      {"nome": "Gruumak Bloodsong",  "varianti": ["Gruumak"],                    "ruolo": "Rappresenta i mezzorchi"},
+      {"nome": "Vaelith Starweave",  "varianti": ["Vaelith"],                    "ruolo": "Voce degli elfi"},
+      {"nome": "Vareth Aldric",      "varianti": ["Vareth"],                     "ruolo": "Rappresenta l'umanità"}
+    ]
+  }
+}

@@ -1,0 +1,104 @@
+{
+    "personaggi": {
+        "capacita_vietate": [
+            {
+                "personaggio": "Mirael",
+                "termini": [
+                    "visione", "presagio", "profezia", "divinazione",
+                    "profetico", "profetica", "divinatoria", "divinatorio",
+                    "predizione", "oracolo", "scuola dell'eco"
+                ],
+                "raggio_righe": 3,
+                "severita": "errore",
+                "messaggio": "Mirael appartiene alla Scuola della Furia (evocazione/elementi, risonante con Zheraan) — NON usa divinazione, visioni, profezie o magia temporale (Scuola dell'Eco)",
+                "libro": "tutti"
+            }
+        ],
+        "ruoli_errati": [
+            {
+                "personaggio": "Tomás",
+                "pattern_errati": [
+                    "tomás guarì",
+                    "guaritore tomás",
+                    "tomás medicò",
+                    "tomás curò",
+                    "tomás fasciò",
+                    "tomás il guaritore"
+                ],
+                "severita": "errore",
+                "messaggio": "Tomás è un ex-soldato in pensione, NON un guaritore — il guaritore del villaggio è Willem"
+            }
+        ]
+    },
+
+    "luoghi": {
+        "unicita": [
+            {
+                "nome": "La Spiga e il Tino",
+                "tipo": "locanda",
+                "dove": "Millbrook",
+                "sinonimi": ["taverna", "osteria", "locanda", "albergo"],
+                "raggio_righe": 3,
+                "severita": "avviso",
+                "messaggio": "Millbrook ha una sola locanda (La Spiga e il Tino) — verificare che non si stia introducendo una seconda struttura"
+            }
+        ]
+    },
+
+    "chiesa": {
+        "libro1": {
+            "termini_negativi": [
+                "corrotta", "corruzione", "corrotto",
+                "tradisce", "tradimento", "tradita",
+                "inganno", "inganna", "ingannare",
+                "segreto oscuro", "manipolazione", "manipola",
+                "complotto", "cospirazione"
+            ],
+            "contesto_attivazione": [
+                "chiesa", "chiesa dei tre", "aldric", "padre edmun", "tempio", "sacerdote"
+            ],
+            "raggio_righe": 5,
+            "severita": "errore",
+            "messaggio": "La Chiesa dei Tre deve apparire genuinamente positiva nel Libro 1 — nessun indizio di corruzione o tradimento"
+        }
+    },
+
+    "checklist_umana": {
+        "magia": {
+            "trigger": ["magia", "incantesimo", "sortilegio", "benedizione", "energia arcana", "magia divina", "guarigione magica"],
+            "domande": [
+                "Il costo della magia divina è visibile su chi la usa (fatica, pallore)?",
+                "I personaggi della Stirpe (Elara, Vera) reagiscono correttamente — dolore nascosto, non fallimento?",
+                "Mirael usa solo evocazione, non divinazione o visioni?"
+            ]
+        },
+        "combattimento": {
+            "trigger": ["colpì", "attaccò", "combatté", "spada", "ascia", "battaglia", "scontro", "lottò"],
+            "domande": [
+                "Zorgar usa linguaggio normale (non primitivo tipo \"me colpire\")?",
+                "Le abilità di ogni personaggio sono coerenti con il loro ruolo nel party?"
+            ]
+        },
+        "viaggio": {
+            "trigger": ["camminarono", "cavalcarono", "marciarono", "giorni di cammino", "ore di viaggio", "strada per"],
+            "domande": [
+                "I tempi di viaggio sono coerenti con le distanze già stabilite nei capitoli precedenti?"
+            ]
+        },
+        "stirpe": {
+            "trigger": ["elara", "vera"],
+            "domande": [
+                "Elara non mostra abilità mistiche evidenti — le sue reazioni sono \"strane\" ma spiegabili come sensibilità personale?",
+                "Se Elara o Vera sono vicine a magia divina, percepiscono disagio/dolore nascosto (non il contrario)?"
+            ]
+        },
+        "date": {
+            "trigger": ["anno", "anni fa", "secoli fa", "generazioni fa", " AG", " AF", "ere fa"],
+            "domande": [
+                "L'anno corrente è 1.892 AG (Anno della Grazia) / 1.247 AF (Anni dalla Fondazione di Aldoria)",
+                "Il sistema di datazione usato è coerente con la cultura del POV? (umani/Chiesa = AG, nani = Regni/Forgie, elfi = Ere e Cicli)",
+                "Gli eventi storici citati sono coerenti con la cronologia in worldbuilding/storia-cronologia.md?"
+            ]
+        }
+    }
+}
