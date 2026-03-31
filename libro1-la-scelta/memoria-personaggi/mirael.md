@@ -1,6 +1,6 @@
 # Memoria di Mirael — Libro 1
 
-**Aggiornato al:** Capitolo 3
+**Aggiornato al:** Capitolo 7
 
 ## Cosa SA
 - Cap 2: Elara viaggia da 2 anni sola, senza cognome — postura difensiva, risposte corte, mani vicino a un'arma
@@ -10,37 +10,43 @@
 - Cap 2: Dain viaggia da 20 anni cercando qualcosa nelle migrazioni naniche antiche
 - Cap 2: Sylas si chiama solo Sylas — abitudini di chi non vuole essere trovato
 - Cap 2: La locanda si chiama "La Spiga e il Tino", gestita da Rorik
-- Cap 2: La birra è "onesta" secondo Dain — sistema di valutazione interessante da approfondire
-- Cap 3: Fizzle è uno gnomo alchimista con comprensione non convenzionale ma empiricamente fondata della chimica
+- Cap 3: Fizzle è uno gnomo alchimista con comprensione empiricamente fondata della chimica
 - Cap 3: Fizzle afferma di "sentire" che Micio non è un gatto — senza spiegazione razionale
 - Cap 3: Micio si è avvicinato spontaneamente a Fizzle (prima volta che lo fa con qualcuno, eccetto Elara)
-- Cap 3: Fizzle è immune al fuoco da 83 anni (da quando aveva 7 anni)
+- Cap 3: Fizzle è immune al fuoco da 83 anni (da quando aveva 7 anni) — ha 17 pagine di note a riguardo
+- Cap 5-6: Thornwick devastata — Micio ha confortato i bambini sopravvissuti (comportamento anomalo utile)
+- Cap 6: Il Sabotatore — ex cavaliere della Chiesa, damnatio memoriae. I Rinnegati.
+- Cap 6: Aldric ha menzionato Vera (sulla collina con Tomás) e il Sanatorio della Pace
+- Cap 7: Sylas e Elara sono usciti insieme la sera — dato annotato
 
 ## Cosa SOSPETTA
 - Cap 2: Elara ha "peculiarità percettive" — Micio lo ha rilevato, Mirael non sa ancora come interpretarlo
-- Cap 2: L'incontro in traversa era "statisticamente improbabile" — coincidenza o qualcosa d'altro?
+- Cap 2: L'incontro era "statisticamente improbabile" — coincidenza o qualcosa d'altro?
 - Cap 2: Dain cerca qualcosa di specifico, non solo storia accademica
-- Cap 3: Come fa Fizzle a "sentire" cosa non è Micio? Non è magia, è qualcosa di diverso
+- Cap 3: Come fa Fizzle a "sentire" cosa non è Micio? Non è magia standard
+- Cap 6: Micio si è comportato in modo intenzionale con i bambini di Thornwick — sta comunicando qualcosa
+- Cap 7: L'uscita notturna di Sylas e Elara non è casuale — dato rilevante per il quaderno
 
-## Cosa NON SA
+## Cosa NON Sa
 - Cosa sia esattamente Micio ("Davvero non lo so")
 - Il passato di nessuno dei cinque
 - Chi fosse il defunto del funerale
 - Perché Micio ha seguito Elara
+- Cosa contenesse la cassa sottratta dalla cripta di Thornwick
+- Che Sylas e Elara hanno incontrato Vera di nascosto
 
 ## Relazioni
 | Personaggio | Stato | Nota |
 |---|---|---|
-| Elara | Studio attivo + rispetto crescente | Soggetto di ricerca che si sottrae — questo la rende più interessante |
-| Dain | Curiosità metodologica | La birra come indicatore sociale: "Devo approfondire" |
+| Elara | Studio attivo + rispetto crescente | Soggetto di ricerca che si sottrae — diventa più interessante ad ogni capitolo |
+| Dain | Curiosità metodologica | Conversazioni sempre più profonde — dati in comune |
 | Zorgar | Accetta la critica bonaria | Ha bevuto dopo il "Osserva meno. Bevi di più." |
-| Sylas | Osservazione | Pochi dati disponibili — anomalia da studiare |
-| Aldric | Conosciuto solo per nome | Menzionato da Mara — da includere nelle osservazioni |
-| Fizzle | Fascino scientifico intenso | "Finalmente qualcuno che fa le domande giuste!" — è lei a invitarlo al tavolo |
+| Sylas | Osservazione | Pochi dati disponibili — anomalia da studiare (uscita notturna aggiunge dati) |
+| Aldric | Rispetto osservativo | Ha guarito ~20 persone fino all'esaurimento — dedizione degna di nota |
+| Fizzle | Fascino scientifico intenso | 17 pagine e crescono — le pozioni di Thornwick hanno aggiunto materiale |
 
 ## Stato Fisico/Emotivo
 - Energica, curiosa, in continua presa di appunti
-- Mantello al contrario (non se ne è accorta o non le importa)
-- Quaderno pieno di note sul gruppo — li ha categorizzati in 20 minuti
-- Genuinamente incerta su Micio per la prima volta ("Davvero non lo so") — momento raro di umiltà
-- Sta riempiendo il quaderno a velocità sostenuta: 4 pagine su Zorgar, 3 su Sylas, 2.5 su Dain, più Fizzle e le pozioni
+- Thornwick l'ha colpita — primo capitolo in cui il quaderno è rimasto chiuso per un po'
+- Il quaderno cresce: Fizzle si avvicina alle 20 pagine; Zorgar e Sylas aggiornati
+- Micio le ha comunicato qualcosa a Thornwick — non sa ancora cosa

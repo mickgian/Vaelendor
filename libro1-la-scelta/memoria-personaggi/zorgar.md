@@ -1,6 +1,6 @@
 # Memoria di Zorgar — Libro 1
 
-**Aggiornato al:** Capitolo 3
+**Aggiornato al:** Capitolo 7
 
 ## Cosa SA
 - Cap 1: Il funerale è stato officiato con rispetto genuino
@@ -9,29 +9,35 @@
 - Cap 2: Elara e Mirael si sono unite informalmente al gruppo alla locanda
 - Cap 3: Fizzle si è unito al tavolo grazie a Mirael — trovato da Rorik a leccare i barili
 - Cap 3: Fizzle dichiara che il fuoco non lo brucia — risponde con onestà diretta alle sue domande
+- Cap 5-6: Thornwick devastata — ha scavato tombe tutto il giorno (lavoro fisico come sfogo)
+- Cap 6: Il Sabotatore — ex cavaliere della Chiesa, damnatio memoriae. I Rinnegati.
+- Cap 6: Taglia 1.000/500 corone — "per quella cifra, mezzo impero lo sta cercando"
+- Cap 6: Aldric ha menzionato Vera (sulla collina con Tomás) e il Sanatorio della Pace
+- Cap 7: Sa che Sylas e Elara sono usciti insieme la sera — non sa perché
 
 ## Cosa SOSPETTA
-- Niente di specifico — è in fase di elaborazione del lutto, non in modalità valutativa
+- Cap 6: Il lavoro di scavare tombe ha fatto riemergere qualcosa del suo passato — non elaborato, non condiviso
 
-## Cosa NON SA
+## Cosa NON Sa
 - Chi siano davvero Elara e Mirael al di là di quello che mostrano
 - Cosa cerchi Dain nelle sue ricerche storiche
 - Cosa sia Micio
-- Perché Aldric sia specificamente a Millbrook
+- Cosa contenesse la cassa sottratta dalla cripta di Thornwick
+- Che Sylas e Elara hanno incontrato Vera di nascosto
+- Il piano di Sylas per il mattino
 
 ## Relazioni
 | Personaggio | Stato | Nota |
 |---|---|---|
 | Sylas | Fiducia profonda | 2 anni insieme. Sa leggere i suoi silenzi. |
 | Dain | Fiducia profonda | 2 anni insieme. Tollera le sue leggende con affetto. |
-| Aldric | Rispetto immediato | "Mi fido di lui" — raro per Zorgar con uno sconosciuto |
-| Elara | Neutro-protettivo | L'ha difesa da Mirael senza pensarci |
+| Aldric | Rispetto solido | Lavoro condiviso a Thornwick — "lo è adesso" (la missione è diventata loro) |
+| Elara | Neutro-protettivo | L'ha difesa da Mirael senza pensarci; ha visto come lavora sul campo |
 | Mirael | Ironico ma bonario | "Osserva meno. Bevi di più." |
-| Fizzle | Rispetto pragmatico | L'onestà di Fizzle ("mi piace, è onesto") vale quanto la fiducia da battaglia |
+| Fizzle | Rispetto pragmatico | Le pozioni hanno aiutato a Thornwick — conferma pragmatica |
 
 ## Stato Fisico/Emotivo
-- In lutto attivo — elabora in silenzio, non mostra vulnerabilità in pubblico
-- Il bambino ("metà cattivo e metà buono") lo ha fatto sorridere — momento raro
-- La birra al quinto boccale "ha il sapore giusto" — il lutto si sta allentando
-- Non ha ancora un piano; vuole restare a Millbrook ancora un po'
-- Il gesto della mano sul cuore al funerale è un rito antico (origini mezz'orche, non spiegato)
+- Sogni che peggiorano — "Quanto ancora restiamo in questo buco?" — qualcosa lo consuma dall'interno
+- Ha sfogato la rabbia scavando tombe a Thornwick — sollievo temporaneo
+- Il lutto originale si mescola con qualcosa di più antico (passato, non ancora dichiarato)
+- Cap 7 sera: beve e parla con Dain alla locanda; Fizzle dorme accanto a loro

@@ -101,6 +101,27 @@ La storia d'amore centrale della saga. Due mezz'orchi spezzati in modi diversi c
 
 ---
 
+## Storia Condivisa con I Tre
+
+**Durata del legame:** 2+ anni al Capitolo 1.
+
+**Il momento fondante:** [TBD — prequel]
+Zorgar è rimasto indietro durante un lavoro andato male per permettere a Sylas di scappare. Non lo conosceva quasi. Lo ha fatto comunque. Da quel gesto è nato il gruppo.
+
+**I due anni insieme:**
+Tre persone che funzionano senza doverlo spiegare. Nessun accordo formale, nessun nome ufficiale scelto deliberatamente. Si chiamano "I Tre" perché qualcuno li ha chiamati così una volta e sembrava giusto.
+
+**Il defunto:** [TBD — prequel]
+Qualcuno che tutti e tre conoscevano. Per Zorgar il peso è più personale che per gli altri. "Non sono pronto" — lo ha detto al funerale quando credeva di essere solo. Non ha aggiunto nient'altro.
+
+**Tracce nella narrazione (indizi atmosferici):**
+- Reagisce in modo sproporzionato a tombe, riti funebri, posti dove è morta gente
+- I sogni peggiorano in certi periodi — il funerale ha riaperto qualcosa
+- Con Sylas e Dain non deve spiegare niente — loro sanno quando non parlare
+- La furia fisica in certi momenti supera quello che la situazione richiede
+
+---
+
 ## Segreto / Arco Narrativo
 
 ### Cosa non sa

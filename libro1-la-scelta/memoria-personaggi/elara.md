@@ -1,6 +1,6 @@
 # Memoria di Elara — Libro 1
 
-**Aggiornato al:** Capitolo 3
+**Aggiornato al:** Capitolo 7
 
 ## Cosa SA
 - Cap 2: Millbrook è un villaggio tranquillo — né accogliente né ostile, realistico
@@ -14,34 +14,42 @@
 - Cap 2: La locanda si chiama "La Spiga e il Tino", gestita da Rorik
 - Cap 3: Fizzle è uno gnomo alchimista che si è unito al gruppo — cacciato da Wimblebrook, cognome perso
 - Cap 3: Fizzle porta pozioni pericolose inclusa una viola pulsante di formula ignota
+- Cap 5-6: Thornwick devastata — ha perlustrato le tracce degli aggressori (verso est, 20+, cassa pesante, avevano fretta — come se scappassero)
+- Cap 6: Il Sabotatore — ex cavaliere della Chiesa, damnatio memoriae. I Rinnegati sono i suoi seguaci.
+- Cap 6: Aldric ha menzionato Vera (sulla collina con Tomás) e il Sanatorio della Pace
+- Cap 7: Il Sanatorio della Pace non è un ospedale — lo sapeva già, Sylas lo ha confermato con il racconto di Willem
+- Cap 7: La ragazza si chiama **Vera** — vive con **Tomás** (ex soldato in pensione) sulla collina NE
+- Cap 7: I templari verranno a prendere Vera domani mattina
+- Cap 7: Sylas ha 5 anni di segreti che coinvolgono la Chiesa — lo sente, non sa i dettagli
 
 ## Cosa SOSPETTA
 - Cap 2: Micio la osserva in modo sbagliato — "troppo intelligente, troppo consapevole"
 - Cap 2: Sylas ha le stesse abitudini di sicurezza sue (schiena al muro, uscite monitorate) — anche lui in fuga
 - Cap 2: Mirael sa troppe cose di lei solo guardandola — è scomoda quella precisione
-- Cap 2: "Eppure…" — quasi dubita della Chiesa, poi soffoca il pensiero
+- Cap 6-7: La Chiesa usa il Sanatorio per far sparire persone come lei — o come lei crede di essere
+- Cap 7: Aldric agisce in buona fede, ma è strumento di qualcosa che non conosce
+- Cap 7: Vera le sembra familiare in un modo che non sa spiegare — ma non l'ha ancora incontrata
 
-## Cosa NON SA
+## Cosa NON Sa
 - Chi fosse il defunto del funerale e il suo legame col gruppo
-- Il passato di nessuno dei cinque
+- Il passato degli altri membri del party
 - Cosa sia davvero Micio
 - Cosa cerchi Dain nelle "pietre antiche"
-- Che lei stessa è della Stirpe (non ne è consapevole)
+- Cosa contenesse la cassa sottratta dalla cripta di Thornwick
+- Cosa sia esattamente la Stirpe (nome, storia, origine)
+- Cosa troverà nella casa di Tomás — non ha ancora incontrato Vera
 
 ## Relazioni
 | Personaggio | Stato | Nota |
 |---|---|---|
 | Mirael | Irritazione/curiosità | Le domande sono invadenti, ma la diagnosi su di lei era accurata |
 | Dain | Prima comprensione | "Non è diventato più facile" — riconoscimento tra cercatori |
-| Sylas | Riconoscimento implicito | Stesse abitudini di fuga — nessuna parola necessaria |
+| Sylas | Fiducia che cresce | Prima missione condivisa in corso — sa che legge tutto, compresa lei |
 | Zorgar | Neutro-positivo | L'ha difesa da Mirael — gesto spontaneo |
-| Aldric | Conosciuto solo per nome | "Zio Aldric" secondo Mara — genuinamente buono |
-| Fizzle | Osservazione distante | Non ha parlato con lui — lo ha guardato solo dalla finestra |
+| Aldric | Rispetto + preoccupazione | Genuinamente buono ma forse strumento inconsapevole di qualcosa di pericoloso |
+| Fizzle | Osservazione distante | 4 giorni insieme, nessuna interazione diretta significativa |
 
 ## Stato Fisico/Emotivo
-- Stanca: tre giorni di cammino, scarpe con suola sinistra che si stacca, cinghia zaino consumata
-- 2 anni in fuga — non sa da cosa, sa dove non può restare
-- Leggermente rilassata per la prima volta: "un posto dove dormire senza svegliarsi a ogni rumore"
-- Ha detto "forse" all'invito di Dain per il tempietto — la risposta più onesta che poteva dare
-- È uscita per prendere aria — non fuga, ma sovraccarico di persone e voci
-- Ha osservato il gruppo dalla finestra: "Non sono sola stanotte" — primo accenno di rilassamento
+- L'urgenza verso Vera è viscerale, difficile da spiegare — "so cosa significa essere diversa"
+- Non ha ancora confermato nulla sulla sua vera natura — ha solo sospetti e reazioni fisiche
+- Fine Cap 7: sulla collina, aspetta il segnale di Sylas prima di salire
