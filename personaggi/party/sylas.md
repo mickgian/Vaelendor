@@ -113,6 +113,27 @@ Sylas sa che Dain nasconde qualcosa sulle sue leggende "proibite". Non ha chiest
 
 ---
 
+## Storia Condivisa con I Tre
+
+**Durata del legame:** 2+ anni al Capitolo 1.
+
+**Il momento fondante:**
+Zorgar è rimasto indietro durante un lavoro andato male per permettere a Sylas di scappare. Non lo conosceva quasi. Lo ha fatto comunque. Sylas non ha mai dimenticato. Non è il tipo di gesto che si dimentica — specialmente per qualcuno che ha costruito tutta la sua sopravvivenza sul non fidarsi di nessuno.
+
+**I due anni insieme:**
+Con Zorgar e Dain, Sylas non tiene sempre un piano di fuga *per loro*. Non lo ammetterebbe. Ma sa dove sono, si fida che restino dove li ha lasciati. Per lui è una concessione enorme.
+
+**Il defunto:** [TBD — prequel]
+Qualcuno del loro passato comune. Sylas porta il peso in modo diverso da Zorgar — interiore, non esplosivo. Controlla le uscite più del solito. Dorme ancora meno di quanto già non dorma.
+
+**Tracce nella narrazione (indizi atmosferici):**
+- Risponde "solo Sylas" quando gli chiedono il cognome — abitudine vecchia, non nata col gruppo
+- Sa quando Zorgar sta male. Lo lascia stare. Non chiede. È il suo modo di aiutare.
+- In certi posti o situazioni, controlla le vie di fuga due volte invece di una
+- Memorizza le leggende di Dain. Non lo ammette. Ma le sa.
+
+---
+
 ## Segreto / Arco Narrativo
 
 ### Cosa sa (ma non capisce)

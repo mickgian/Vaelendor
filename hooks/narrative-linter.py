@@ -216,9 +216,12 @@ def main():
     else:
         print("✅ Encoding UTF-8 valido")
 
+    # Extract narrative text (excludes analysis sections) for all content checks
+    narrative_text = get_narrative_text(content)
+
     # 2. Forbidden terms
     if book_key:
-        term_errors = check_forbidden_terms(content, book_key)
+        term_errors = check_forbidden_terms(narrative_text, book_key)
         if term_errors:
             all_errors.extend(term_errors)
             for e in term_errors:
@@ -228,7 +231,7 @@ def main():
 
     # 3. Character presence
     if chapter_num:
-        presence_issues = check_character_presence(content, chapter_num)
+        presence_issues = check_character_presence(narrative_text, chapter_num)
         for issue in presence_issues:
             if issue.startswith("❌"):
                 all_errors.append(issue)
@@ -239,7 +242,7 @@ def main():
             print("✅ Tutti i personaggi presenti")
 
     # 4. Canonical names
-    name_warnings = check_canonical_names(content)
+    name_warnings = check_canonical_names(narrative_text)
     if name_warnings:
         all_warnings.extend(name_warnings)
         for w in name_warnings:
@@ -248,7 +251,6 @@ def main():
         print("✅ Nomi canonici verificati")
 
     # 5. Word count
-    narrative_text = get_narrative_text(content)
     word_count = count_words(narrative_text)
     if word_count < 100:
         print(f"ℹ️  Capitolo non ancora scritto ({word_count} parole)")

@@ -130,6 +130,27 @@ Dain ha notato che Sylas memorizza le sue leggende. Non lo dice mai — ma lo fa
 
 ---
 
+## Storia Condivisa con I Tre
+
+**Durata del legame:** 2+ anni al Capitolo 1.
+
+**Come si sono trovati:** [TBD — prequel]
+*"Zorgar sogna tempeste. Io sogno fuoco. Forse non è un caso che ci siamo trovati."*
+
+**I due anni insieme:**
+Per Dain, i due anni con I Tre sono stati i primi in vent'anni in cui le sue leggende hanno trovato orecchi — quasi — ricettivi. Zorgar finge di non ascoltare. Sylas memorizza tutto. Dain lo sa per entrambi. Non lo dice.
+
+**Il defunto:** [TBD — prequel]
+Qualcuno che conoscevano. Dain porta il peso con la calma di chi sa che la morte è un passaggio — ma sa anche che per Zorgar e Sylas il peso è diverso. Li osserva. Aspetta che abbiano bisogno di qualcosa.
+
+**Tracce nella narrazione (indizi atmosferici):**
+- Sa quando *non* raccontare leggende. Con Zorgar e Sylas, a volte il silenzio è la storia più onesta.
+- Ha recitato preghiere naniche sui morti di Thornwick senza che nessuno glielo chiedesse — abitudine profonda
+- C'è qualcosa nei rituali funebri che conosce troppo bene per averlo imparato solo dai libri
+- Quando Zorgar è a pezzi, Dain è quello che resta fermo. Non perché non senta — perché sa che deve.
+
+---
+
 ## Segreto / Arco Narrativo
 
 ### La Pietra
