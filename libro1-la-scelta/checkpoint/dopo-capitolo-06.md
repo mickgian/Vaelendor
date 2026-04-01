@@ -54,6 +54,6 @@ Il party lavora l'intera giornata a Thornwick. Aldric cura i feriti fino all'esa
 - Cap 7 è ancora POV Sylas — si svolge la sera del Giorno 4 ("tre giorni da quando siamo arrivati")
 - Tra Cap 6 (Giorno 3 sera) e Cap 7 (Giorno 4 sera) c'è un giorno non mostrato
 - La sera del Cap 6 (Giorno 3) = "la sera prima" quando Sylas sente i soldati parlare di Vera a Cap 7
-- I templari porteranno via Vera al mattino del Giorno 5 (urgenza di Cap 7)
+- I Custodi del Tempio porteranno via Vera al mattino del Giorno 5 (urgenza di Cap 7)
 - Aldric non è ancora andato da Vera — rimanda ancora
 - Aldric non sa che Sylas ha notato la reazione di Elara

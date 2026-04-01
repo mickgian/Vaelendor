@@ -527,6 +527,57 @@ Ma era per questo che era ancora vivo.
 
 ---
 
+## Geografia del Capitolo
+
+**Luoghi principali:**
+- **Strada da Millbrook a Thornwick** — colline basse, pascoli, erba alta e fiori di campo. L'odore cambia man mano che si avvicina: prima bruciato lontano, poi cenere, poi carne.
+- **Thornwick** — villaggio di pastori (lana verso le città costiere). Dopo l'attacco: edifici anneriti o crollati, fumo che sale ancora, corpi rimossi o coperti. Il tempio al centro è parzialmente distrutto. La cripta sotto il tempio è stata violata.
+- **La Spiga e il Tino** — punto di ritorno serale. L'atmosfera è pesante; il villaggio sente il peso di quello che è successo a dieci miglia di distanza.
+
+**Punti di riferimento:**
+- La cripta sotto il tempio di Thornwick = luogo del crimine; punto narrativo centrale della rivelazione del Sabotatore
+- Il corpo di Padre Hollan = evidenza fisica della brutalità dell'attacco
+- Il bivio per Thornwick a quattro miglia da Millbrook = punto geografico stabilito durante la marcia
+
+---
+
+## Cinque Scene Salienti
+
+### 1. La marcia verso Thornwick (Scena 1: La Strada)
+**Descrizione:** Il party si muove in formazione naturale — Zorgar in retroguardia, Elara in testa, Sylas che conta passi. L'odore di bruciato cresce. Conversazioni intercalate tra i personaggi — Aldric spiega Thornwick, Dain parla con lui, Fizzle sparisce tra i cespugli ogni tre passi.
+**Elementi visivi:** La strada di campagna soleggiata che contrasta con l'odore acre nell'aria, il gruppo distribuito lungo il percorso.
+**Potenziale per illustrazione:** ★★★☆☆
+
+### 2. L'arrivo a Thornwick (Scena 2: Thornwick)
+**Descrizione:** Il party vede per la prima volta la devastazione. I sopravvissuti tra le macerie, i corpi coperti, il fumo che sale ancora. La transizione da "bel pomeriggio di campagna" a "questo è quello che la violenza produce".
+**Elementi visivi:** Il villaggio fumante, il party fermato sulla soglia, i sopravvissuti choc, le facce del party che cambiano.
+**Potenziale per illustrazione:** ★★★★☆
+
+### 3. Aldric che guarisce fino al collasso (Scena 7: Il Lavoro Continua)
+**Descrizione:** Aldric ha guarito ~20 persone. Il pallore, le mani che tremano, la voce che si incrina. Il costo fisico della magia divina mostrato nella sua versione più dura — non un limite astratto, ma un corpo che cede.
+**Elementi visivi:** Aldric inginocchiato accanto a un ferito, la luce divina che si fa più fioca, qualcuno del party che lo sorregge.
+**Potenziale per illustrazione:** ★★★★★
+
+### 4. La rivelazione del Sabotatore (Scena 6: Il Nome)
+**Descrizione:** Aldric racconta del Sabotatore — un ex cavaliere della Chiesa, damnatio memoriae. Mille corone morto, cinque anni senza cattura. La storia scorre attorno al fuoco mentre i sopravvissuti ascoltano.
+**Elementi visivi:** Gruppo raccolto intorno a una luce, volti tesi che ascoltano, la silhouette di Sylas ai margini che registra tutto.
+**Potenziale per illustrazione:** ★★★☆☆
+
+### 5. La sera — Aldric menziona Vera (Scena 9: La Sera)
+**Descrizione:** Al ritorno a Millbrook, nella taverna, Aldric dice di dover visitare "la ragazza sulla collina" il giorno dopo. Elara reagisce in modo strano — piccolo, quasi impercettibile, ma c'è. Sylas lo nota.
+**Elementi visivi:** Il gruppo stanchi attorno al tavolo, Elara che si irrigidisce appena, Sylas che osserva.
+**Potenziale per illustrazione:** ★★★☆☆
+
+---
+
+## Scene Consigliate per Illustrazione
+
+**Prima scelta:** Aldric esausto dopo le guarigioni — la luce divina che sfuma, le mani che tremano, qualcuno del party che lo sorregge. È l'immagine più potente del capitolo: il costo umano della fede in azione.
+
+**Seconda scelta:** L'arrivo a Thornwick — il party sulla soglia, il villaggio fumante sullo sfondo. Stabilisce visivamente la posta in gioco della saga.
+
+---
+
 ## Strati Narrativi — Capitolo 6 v4
 
 ### Strato di Superficie
@@ -593,6 +644,24 @@ Analitica, distaccata, paranoica. Nota dettagli, diffida di tutti (non solo dell
 - La menzione del Sanatorio è un seme che germoglierà dopo
 - La reazione di Elara prepara il Cap. 7-8
 - Valdrisport potrebbe tornare quando si scoprirà chi è il Sabotatore
+
+---
+
+## Worldbuilding Integrato
+
+**La strada tra Millbrook e Thornwick:** Geografia di frontiera — colline basse, pascoli, agricoltura di sussistenza. La distanza è reale e camminata, non teletrasportata. L'odore di bruciato che cresce è narrazione ambientale.
+
+**Thornwick come villaggio di pastori:** Non solo "un villaggio devastato" — un luogo che aveva un'identità (lana, pascoli, rotte commerciali verso le città costiere). La distruzione ha un peso specifico quando si capisce cosa è stato distrutto.
+
+**La Chiesa di frontiera vs la Chiesa cittadina:** Attraverso Aldric emerge la distinzione — la Chiesa che porta grano durante le carestie e guarisce i poveri in villaggi isolati è reale, non propaganda. È la faccia genuina dell'istituzione.
+
+**La magia divina con costo visibile:** Aldric guarisce ~20 persone. Il pallore, la stanchezza, le mani che tremano sono mostrati senza spiegazione tecnica. La regola del mondo viene dall'osservazione diretta.
+
+**Le preghiere naniche sui morti:** Dain rispetta i morti con rituali propri, paralleli ma distinti dalla liturgia della Chiesa. Coesistenza naturale, mai commentata.
+
+**Le tasche impossibili di Fizzle:** Mai spiegate — solo mostrate. Il lettore impara che Fizzle porta tutto senza chiedersi dove.
+
+**Valdrisport e il passato oscuro di Sylas:** Menzionato en passant — un luogo dove ha vissuto qualcosa di difficile. Setup per rivelazioni future senza forzatura.
 
 ---
 

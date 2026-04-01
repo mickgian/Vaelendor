@@ -1,6 +1,6 @@
 # Memoria di Mirael — Libro 1
 
-**Aggiornato al:** Capitolo 7
+**Aggiornato al:** Capitolo 9
 
 ## Cosa SA
 - Cap 2: Elara viaggia da 2 anni sola, senza cognome — postura difensiva, risposte corte, mani vicino a un'arma
@@ -25,7 +25,12 @@
 - Cap 2: Dain cerca qualcosa di specifico, non solo storia accademica
 - Cap 3: Come fa Fizzle a "sentire" cosa non è Micio? Non è magia standard
 - Cap 6: Micio si è comportato in modo intenzionale con i bambini di Thornwick — sta comunicando qualcosa
-- Cap 7: L'uscita notturna di Sylas e Elara non è casuale — dato rilevante per il quaderno
+- Cap 7: L'uscita notturna di Sylas e Elara non era casuale — ora sa perché: la ragazza sulla collina
+- Cap 9: Vera ha detto "Libera. Per la prima volta da anni." — risposta onesta, non di facciata. Soggetto interessante.
+- Cap 9: È rimasta indietro con Micio durante il confronto — posizione di copertura della ritirata
+- Cap 9: Alla fine ha chiesto a Vera "Come ti senti?" — risposta: "Libera. Per la prima volta da anni. E spaventata."
+- Cap 9: Il party fugge verso le montagne su indicazione di Vera (sogni)
+- Cap 9: Vera è ora con il gruppo — nuovo soggetto di osservazione
 
 ## Cosa NON Sa
 - Cosa sia esattamente Micio ("Davvero non lo so")
@@ -47,6 +52,7 @@
 
 ## Stato Fisico/Emotivo
 - Energica, curiosa, in continua presa di appunti
-- Thornwick l'ha colpita — primo capitolo in cui il quaderno è rimasto chiuso per un po'
-- Il quaderno cresce: Fizzle si avvicina alle 20 pagine; Zorgar e Sylas aggiornati
-- Micio le ha comunicato qualcosa a Thornwick — non sa ancora cosa
+- Cap 9: ha visto un sacerdote rompere con la propria istituzione per una ragazza che non conosce — dato rilevato, interpretazione in corso
+- Il quaderno cresce: nuova sezione per Vera (percezione delle intenzioni, sogni, risposta alla magia divina)
+- Micio le ha comunicato qualcosa a Thornwick — non sa ancora cosa; ma ha osservato Vera con la stessa attenzione
+- In fuga verso le montagne — situazione nuova: gruppo in movimento, dinamiche cambiate

@@ -1,6 +1,6 @@
 # Memoria di Fizzle — Libro 1
 
-**Aggiornato al:** Capitolo 7
+**Aggiornato al:** Capitolo 9
 
 ## Cosa SA
 - Cap 3: Un funerale ha portato Zorgar, Dain e Sylas a Millbrook — qualcuno che conoscevano
@@ -12,12 +12,17 @@
 - Cap 5-6: Thornwick devastata — ha distribuito pozioni e unguenti ai sopravvissuti (la maggior parte ha funzionato)
 - Cap 6: Il Sabotatore — ex cavaliere della Chiesa, damnatio memoriae. I Rinnegati.
 - Cap 6: Aldric ha menzionato Vera (sulla collina con Tomás) e il Sanatorio della Pace
-- Cap 7: Sylas e Elara sono usciti insieme la sera — non sa perché. Lui ha continuato a lavorare sulle boccette fino a dormire sulla panca.
+- Cap 7: Sylas e Elara sono usciti insieme la sera — non sapeva perché. Ora lo sa: la ragazza sulla collina.
+- Cap 9: Era presente durante il confronto con Aldric e Aldwyn — esaminava la composizione del legno del carro
+- Cap 9: Dain lo ha chiamato: "Smettila di esaminare le ruote del carro. Dobbiamo andare."
+- Cap 9: Ha proposto "esperimenti in alta quota" per le montagne — Zorgar ha detto no automaticamente
+- Cap 9: Ha tirato fuori una fiala e l'ha esaminata alla luce del sole mentre gli altri elaboravano quello che era successo
 
 ## Cosa SOSPETTA
 - Cap 3: Micio sa qualcosa — "lo studia come faccio io con le mie reazioni"
 - Cap 3: Dain sa qualcosa sulle leggende antiche che potrebbe spiegare perché il fuoco non lo brucia
 - Cap 6: Le pozioni che ha usato a Thornwick hanno reagito diversamente del previsto su alcune persone — qualcosa nei loro corpi è strano (intuizione vaga, non ancora elaborata)
+- Cap 9: La composizione del legno del carro era "molto resistente" — nota tecnica, nessun collegamento ancora
 
 ## Cosa NON Sa
 - Perché il fuoco non lo brucia (lo studia da 83 anni senza risposta definitiva)
@@ -44,7 +49,7 @@
 - Dita macchiate di sostanze colorate (blu, verde, viola fosforescente)
 - Piedi scalzi e anneriti come se avesse camminato sui carboni
 - Senza cognome — o dimenticato o tolto dalla comunità di Wimblebrook
-- Cap 7 sera: dorme sulla panca alla locanda con le boccette disposte in cerchio davanti a sé
+- Cap 9: in fuga verso le montagne — "minerali rari, caverne inesplorate" — entusiasta nonostante il no agli esperimenti
 
 ## Inventario Noto
 - Fiala arancione: fuoco alchemico (molto pericoloso)

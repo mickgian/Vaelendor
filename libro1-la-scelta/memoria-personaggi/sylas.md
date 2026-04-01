@@ -1,6 +1,6 @@
 # Memoria di Sylas — Libro 1
 
-**Aggiornato al:** Capitolo 7
+**Aggiornato al:** Capitolo 9
 
 ## Cosa SA
 - Cap 1: Ha partecipato a un funerale per un defunto anonimo (nessun nome sulla lapide)
@@ -24,8 +24,21 @@
 - Cap 7: 5 anni fa a Velanthis ha visto documenti della Chiesa sulla Stirpe — tre compagni morti per quei documenti, lui fuggito
 - Cap 7: Il Sanatorio della Pace era menzionato in quelle carte — non come ospedale, come destinazione finale
 - Cap 7: La ragazza si chiama **Vera** — vive con **Tomás** (ex soldato in pensione, non un guaritore) sulla collina a nord-est
-- Cap 7: I templari verranno a prendere Vera domani mattina
+- Cap 7: I Custodi del Tempio verranno a prendere Vera domani mattina
 - Cap 7: Willem (guaritore del villaggio) teme il Sanatorio — "la gente entra, non esce"
+- Cap 8: Vera era sveglia e aspettava — ha detto "Lo sapevo che saresti venuta" guardando Elara
+- Cap 8: Vera percepisce le intenzioni degli altri fisicamente (non le parole)
+- Cap 8: Vera ha sogni-visioni — cose passate e a volte cose non ancora accadute
+- Cap 8: La magia divina ha fatto male a Vera — "qualcosa strappato via"
+- Cap 8: Anche Elara ha avuto la stessa reazione alla magia divina ~3 anni fa
+- Cap 8: Vera descrive il Sanatorio: sale bianche, cinghie di cuoio, silenzio finale
+- Cap 8: La Chiesa ha un nome per loro e non vuole che esistano
+- Cap 8: Piano concordato — Vera finge normalità domani, il party interviene
+- Cap 8: Vera stessa ha detto "non dirglielo" su Aldric
+- Cap 9: Ha osservato l'intero confronto dal bordo della strada — si è mosso solo quando i numeri erano chiari
+- Cap 9: Ha negoziato con Aldwyn: un giorno di vantaggio in cambio di nessun combattimento
+- Cap 9: Aldwyn è un soldato d'onore — ha accettato il patto e lo manterrà fino a domani
+- Cap 9: Il group fugge verso le montagne, su indicazione di Vera
 
 ## Cosa SOSPETTA
 - Cap 1: Cosa ci fa un sacerdote che menziona il Sanatorio in un villaggio così piccolo? — la risposta si avvicina
@@ -35,7 +48,8 @@
 - Cap 3: Micio ha osservato Fizzle con la stessa intensità anomala — cosa vedono in comune i due?
 - Cap 6: L'attacco a Thornwick era troppo preciso per essere follia — il Sabotatore ha uno scopo razionale
 - Cap 6: Gli aggressori avevano fretta, come se scappassero — da cosa o chi?
-- Cap 7: Il bisogno di Elara di vedere Vera è viscerale, personale — c'è qualcosa che non dice
+- Cap 8: Quello che condivide Elara con Vera è connesso a quello che sa da Velanthis — non lo ha detto ancora
+- Cap 9: Le indicazioni di Vera sulle montagne hanno un peso specifico — non sono sogni casuali. Ha visto questo tipo di precisione prima.
 
 ## Cosa NON Sa
 - Chi fosse il defunto del funerale e il suo legame con Zorgar
@@ -43,19 +57,21 @@
 - Cosa cerchi Dain nelle "pietre antiche"
 - Cosa contenesse la cassa sottratta dalla cripta di Thornwick
 - Il nome reale del Sabotatore (cancellato — damnatio memoriae)
-- Cosa troverà nella casa di Tomás — non ha ancora incontrato Vera
 
 ## Relazioni
 | Personaggio | Stato | Nota |
 |---|---|---|
 | Zorgar | Fiducia consolidata | 2 anni insieme. Legge i suoi silenzi. |
 | Dain | Fiducia consolidata | 2 anni insieme. Accetta le sue leggende. |
-| Aldric | Rispetto + preoccupazione crescente | Buono, ma forse inconsapevolmente strumento del Sanatorio |
-| Elara | Fiducia che cresce | Prima missione condivisa in corso — la legge ma rispetta la sua privacy |
+| Aldric | Rispetto + preoccupazione crescente | Buono, ma forse inconsapevolmente strumento del Sanatorio — Vera stessa ha detto di non dirgli nulla |
+| Elara | Fiducia consolidata | Ha visto come ha gestito l'incontro con Vera — sa che rispetta la privacy altrui |
+| Vera | Rispetto + osservazione | Lei lo valuta ancora — sa che sa qualcosa. Ha accettato il viaggio. Ora c'è tempo. |
 | Mirael | Perplessità tollerante | Strana, ma non sembra pericolosa |
 | Fizzle | Osservazione cauta | 4 giorni insieme — ancora non capisce se sia un vantaggio o un rischio |
 
 ## Stato Fisico/Emotivo
 - Insonnia cronica (da 5 anni) — i ricordi di Velanthis stanno tornando con forza
-- Emotivamente: qualcosa si è risvegliato — sta facendo qualcosa di pericoloso e non capisce perché lo sente giusto
-- Fine Cap 7: sulla collina, sta salendo verso la finestra — cliffhanger
+- Sa che quello che ha visto a Velanthis è connesso a Vera ed Elara — non lo ha ancora detto al gruppo
+- Ha gestito la situazione con Aldwyn con precisione — il patto d'onore era la soluzione più sicura
+- Emotivamente: la fuga verso le montagne dà direzione al caos. Ma il peso di Velanthis è ancora lì.
+- Cap 9 fine: in sella, in fuga. Il momento per parlare si avvicina — non ancora, ma si avvicina.

@@ -21,7 +21,7 @@ Giorno 4 — tarda notte
 - Aldric ✅ (non coinvolto attivamente in questo capitolo)
 
 ## Riassunto Eventi Chiave
-Millbrook è cambiata dopo Thornwick — atmosfera pesante, contadini a voce bassa. Sylas alla taverna osserva il party: Zorgar con i sogni che peggiorano, Dain con la pietra, Fizzle con le boccette. Elara esce improvvisamente — Sylas la segue. Durante la ricognizione notturna (Scena 2) discutono del Sanatorio della Pace: entrambi sanno già che non è un luogo di guarigione; Elara rivela il suo bisogno viscerale di vedere la ragazza. Sylas lascia Elara ad aspettare e conduce due sessioni di raccolta informazioni: (1) conversazione tattica con un anziano al pozzo — scopre l'esistenza di Master Willem come guaritore; (2) appostamento prolungato dalla casa di Willem — ascolta una conversazione privata tra Willem e sua moglie: la ragazza si chiama Vera, vive con un ex-soldato di nome Tomás sulla collina NE, i templari la porteranno al Sanatorio domani mattina. Sylas torna da Elara con le informazioni (Scena 4). Insieme si avvicinano alla collina (Scena 5). Il capitolo termina con Sylas che inizia ad arrampicarsi verso una finestra aperta della casa.
+Millbrook è cambiata dopo Thornwick — atmosfera pesante, contadini a voce bassa. Sylas alla taverna osserva il party: Zorgar con i sogni che peggiorano, Dain con la pietra, Fizzle con le boccette. Elara esce improvvisamente — Sylas la segue. Durante la ricognizione notturna (Scena 2) discutono del Sanatorio della Pace: entrambi sanno già che non è un luogo di guarigione; Elara rivela il suo bisogno viscerale di vedere la ragazza. Sylas lascia Elara ad aspettare e conduce due sessioni di raccolta informazioni: (1) conversazione tattica con un anziano al pozzo — scopre l'esistenza di Master Willem come guaritore; (2) appostamento prolungato dalla casa di Willem — ascolta una conversazione privata tra Willem e sua moglie: la ragazza si chiama Vera, vive con un ex-soldato di nome Tomás sulla collina NE, i Custodi del Tempio la porteranno al Sanatorio domani mattina. Sylas torna da Elara con le informazioni (Scena 4). Insieme si avvicinano alla collina (Scena 5). Il capitolo termina con Sylas che inizia ad arrampicarsi verso una finestra aperta della casa.
 
 ## Informazioni Acquisite in Cap 7
 | Informazione | Fonte | Acquisita da |
@@ -43,7 +43,7 @@ Millbrook è cambiata dopo Thornwick — atmosfera pesante, contadini a voce bas
 - 🌱 **I sogni di Zorgar**: peggiorano — "Quanto ancora restiamo in questo buco?" — qualcosa lo consuma dall'interno
 - 🌱 **La pietra di Dain**: fissata per ore — Sylas la nota come "qualcosa di più antico, più pesante"
 - 🌱 **Sylas e Velanthis**: 5 anni fa ha visto documenti della Chiesa sulla Stirpe — tre compagni morti, lui fuggito
-- 🌱 **Urgenza domani mattina**: i templari arrivano all'alba del Giorno 5 — deadline immediata
+- 🌱 **Urgenza domani mattina**: i Custodi del Tempio arrivano all'alba del Giorno 5 — deadline immediata
 
 ## Vincoli per il Capitolo Successivo (Cap 8)
 - È tarda notte del Giorno 4. L'alba del Giorno 5 è imminente.

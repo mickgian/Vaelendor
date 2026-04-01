@@ -806,7 +806,48 @@ Per tutti loro.
 
 ---
 
-## Note sulla Versione 7.0
+## Strati Narrativi
+
+### Strato di Superficie
+Un funerale anonimo in un piccolo villaggio. Tre uomini in lutto per qualcuno che conoscevano. Un sacerdote che recita le preghiere con cura genuina. La sera, una locanda, vino, una storia da aspettare. Il Prologo ci ha già mostrato dove andrà a finire — ora il libro costruisce la strada per arrivarci.
+
+### Strato Nascosto (Per la Rilettura)
+- Il defunto senza nome = qualcuno che conta per Zorgar, Sylas e Dain in modo che il lettore non può ancora misurare
+- La reazione spropositata di Zorgar al funerale = il lutto di un guerriero che porta qualcosa di più antico della morte di un compagno
+- Aldric non "recita" le preghiere = seme sottile per il conflitto futuro tra la bontà della persona e la funzione dell'istituzione
+- Il simbolo del Sanatorio sui Custodi del Tempio = primo indizio di quello che verrà nel Cap 6-8
+- La pietra di Dain estratta durante il silenzio = primo segno di qualcosa che porta sempre con sé
+
+### Elementi a Doppio Strato
+
+| Elemento | Prima Lettura | Dopo la Rivelazione |
+|----------|---------------|---------------------|
+| "Nessun nome sulla pietra" | Anonimato del defunto | Il lutto di chi è stato cancellato, o che si è cancellato da solo |
+| Zorgar che mette la mano sul cuore | Gesto di rispetto culturale | Promessa fatta a qualcuno che non è più qui |
+| "Non lo era. Avresti potuto solo recitare le parole" (Zorgar ad Aldric) | Apprezzamento per la cerimonia | Zorgar distingue la fede vera dalla forma — e riconosce la prima in Aldric |
+| Il simbolo del Sanatorio sui Custodi | Dettaglio visivo trascurabile | Primo avvistamento dell'istituzione che si rivelerà centrale |
+| Sylas che monitora le uscite anche al funerale | Abitudine paranoica | Cinque anni di fuga lo hanno reso così — e quella volta ha salvato la vita a qualcuno |
+
+### Voce Narrativa
+Cap 1 usa un doppio POV non esplicito: Zorgar (emotivo, diretto, fisico) nel Prologo; Sylas (analitico, osservativo, sempre in posizione di vantaggio) nel Capitolo 1 vero. Il contrasto stabilisce entrambi come tipi distinti di protagonista: uno che agisce, uno che osserva.
+
+---
+
+## Worldbuilding Integrato
+
+**La Chiesa dei Tre al suo meglio:** Il funerale è una porta verso la religione di Vaelendor. Aldric usa la magia divina — luce dorata, tangibile, reale. Non è performer né manipolatore: è qualcuno che crede. Questa è la Chiesa come la vede il Libro 1: genuinamente buona in superficie.
+
+**Diversità religiosa:** Dain mormora preghiere naniche sui morti in parallelo alle preghiere della Chiesa. Il rituale nanico non viene spiegato — viene mostrato. Coesistono senza conflitto.
+
+**Gesti culturali guerrieri:** Zorgar mette la mano sinistra sul petto — gesto che nessuno degli altri riconosce. Non viene spiegato. Appartiene a qualcosa di più antico e specifico.
+
+**La tomba senza nome:** Millbrook ha un cimitero piccolo, con tombe identificate. Ma questa non ha nome. Una scelta deliberata — chi l'ha fatta, e perché?
+
+**La Spiga e il Tino come cuore sociale:** Non solo una locanda — è dove il villaggio si raccoglie, dove le storie si intrecciano, dove i forestieri vengono valutati. Rorik gestisce senza giudizio.
+
+---
+
+## Note Tecniche
 
 ### Cosa è stato ampliato:
 
