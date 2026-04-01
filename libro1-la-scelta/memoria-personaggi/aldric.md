@@ -1,6 +1,6 @@
 # Memoria di Aldric — Libro 1
 
-**Aggiornato al:** Capitolo 7
+**Aggiornato al:** Capitolo 9
 
 ## Cosa SA
 - Cap 1: Tre stranieri (Zorgar, Sylas, Dain) hanno partecipato al funerale — conoscevano il defunto
@@ -12,48 +12,57 @@
 - Cap 4: Il messaggero è il figlio del mugnaio Aldous di Thornwick — l'ha curato (ferite fisiche)
 - Cap 4: Padre Edmun serve a Millbrook da 40 anni — la considera casa
 - Cap 4: Willem è il guaritore del villaggio (non della Chiesa) — conosce la gente di Thornwick
-- Cap 4: Il fabbro Garrett ha un cognato a Thornwick
 - Cap 4: Aldwyn aveva 2 altri uomini ma li ha mandati a scortare Maren verso sud la sera prima
 - Cap 4: Vera vive sulla collina a nord-est con Tomás (ex-soldato in pensione)
-- Cap 4: Il party alla locanda: 7 persone incluso un gnomo e una maga con un gatto nero — Zorgar/Dain/Sylas riconosciuti dal funerale, gli altri sconosciuti
+- Cap 4: Il party alla locanda: 7 persone incluso uno gnomo e una maga con un gatto nero
 - Cap 5: Ha guidato il party a Thornwick; ha parlato con Dain durante la marcia (voci di attacchi ai templi)
 - Cap 6: Ha guarito ~20 persone a Thornwick fino all'esaurimento — costo fisico visibile
 - Cap 6: Il Sabotatore ha attaccato Thornwick — obiettivo preciso (cassa dalla cripta). Padre Hollan ucciso.
 - Cap 6: Ha rivelato al party: il Sabotatore è un ex cavaliere della Chiesa, damnatio memoriae; i Rinnegati
 - Cap 6: Taglia 1.000/500 corone — nessuno in 10 anni
-- Cap 6: Brennan ha lasciato Thornwick di notte per la capitale (rinforzi)
 - Cap 6 (sera): Ha menzionato Vera e il Sanatorio alla locanda — la stanchezza gli ha fatto abbassare la guardia
-- Cap 7: Non sa che Sylas e Elara sono usciti di nascosto verso la collina a nord-est
+- Cap 9: Vera si è consegnata senza resistere — ha alzato i polsi da sola, gesto consumato dall'abitudine
+- Cap 9: Vera ha detto "Non è il tuo dovere essere gentile. È una scelta." — ha scardinate la sua auto-giustificazione in una riga
+- Cap 9: Il party lo ha bloccato in mezzo alla strada — li aveva visti a Thornwick, ma non così
+- Cap 9: Elara gli ha chiesto "Quante persone escono dal Sanatorio?" — non ha saputo rispondere
+- Cap 9: Vera ha detto di non essere mai stata al Sanatorio ma di vederlo nei sogni: bianco, silenzioso, persone che entrano e non escono
+- Cap 9: Vera ha detto di essere "qualcosa di antico. Qualcosa che la Chiesa vuole cancellare."
+- Cap 9: Ha aperto le catene — "Il mio dovere. Per la prima volta in vent'anni."
+- Cap 9: Aldwyn ha accettato un giorno di vantaggio negoziato da Sylas — poi si è avviato verso la capitale
+- Cap 9: Il party è fuggito verso est, verso le montagne, su indicazione di Vera (sogni)
 
 ## Cosa SOSPETTA
 - Cap 4: Maren potrebbe aver saputo dell'attacco a Thornwick prima di partire — ma non lo chiede
 - Cap 4: Il gatto della maga lo fissa con un'intensità non normale — "troppo intelligente per un animale"
-- Cap 4: Il gruppo di 7 stranieri alla locanda non è un assortimento casuale di viaggiatori
-- Cap 6: La versione "follia" del Sabotatore non lo convince del tutto — ma non lo ammette ad alta voce
+- Cap 9: Le catene d'argento "per le particolarità di certi soggetti" — non ha mai chiesto cosa significasse. Ora sa che significava qualcosa di preciso.
+- Cap 9: La Chiesa ha un piano sistematico, non una casistica di cura — lo capisce solo adesso
 
 ## Cosa NON Sa
 - Chi siano davvero gli altri membri del party (Elara, Mirael, Fizzle)
 - Cosa contenesse la cassa sottratta dalla cripta di Thornwick
 - Cosa sia davvero Micio
-- Perché Maren insista così su Vera al Sanatorio
-- Cosa intendesse Padre Edmun con "qualcosa di strano" in Vera
-- Che il Sanatorio è pericoloso per Vera (non un luogo di guarigione)
-- Che Sylas e Elara hanno incontrato Vera di nascosto
+- Il nome di quello che sono Vera ed Elara (la Stirpe — non ancora nominata)
+- Cosa sa Sylas da Velanthis (5 anni fa)
+- Cosa lo aspetta nelle montagne
+- Come la Chiesa reagirà alla sua defezione (sa solo che "brucerà")
 
 ## Relazioni
 | Personaggio | Stato | Nota |
 |---|---|---|
-| Zorgar | Rispetto reciproco + fiducia | Lavoro condiviso a Thornwick ha consolidato il legame |
-| Sylas | Rispetto crescente | Ha visto come lavora — osservativo, capace, affidabile |
-| Dain | Dialogo autentico | Conversazione sulla marcia + lavoro a Thornwick |
-| Elara | Rispetto per le capacità | Ha letto le tracce degli aggressori con precisione |
-| Mirael + Micio | Perplessità rispettosa | Il gatto ha confortato i bambini — "qualunque cosa sia" |
-| Fizzle | Imbarazzo affettuoso | Le pozioni hanno aiutato davvero — "a volte mi sorprendo da solo" |
-| Padre Edmun | Rispetto + affetto | 40 anni di servizio — incarna la Chiesa che Aldric ama |
-| Aldwyn | Fiducia operativa + rispetto | Il capitano ha visto il party lavorare — ora li rispetta |
+| Vera | Colpa trasformata in responsabilità | L'ha incatenata. L'ha liberata. Sa che non basta ma è l'inizio. |
+| Elara | Rispetto + debito | È stata lei a fargli la domanda che non aveva osato fare da solo |
+| Zorgar | Fiducia consolidata | "Questione di numeri. Uno di voi. Otto di noi." — stava dalla sua parte |
+| Sylas | Gratitudine operativa | Ha negoziato il giorno di vantaggio — senza di lui la situazione esplodeva |
+| Dain | Dialogo autentico + peso | "Non puoi tornare indietro." — lo ha detto con il tono di chi sa cosa significa |
+| Mirael + Micio | Perplessità rispettosa | Ha sentito "Come ti senti?" a Vera — un gesto di cura genuino |
+| Fizzle | Imbarazzo affettuoso | Esaminava le ruote del carro nel momento peggiore possibile — ma era lì |
+| Aldwyn | Rispetto per l'onore | Ha accettato il patto e lo manterrà. Non è un nemico — è qualcuno che fa il suo dovere in un sistema sbagliato. |
+| Chiesa dei Tre | Rotto | Vent'anni di obbedienza terminati. La fede in qualcosa di vero resiste — ma non ha più la forma della Chiesa. |
 
 ## Stato Fisico/Emotivo
-- Esausto dopo Thornwick — ha guarito ~20 persone, costo fisico visibile
-- La missione su Vera è ancora in sospeso — domani deve andare da lei
-- I micro-dubbi su Maren crescono (tacitamente) — ma la fede regge
-- Non sa che il piano per Vera sta già venendo sabotato
+- Non stanco fisicamente — stanco dentro, come se qualcosa si fosse rotto e ricomposto in una forma diversa
+- "Non so chi sono adesso." — la domanda identitaria che guiderà il suo arco nei capitoli seguenti
+- I voti fatti alla Chiesa: valgono ancora? Per chi? Per cosa? Non ha risposta.
+- La sensazione strana di essere "nel posto giusto anche se è il posto più pericoloso" — accettazione del cambiamento
+- "La mia gente" — pensiero spontaneo di fronte al party. L'ha sorpreso lui stesso.
+- La magia divina: ce l'ha ancora. Non sa se è ancora la sua, o se era solo prestata.

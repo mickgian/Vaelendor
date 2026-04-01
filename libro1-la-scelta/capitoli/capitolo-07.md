@@ -47,7 +47,7 @@ Ma non era il momento di fare domande. Ognuno aveva diritto ai propri misteri, a
 
 All'angolo del tavolo, Fizzle era chino su un assortimento di boccette, mescolando qualcosa di verde con qualcosa di viola e mormorando calcoli incomprensibili. Tre giorni di viaggio insieme non erano stati sufficienti per capire se quello fosse il suo modo normale di rilassarsi o la fase preliminare a qualcosa di pericoloso.
 
-"La ragazza," disse Dain. "Quella di cui parlavano i templari."
+"La ragazza," disse Dain. "Quella di cui parlavano i Custodi del Tempio."
 
 Sylas annuì. Ecco il vero problema.
 
@@ -127,7 +127,7 @@ Elara non rispose subito. I suoi passi erano silenziosi sul selciato — si muov
 
 Elara si fermò di colpo.
 
-"Come fai a sapere di—" Iniziò, poi si interruppe. "Hai sentito quello che hanno detto i templari?"
+"Come fai a sapere di—" Iniziò, poi si interruppe. "Hai sentito quello che hanno detto i Custodi del Tempio?"
 
 "Ho sentito molte cose," disse Sylas. "È un'abitudine professionale."
 
@@ -297,7 +297,7 @@ Sylas trovò Elara esattamente dove l'aveva lasciata, appoggiata a un muro nell'
 
 "Hai scoperto qualcosa?" chiese lei.
 
-"Abbastanza." Sylas si appoggiò al muro accanto a lei. "La ragazza si chiama Vera. Vive con un uomo di nome Tomás — un ex-soldato in pensione, a quanto pare — sulla collina a nord-est. E domani mattina i templari vengono a prenderla."
+"Abbastanza." Sylas si appoggiò al muro accanto a lei. "La ragazza si chiama Vera. Vive con un uomo di nome Tomás — un ex-soldato in pensione, a quanto pare — sulla collina a nord-est. E domani mattina i Custodi del Tempio vengono a prenderla."
 
 Elara si irrigidì. "Domani."
 
@@ -385,6 +385,58 @@ E perché aveva la sensazione che la risposta avrebbe cambiato tutto.
 
 ---
 
+## Geografia del Capitolo
+
+**Luoghi principali:**
+- **La Spiga e il Tino** — punto di partenza e di ritorno. Atmosfera pesante: Millbrook sente il peso di Thornwick. Zorgar e Dain al tavolo; Fizzle con le boccette; Elara che se ne va all'improvviso.
+- **Millbrook di notte** — vuota, tranquilla, le case chiuse. Il villaggio non sa ancora niente di Vera. Il pozzo al centro = primo punto di raccolta informazioni.
+- **Casa di Willem** — guaritore del villaggio, separata dal centro. Finestra con luce tremolante da cui trapela la conversazione cruciale.
+- **Collina NE di Millbrook** — sentiero ripido tra querce, buio, il ruscello che si sente ma non si vede. La casa di Tomás in cima: isolata, piccola, finestra aperta al primo piano.
+
+**Punti di riferimento:**
+- Il pozzo al centro del villaggio = scena dell'interrogatorio indiretto (l'anziano)
+- La finestra di Willem = punto di intercettazione, la svolta informativa del capitolo
+- La finestra aperta della casa di Tomás = cliffhanger finale; soglia tra il conoscere e l'agire
+
+---
+
+## Cinque Scene Salienti
+
+### 1. Sylas osserva il party alla taverna (Scena 1: La Taverna)
+**Descrizione:** La taverna di Millbrook dopo Thornwick. Sylas cataloga il gruppo: Zorgar che non dorme, Dain con la pietra, Fizzle che prepara qualcosa di questionabile. Poi Elara che se ne va improvvisamente — e lui che la segue senza che lei lo sappia.
+**Elementi visivi:** Il tavolo con il party, le candele basse, Elara già in piedi verso la porta.
+**Potenziale per illustrazione:** ★★★☆☆
+
+### 2. La conversazione sul Sanatorio (Scena 2: La Ricognizione)
+**Descrizione:** Sylas raggiunge Elara nel buio di Millbrook. Si parlano per la prima volta in modo diretto — non tattiche, ma motivazioni. Elara dice "So cosa significa essere diversa." Sylas non risponde, ma registra.
+**Elementi visivi:** Due figure nell'ombra delle case di Millbrook, il villaggio buio sullo sfondo, nessun contatto visivo diretto.
+**Potenziale per illustrazione:** ★★★☆☆
+
+### 3. L'interrogatorio del vecchio al pozzo (Scena 3: L'Investigazione)
+**Descrizione:** Sylas si trasforma in "mercante del sud di passaggio" — tono diverso, incedere diverso, domande che sembrano conversazione. L'anziano abbassa le difese. L'informazione arriva a pezzi.
+**Elementi visivi:** Il pozzo al centro del villaggio vuoto, due figure nel chiarore lunare, una che parla e una che ascolta.
+**Potenziale per illustrazione:** ★★★★☆
+
+### 4. L'appostamento da Willem (Scena 3bis: Il Secondo Tentativo)
+**Descrizione:** Sylas attende nella penombra fuori dalla casa di Willem per quasi due ore. Poi la conversazione comincia dall'interno — Willem e sua moglie, voci basse. Sylas immobile. "Si chiama Vera. Domani mattina vengono a prenderla."
+**Elementi visivi:** Sylas nell'ombra contro il muro, la finestra illuminata sopra di lui, il profilo delle due figure dentro che non sanno di essere ascoltate.
+**Potenziale per illustrazione:** ★★★★★
+
+### 5. Sylas che si arrampica verso la finestra (Scena 5: L'Avvicinamento)
+**Descrizione:** La casa sulla collina. La finestra aperta. Sylas inizia ad arrampicarsi — e si chiede in cosa si stia cacciando, e perché abbia la sensazione che la risposta cambierà tutto.
+**Elementi visivi:** La sagoma di Sylas sulla parete della casa, la finestra buia sopra, Elara che aspetta nel giardino sotto.
+**Potenziale per illustrazione:** ★★★★★
+
+---
+
+## Scene Consigliate per Illustrazione
+
+**Prima scelta:** Sylas che si arrampica verso la finestra — la silhouette sul muro, la finestra aperta nel buio, Elara visibile sotto nel giardino. Cattura il cliffhanger con un'immagine sola e stabilisce il carattere di Sylas: fa quello che deve, anche quando non sa perché lo fa.
+
+**Seconda scelta:** L'appostamento da Willem — Sylas nell'ombra, la finestra illuminata sopra. La differenza tra fare domande e ascoltare — il momento in cui il capitolo gira.
+
+---
+
 ## Strati Narrativi
 
 ### Strato di Superficie
@@ -435,6 +487,20 @@ Atmosfera: investigazione tesa, costruzione di fiducia graduale, tensione cresce
 
 ---
 
+## Worldbuilding Integrato
+
+**Millbrook post-Thornwick:** Il villaggio non è stato attaccato ma sa cos'è successo a dieci miglia. L'atmosfera è cambiata — voci più basse, meno gente fuori dopo il tramonto. Questa tensione di sottofondo è il tessuto del capitolo.
+
+**Willem come istituzione informale:** Il guaritore del villaggio non è della Chiesa — è un servizio separato, radicato nella comunità, che conosce ogni famiglia. La sua paura del Sanatorio è quella di chi ha visto cosa fa il sistema dall'interno.
+
+**Il Sanatorio della Pace come voce di corridoio:** Non viene spiegato — viene sussurrato. "La gente entra, non esce." Questo è come funziona il worldbuilding della minaccia: attraverso la paura dei villici, non attraverso l'esposizione.
+
+**Tomás come figura di confine:** Ex-soldato, non guaritore, non della Chiesa. Vive fuori dal villaggio con una ragazza che il villaggio considera "strana." La sua posizione isolata è sia protezione che vulnerabilità.
+
+**La gerarchia dell'informazione in un villaggio piccolo:** Sylas scopre che le informazioni non si ottengono chiedendo direttamente — si ottengono costruendo fiducia, aspettando, creando le condizioni perché qualcuno parli da solo. L'anziano al pozzo, Willem a casa: due sistemi informativi diversi, due tecniche diverse.
+
+---
+
 ## Note Tecniche
 
 **Lunghezza stimata:** 4.500–5.000 parole
@@ -449,7 +515,7 @@ Atmosfera: investigazione tesa, costruzione di fiducia graduale, tensione cresce
 **Progressione dell'informazione:**
 1. Osservazione del comportamento di Elara (Scena 1)
 2. Conferma del Sanatorio come minaccia durante la ricognizione (Scena 2)
-3. Interrogatorio sottile dell'anziano al pozzo — nome del guardiano, collina, tensione nei templari (Scena 3)
+3. Interrogatorio sottile dell'anziano al pozzo — nome del guardiano, collina, tensione nei Custodi del Tempio (Scena 3)
 4. Appostamento lungo da Willem — nome Vera, timing domani, conferma del Sanatorio come sentenza (Scena 3bis)
 5. Confronto con Elara — le informazioni si unificano, urgenza motivata dal timing (Scena 4)
 6. Avvicinamento alla casa — cliffhanger (Scena 5)

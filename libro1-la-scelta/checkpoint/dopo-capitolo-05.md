@@ -15,8 +15,10 @@ Giorno 2 — pomeriggio — il party raggiunge Thornwick (mezza giornata di camm
 - Mirael ✅ + Micio
 - Fizzle ✅ (si fermava ogni tre passi a raccogliere campioni)
 - Aldric ✅ (collaborazione ufficiale da questa mattina)
-- Aldwyn ✅ (Custode del Tempio, caposcorta)
-- Brennan ✅ (giovane Custode, prima missione seria)
+
+## NPCs / Custodi del Tempio (non party members)
+- Aldwyn — Custode del Tempio, caposcorta di Aldric
+- Brennan — giovane Custode del Tempio, prima missione seria
 
 ## Riassunto Eventi Chiave
 Notizia dell'attacco a Thornwick arriva alla Spiga e il Tino. Il party si offre di accompagnare Aldric e i Custodi. Aldwyn accetta con tre condizioni (ordini, niente toccare prove, Zorgar non uccide senza necessità, Fizzle niente esplosioni). Un'ora di preparativi. Viaggio verso nord — la strada delle colline. Dain parla con Aldric: il sacerdote ha voci su attacchi ai templi ma non sa di chi si tratti. Progressivamente il paesaggio diventa silenzioso — niente uccelli. Odore di cenere. Il capitolo si chiude con la prima vista di Thornwick devastata: case bruciate, corpi coperti, tempio con il tetto crollato.

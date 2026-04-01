@@ -41,11 +41,13 @@ Nel Libro 1, l'antagonista è chiamato **"il Sabotatore"**.
 Il momento esatto in cui rivelare il nome completo **"Kaelen Valdris"** è ancora da definire (TBD).
 
 ### La Chiesa
-La **Chiesa dei Tre** deve apparire genuinamente positiva e affidabile nei primi libri.
+La **Chiesa dei Tre** deve apparire genuinamente positiva e affidabile nei **Capitoli 1–8**.
 - Nessun commento sarcastico
 - Nessuna lode sospetta
 - Nessun indizio che sia corrotta
 - Deve sembrare **davvero buona**
+
+**Dal Capitolo 9 in poi:** la rivelazione del Sanatorio inizia a incrinare questa immagine — in modo graduale e attraverso le azioni dei personaggi, non commenti autoriali diretti. La Chiesa rimane un'istituzione con persone buone al suo interno (Aldric, Aldwyn agisce con onore): il problema è sistemico, non individuale. Il validator non deve bloccare Cap 9+ per "indizi di corruzione" intenzionali nell'arco narrativo.
 
 ### Elara
 **Elara** non deve sembrare speciale o mostrare abilità mistiche evidenti.
@@ -95,8 +97,20 @@ Con **Vera** sono 8 persone dal Capitolo 10.
 - Genuinamente devoto e buono
 
 ### Guardie di Millbrook
-- **Aldwyn** — capitano delle guardie
-- **Brennan** — giovane guardia, parte per la capitale nella notte del Capitolo 6
+- **Aldwyn** — capitano delle guardie, Custode del Tempio
+- **Brennan** — giovane guardia, Custode del Tempio; parte per la capitale nella notte del Capitolo 6
+- Aldwyn e Brennan sono **NPC**, non membri del party
+
+### Custodi del Tempio
+- Le guardie della Chiesa si chiamano **"Custodi del Tempio"** (singolare: Custode del Tempio)
+- Aldric viaggia scortato da Custodi del Tempio — Aldwyn e Brennan lo sono
+- **"Templari"** è una categoria DIVERSA: non usare "templari" per riferirsi a Aldwyn, Brennan, o a chiunque scorti Aldric
+- ⚠️ Verificare SEMPRE: Custode del Tempio ≠ Templare
+
+### Vincolo Timeline — Prima Visita di Aldric a Vera
+- Aldric **non ha ancora incontrato Vera** fino alla fine del Capitolo 8
+- La sua prima visita avviene in **Capitolo 9** (Giorno 5, mattina)
+- ⚠️ Verificare `memoria-personaggi/aldric.md` prima di scrivere qualsiasi scena con Vera + Aldric
 
 ---
 
@@ -121,7 +135,14 @@ Con **Vera** sono 8 persone dal Capitolo 10.
 
 ## ⚙️ REGOLE DI PROCESSO — SISTEMA CHECKPOINT
 
-### Prima di QUALSIASI modifica al Capitolo N:
+### ⛔ PRIMA di QUALSIASI scrittura o modifica al Capitolo N:
+
+**Passo 0 obbligatorio — NON sostituibile con contesto riepilogato:**
+```
+./hooks/pre-edit.sh <libro> <capitolo>
+```
+Se pre-edit.sh non è stato eseguito nella sessione corrente, **non iniziare la scrittura**.
+
 1. Leggere `checkpoint/dopo-capitolo-{N-1}.md` (stato del mondo all'inizio del capitolo)
 2. Leggere i file `memoria-personaggi/*.md` per i personaggi presenti nel capitolo
 3. Leggere il capitolo N stesso (se esiste già)

@@ -135,6 +135,9 @@ else
     echo ""
     echo "  Suggerimento:"
     echo "  git add . && git commit -m \"Capitolo $CAP_NUM completato\""
+    echo ""
+    echo "📚 Rigenerazione PDF del libro..."
+    python3 "$BASE_DIR/hooks/pdf-generator.py" "$LIBRO_DIR" "$BASE_DIR/Vaelendor_temo.pdf" 2>&1 | sed 's/^/  /'
 fi
 echo "============================================"
 

@@ -27,6 +27,28 @@
                 ],
                 "severita": "errore",
                 "messaggio": "Tomás è un ex-soldato in pensione, NON un guaritore — il guaritore del villaggio è Willem"
+            },
+            {
+                "personaggio": "Aldwyn",
+                "pattern_errati": [
+                    "templare aldwyn",
+                    "aldwyn il templare",
+                    "aldwyn, templare",
+                    "aldwyn templare"
+                ],
+                "severita": "errore",
+                "messaggio": "Aldwyn è un Custode del Tempio, NON un templare — i Custodi del Tempio sono la scorta di Aldric; 'templari' è una categoria diversa nel mondo di Vaelendor"
+            },
+            {
+                "personaggio": "Brennan",
+                "pattern_errati": [
+                    "templare brennan",
+                    "brennan il templare",
+                    "brennan, templare",
+                    "brennan templare"
+                ],
+                "severita": "errore",
+                "messaggio": "Brennan è un Custode del Tempio, NON un templare — i Custodi del Tempio sono la scorta di Aldric; 'templari' è una categoria diversa nel mondo di Vaelendor"
             }
         ]
     },
@@ -46,10 +68,11 @@
     },
 
     "chiesa": {
-        "libro1": {
+        "libro1_cap1_8": {
+            "capitoli_applicabili": [1, 2, 3, 4, 5, 6, 7, 8],
             "termini_negativi": [
                 "corrotta", "corruzione", "corrotto",
-                "tradisce", "tradimento", "tradita",
+                "tradisce", "tradita",
                 "inganno", "inganna", "ingannare",
                 "segreto oscuro", "manipolazione", "manipola",
                 "complotto", "cospirazione"
@@ -59,7 +82,20 @@
             ],
             "raggio_righe": 5,
             "severita": "errore",
-            "messaggio": "La Chiesa dei Tre deve apparire genuinamente positiva nel Libro 1 — nessun indizio di corruzione o tradimento"
+            "messaggio": "Capitoli 1-8: La Chiesa dei Tre deve apparire genuinamente positiva — nessun indizio di corruzione. Dal Cap 9 in poi la rivelazione del Sanatorio è intenzionale nell'arco narrativo."
+        },
+        "libro1_cap9_plus": {
+            "capitoli_applicabili": [9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22],
+            "termini_negativi": [
+                "corrotta", "corruzione", "corrotto",
+                "complotto", "cospirazione"
+            ],
+            "contesto_attivazione": [
+                "chiesa", "chiesa dei tre", "tempio"
+            ],
+            "raggio_righe": 5,
+            "severita": "avviso",
+            "messaggio": "Cap 9+: La rivelazione del Sanatorio è intenzionale. Verificare che il tono sia ancora 'istituzione con persone buone / problema sistemico' e non 'villian cartoonesco'."
         }
     },
 
