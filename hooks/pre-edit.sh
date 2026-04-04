@@ -95,6 +95,12 @@ if [ -f "$REGOLE" ]; then
     echo ""
 fi
 
+# 7. Tecnica narrativa del libro
+TECNICA_SCRIPT="$BASE_DIR/hooks/tecnica-check.py"
+if [ -f "$TECNICA_SCRIPT" ]; then
+    python3 "$TECNICA_SCRIPT" "$LIBRO" "$CAP_NUM" 2>/dev/null || true
+fi
+
 echo "============================================"
 echo "  BRIEFING COMPLETATO — Buona scrittura!"
 echo "============================================"

@@ -283,6 +283,13 @@ def render_chapter(pdf: VaelendorPDF, md_text: str):
 # ─────────────────────────────────────────────────────────────────────────────
 # Rilevamento capitoli completati
 # ─────────────────────────────────────────────────────────────────────────────
+def _chapter_has_content(cap_path: Path) -> bool:
+    """Un capitolo ha contenuto se supera il template vuoto (~30 righe)."""
+    content = cap_path.read_text(encoding='utf-8', errors='replace')
+    lines = [l for l in content.splitlines() if l.strip() and not l.strip().startswith('<!--')]
+    return len(lines) > 30
+
+
 def _chapter_is_complete(libro_dir: Path, cap_num: int) -> bool:
     checkpoint = libro_dir / 'checkpoint' / f'dopo-capitolo-{cap_num:02d}.md'
     if not checkpoint.exists():
@@ -292,14 +299,14 @@ def _chapter_is_complete(libro_dir: Path, cap_num: int) -> bool:
 
 
 def find_completed_chapters(libro_dir: Path):
-    """Restituisce lista ordinata di (numero, path) per i capitoli completati."""
+    """Restituisce lista ordinata di (numero, path) per i capitoli con contenuto."""
     cap_dir = libro_dir / 'capitoli'
     results = []
     for path in sorted(cap_dir.glob('capitolo-*.md')):
         m = re.search(r'capitolo-(\d+)\.md', path.name)
         if m:
             num = int(m.group(1))
-            if _chapter_is_complete(libro_dir, num):
+            if _chapter_has_content(path):
                 results.append((num, path))
     return results
 
