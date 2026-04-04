@@ -209,7 +209,7 @@ In caso di dubbio, **chiedere all'utente**.
 
 ### Flusso completo di lavoro su un capitolo:
 ```
-[1] INIZIO LAVORO → pre-edit.sh           (carica contesto)
+[1] INIZIO LAVORO → pre-edit.sh           (carica contesto + tecnica narrativa)
 [2] SCRITTURA/MODIFICA del capitolo
 [3] SALVATAGGIO → narrative-linter.py     (encoding, termini proibiti, nomi, lunghezza)
 [4] SE OK → worldbuilding-validator.py    (capacità personaggi, luoghi, tono Chiesa)
@@ -233,7 +233,31 @@ In caso di dubbio, **chiedere all'utente**.
 | Checkpoint | `python hooks/checkpoint-generator.py <file>` |
 | Memorie | `python hooks/memoria-updater.py <file>` |
 | Post-edit | `./hooks/post-edit.sh <libro> <capitolo>` |
+| Tecnica narrativa | `python hooks/tecnica-check.py <libro> <capitolo>` |
 | Revisione | `python hooks/review-report.py <file>` |
 | Personaggi secondari | `python hooks/personaggi-secondari-checker.py <libro-dir>` |
 
 Per i dettagli su ogni hook, vedere i file nella directory `hooks/`.
+
+---
+
+## 🌐 Glossario di Traduzione
+
+Il file `glossario-traduzione-en.md` è il glossario di traduzione IT→EN per la futura pubblicazione in inglese.
+
+### Regole
+- Dopo ogni sessione di scrittura o modifica di capitoli/worldbuilding, esegui `bash scripts/update-glossary.sh` per aggiornare il glossario.
+- Se l'utente dice "aggiorna glossario" o "update glossary", esegui lo script.
+- Se l'utente chiede di tradurre un capitolo, carica SEMPRE il glossario prima di iniziare e usa le traduzioni consolidate.
+- Le entry marcate **[APPROVATO]** sono decisioni finali dell'autore: non modificarle mai.
+- Le entry marcate **[DA VERIFICARE]** richiedono attenzione dell'autore.
+
+### Generazione iniziale
+Se il glossario non esiste ancora, generalo scansionando tutti i file .md del progetto (capitoli, worldbuilding, personaggi, serie) ed estraendo tutti i termini propri, luoghi, organizzazioni, titoli, termini magici, divinità, razze, oggetti, espressioni, termini economici.
+
+### Aggiornamento
+| Comando | Contesto |
+|---------|----------|
+| `bash scripts/update-glossary.sh` | Aggiornamento manuale da terminale |
+| `git push` | Automatico via hook pre-push |
+| "aggiorna glossario" in Claude Code | Claude esegue lo script |
