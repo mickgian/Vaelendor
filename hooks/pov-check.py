@@ -57,15 +57,43 @@ def main():
     pov = cap_data.get("pov", "NON DEFINITO")
     pov_file = cap_data.get("file", "")
     note = cap_data.get("note", "")
+    prologo_pov = cap_data.get("prologo_pov", "")
+    prologo_file = cap_data.get("prologo_file", "")
 
     print("")
     print("🎭 POV DEL CAPITOLO:")
     print("--------------------------------------------")
+    if prologo_pov:
+        print(f"  Prologo: {prologo_pov.upper()}")
+        if prologo_file:
+            print(f"  Scheda prologo: {prologo_file}")
     print(f"  Capitolo {cap_num}: {pov.upper()}")
     if pov_file:
         print(f"  Scheda: {pov_file}")
     if note:
         print(f"  Nota:   {note}")
+
+    # Legge e stampa la sezione Voce Narrativa del prologo
+    if prologo_file:
+        project_root = Path(__file__).parent.parent
+        pro_path = project_root / prologo_file
+        if pro_path.exists():
+            lines = pro_path.read_text(encoding="utf-8").splitlines()
+            in_section = False
+            section_lines = []
+            for line in lines:
+                if "## Voce Narrativa" in line:
+                    in_section = True
+                    continue
+                if in_section and line.startswith("## "):
+                    break
+                if in_section:
+                    section_lines.append(line)
+            if section_lines:
+                print("")
+                print(f"  VOCE NARRATIVA — {prologo_pov.upper()} (prologo):")
+                for l in section_lines[:10]:
+                    print(f"  {l}")
 
     # Legge e stampa la sezione Voce Narrativa dalla scheda personaggio
     if pov_file:

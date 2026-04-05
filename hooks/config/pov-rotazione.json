@@ -1,6 +1,6 @@
 {
     "libro1": {
-        "1":   {"pov": "Sylas",    "file": "personaggi/party/sylas.md",   "note": "CLAUDE.md dice Zorgar, sinossi.md dice Sylas — seguire sinossi"},
+        "1":   {"pov": "Sylas",    "file": "personaggi/party/sylas.md",   "note": "Prologo in medias res con POV Zorgar, poi corpo del capitolo con POV Sylas", "prologo_pov": "Zorgar", "prologo_file": "personaggi/party/zorgar.md"},
         "2":   {"pov": "Elara",    "file": "personaggi/party/elara.md",   "note": ""},
         "3":   {"pov": "Dain",     "file": "personaggi/party/dain.md",    "note": "Fizzle si unisce al party"},
         "4":   {"pov": "Aldric",   "file": "personaggi/party/aldric.md",  "note": ""},
