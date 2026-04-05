@@ -15,10 +15,16 @@ def get_project_root():
     return os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 def extract_chapter_info(filepath):
-    chapter_match = re.search(r'capitolo-(\d+)', os.path.basename(filepath))
-    book_dir_match = re.search(r'(libro\d+-[^/]+)', filepath)
+    basename = os.path.basename(filepath)
+    if basename == "prologo.md":
+        chapter_num = "pro"
+    elif basename == "epilogo.md":
+        chapter_num = "epi"
+    else:
+        chapter_match = re.search(r'capitolo-(\d+)', basename)
+        chapter_num = int(chapter_match.group(1)) if chapter_match else None
 
-    chapter_num = int(chapter_match.group(1)) if chapter_match else None
+    book_dir_match = re.search(r'(libro\d+-[^/]+)', filepath)
     book_dir = book_dir_match.group(1) if book_dir_match else None
 
     return book_dir, chapter_num
@@ -31,6 +37,8 @@ def read_file_safe(filepath):
 
 def get_characters_for_chapter(chapter_num):
     """Return characters that should be present in the chapter."""
+    if chapter_num in ("pro", "epi"):
+        return ["zorgar", "sylas", "dain", "aldric", "elara", "mirael", "fizzle", "vera"]
     characters = ["zorgar", "sylas", "dain", "aldric", "elara", "mirael"]
     if chapter_num >= 3:
         characters.append("fizzle")
@@ -67,7 +75,8 @@ def main():
     # Paths
     memoria_dir = os.path.join(project_root, book_dir, "memoria-personaggi")
 
-    print(f"\n=== MEMORIA UPDATER — Capitolo {chapter_num:02d} ===\n")
+    cap_label = "Prologo" if chapter_num == "pro" else "Epilogo" if chapter_num == "epi" else f"Capitolo {chapter_num:02d}"
+    print(f"\n=== MEMORIA UPDATER — {cap_label} ===\n")
 
     # Check if chapter has content
     narrative_lines = [l for l in content.split('\n')
@@ -118,14 +127,18 @@ def main():
         memoria_content = read_file_safe(memoria_path)
 
         # Check if already updated for this chapter
-        cap_marker = f"Cap {chapter_num}:"
-        cap_marker_alt = f"Capitolo {chapter_num}"
+        if chapter_num == "pro":
+            markers = ["Prologo:", "Aggiornato al: Prologo"]
+        elif chapter_num == "epi":
+            markers = ["Epilogo:", "Aggiornato al: Epilogo"]
+        else:
+            markers = [f"Cap {chapter_num}:", f"Aggiornato al: Capitolo {chapter_num}"]
 
-        if cap_marker in memoria_content or f"Aggiornato al: Capitolo {chapter_num}" in memoria_content:
-            print(f"✅ {char.capitalize()}: già aggiornato al Capitolo {chapter_num}")
+        if any(m in memoria_content for m in markers):
+            print(f"✅ {char.capitalize()}: già aggiornato al {cap_label}")
         else:
             needs_update.append((char, "aggiornare"))
-            print(f"⚠️  {char.capitalize()}: memoria NON aggiornata al Capitolo {chapter_num}")
+            print(f"⚠️  {char.capitalize()}: memoria NON aggiornata al {cap_label}")
 
     print()
 
@@ -135,14 +148,15 @@ def main():
             memoria_path = os.path.join(memoria_dir, f"{char}.md")
             print(f"   — {char.capitalize()}: {action}")
             print(f"     File: {memoria_path}")
-            print(f"     Aggiungere con prefisso 'Cap {chapter_num}:' per ogni nuova voce")
+            prefix = "Prologo:" if chapter_num == "pro" else "Epilogo:" if chapter_num == "epi" else f"Cap {chapter_num}:"
+            print(f"     Aggiungere con prefisso '{prefix}' per ogni nuova voce")
             print(f"     Sezioni da aggiornare:")
             print(f"       • Cosa SA (nuovi fatti appresi)")
             print(f"       • Cosa SOSPETTA (nuove intuizioni)")
             print(f"       • Cosa NON SA (verificare se qualcosa è stato rivelato)")
             print(f"       • Relazioni (cambiamenti nei rapporti)")
             print(f"       • Stato Fisico/Emotivo (condizione attuale)")
-            print(f"     Aggiornare 'Aggiornato al: Capitolo {chapter_num}'")
+            print(f"     Aggiornare 'Aggiornato al: {cap_label}'")
             print()
 
         print(f"Risultato: ⚠️  {len(needs_update)} memorie da aggiornare")

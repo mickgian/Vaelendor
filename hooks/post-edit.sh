@@ -2,27 +2,49 @@
 # ============================================================================
 # POST-EDIT HOOK — Verifica che tutti i tracker siano aggiornati
 # ============================================================================
-# Uso: ./hooks/post-edit.sh <libro> <capitolo>
+# Uso: ./hooks/post-edit.sh <libro> <capitolo|pro|epi>
 # Esempio: ./hooks/post-edit.sh libro1-la-scelta 12
+#          ./hooks/post-edit.sh libro1-la-scelta pro
+#          ./hooks/post-edit.sh libro1-la-scelta epi
 # ============================================================================
 
 set -euo pipefail
 
 LIBRO="${1:?Errore: specificare il libro (es: libro1-la-scelta)}"
-CAP_NUM="${2:?Errore: specificare il numero del capitolo (es: 12)}"
-
-CAP_PADDED=$(printf "%02d" "$CAP_NUM")
+CAP_INPUT="${2:?Errore: specificare il capitolo (es: 12, pro, epi)}"
 
 BASE_DIR="$(cd "$(dirname "$0")/.." && pwd)"
 LIBRO_DIR="$BASE_DIR/$LIBRO"
 SERIE_DIR="$BASE_DIR/serie"
-CAP_FILE="$LIBRO_DIR/capitoli/capitolo-${CAP_PADDED}.md"
+
+# Determina file e label
+case "$CAP_INPUT" in
+    pro|prologo)
+        CAP_FILE="$LIBRO_DIR/capitoli/prologo.md"
+        CAP_LABEL="Prologo"
+        CHECKPOINT_FILE="$LIBRO_DIR/checkpoint/dopo-prologo.md"
+        CAP_NUM_FOR_MEMORIA="Prologo"
+        ;;
+    epi|epilogo)
+        CAP_FILE="$LIBRO_DIR/capitoli/epilogo.md"
+        CAP_LABEL="Epilogo"
+        CHECKPOINT_FILE="$LIBRO_DIR/checkpoint/dopo-epilogo.md"
+        CAP_NUM_FOR_MEMORIA="Epilogo"
+        ;;
+    *)
+        CAP_PADDED=$(printf "%02d" "$CAP_INPUT")
+        CAP_FILE="$LIBRO_DIR/capitoli/capitolo-${CAP_PADDED}.md"
+        CAP_LABEL="Capitolo $CAP_INPUT"
+        CHECKPOINT_FILE="$LIBRO_DIR/checkpoint/dopo-capitolo-${CAP_PADDED}.md"
+        CAP_NUM_FOR_MEMORIA="$CAP_INPUT"
+        ;;
+esac
 
 ERRORS=0
 WARNINGS=0
 
 echo "============================================"
-echo "  POST-EDIT CHECK — Capitolo $CAP_NUM ($LIBRO)"
+echo "  POST-EDIT CHECK — $CAP_LABEL ($LIBRO)"
 echo "============================================"
 echo ""
 
@@ -31,12 +53,12 @@ check_pass() { echo "  ✅ $1"; }
 check_fail() { echo "  ❌ BLOCCANTE: $1"; ERRORS=$((ERRORS + 1)); }
 check_warn() { echo "  ⚠️  $1"; WARNINGS=$((WARNINGS + 1)); }
 
-# 1. Verifica che il capitolo esista
-echo "📄 Capitolo:"
+# 1. Verifica che il file esista
+echo "📄 File:"
 if [ -f "$CAP_FILE" ]; then
-    check_pass "capitolo-${CAP_PADDED}.md esiste"
+    check_pass "$(basename "$CAP_FILE") esiste"
 else
-    check_fail "capitolo-${CAP_PADDED}.md NON TROVATO"
+    check_fail "$(basename "$CAP_FILE") NON TROVATO"
 fi
 
 # 2. Linter
@@ -72,11 +94,10 @@ fi
 # 4. Checkpoint aggiornato
 echo ""
 echo "📍 Checkpoint:"
-CHECKPOINT="$LIBRO_DIR/checkpoint/dopo-capitolo-${CAP_PADDED}.md"
-if [ -f "$CHECKPOINT" ]; then
-    check_pass "checkpoint/dopo-capitolo-${CAP_PADDED}.md esiste"
+if [ -f "$CHECKPOINT_FILE" ]; then
+    check_pass "$(basename "$CHECKPOINT_FILE") esiste"
 else
-    check_fail "checkpoint/dopo-capitolo-${CAP_PADDED}.md NON aggiornato"
+    check_fail "$(basename "$CHECKPOINT_FILE") NON aggiornato"
 fi
 
 # 5. Memorie personaggi aggiornate
@@ -87,10 +108,10 @@ if [ -d "$MEMORIA_DIR" ]; then
     for mem_file in "$MEMORIA_DIR"/*.md; do
         if [ -f "$mem_file" ]; then
             nome=$(basename "$mem_file" .md)
-            if grep -q "Capitolo $CAP_NUM" "$mem_file" 2>/dev/null || grep -q "Cap $CAP_NUM" "$mem_file" 2>/dev/null; then
-                check_pass "Memoria di $nome aggiornata al Cap $CAP_NUM"
+            if grep -q "$CAP_NUM_FOR_MEMORIA" "$mem_file" 2>/dev/null || grep -q "Cap $CAP_NUM_FOR_MEMORIA" "$mem_file" 2>/dev/null; then
+                check_pass "Memoria di $nome aggiornata al $CAP_LABEL"
             else
-                check_warn "Memoria di $nome potrebbe non essere aggiornata al Cap $CAP_NUM"
+                check_warn "Memoria di $nome potrebbe non essere aggiornata al $CAP_LABEL"
             fi
         fi
     done
@@ -126,15 +147,15 @@ done
 echo ""
 echo "============================================"
 if [ "$ERRORS" -gt 0 ]; then
-    echo "  ❌ CAPITOLO NON COMPLETO"
+    echo "  ❌ $CAP_LABEL NON COMPLETO"
     echo "  $ERRORS errori bloccanti, $WARNINGS avvisi"
     echo "  Correggere gli errori prima di procedere."
 else
-    echo "  ✅ CAPITOLO $CAP_NUM COMPLETO"
+    echo "  ✅ $CAP_LABEL COMPLETO"
     echo "  Tutti i controlli superati ($WARNINGS avvisi)."
     echo ""
     echo "  Suggerimento:"
-    echo "  git add . && git commit -m \"Capitolo $CAP_NUM completato\""
+    echo "  git add . && git commit -m \"$CAP_LABEL completato\""
     echo ""
     echo "📚 Rigenerazione PDF del libro..."
     python3 "$BASE_DIR/hooks/pdf-generator.py" "$LIBRO_DIR" "$BASE_DIR/Vaelendor_temo.pdf" 2>&1 | sed 's/^/  /'

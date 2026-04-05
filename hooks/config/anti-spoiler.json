@@ -1,0 +1,101 @@
+{
+  "libro1": {
+    "globali": [
+      {
+        "id": "AS-L1-01",
+        "regola": "I draghi non devono MAI essere menzionati o suggeriti.",
+        "dettaglio": "Termini proibiti: \"drago\", \"draghi\", \"draconico\", \"draconica\", \"dragon\", \"dragons\", \"drake\", \"wyvern\" e qualsiasi variante. Il lettore deve poter immaginare dei antichi, titani, forze primordiali — mai draghi. La rivelazione dei Draghi deve essere uno shock genuino."
+      },
+      {
+        "id": "AS-L1-02",
+        "regola": "L'antagonista è sempre e solo \"il Sabotatore\" — mai nominato.",
+        "dettaglio": "Il nome \"Kaelen Valdris\" non viene mai pronunciato nel Libro 1. Nessun dettaglio fisico che permetta di riconoscerlo in anticipo. Il momento esatto della rivelazione del nome è TBD."
+      },
+      {
+        "id": "AS-L1-03",
+        "regola": "La parola \"Stirpe\" non viene mai usata nel testo narrativo come etichetta.",
+        "dettaglio": "Elara e Vera hanno percezioni e reazioni — non vengono mai classificate con un termine che le colleghi a qualcosa di più grande o cosmico. Il legame tra Elara e Vera è percepito ma non nominato."
+      },
+      {
+        "id": "AS-L1-04",
+        "regola": "Mirael è specializzata in evocazione (Scuola della Furia).",
+        "dettaglio": "NON ha visioni, presagi, profezie, divinazione o percezione del futuro. Termini vietati vicino a Mirael: \"visione\", \"presagio\", \"profezia\", \"divinazione\", \"profetico\", \"divinatoria\", \"predizione\", \"oracolo\", \"scuola dell'eco\"."
+      },
+      {
+        "id": "AS-L1-05",
+        "regola": "Elara non deve sembrare speciale o mostrare abilità mistiche evidenti.",
+        "dettaglio": "Le sue reazioni sono \"strane\" ma spiegabili come sensibilità personale. Non è una veggente, non è una maga — è una ragazza che percepisce troppo."
+      },
+      {
+        "id": "AS-L1-06",
+        "regola": "I personaggi della Stirpe (Elara, Vera) percepiscono un dolore nascosto",
+        "dettaglio": "nella magia divina. La magia non \"fallisce\" — loro sentono qualcosa di sbagliato sotto la superficie. Personaggi non-Stirpe come Dain possono notare qualcosa di \"strano\" senza capire perché."
+      },
+      {
+        "id": "AS-L1-07",
+        "regola": "Dain può sentire che qualcosa è \"strano\" nelle leggende o nella pietra,",
+        "dettaglio": "ma non può interpretarlo. Non sa cosa sono i Draghi veramente. Le sue leggende sono vere, ma lui non ne conosce le implicazioni cosmiche. Le storie sono \"storie del nonno\", non \"rivelazioni\"."
+      },
+      {
+        "id": "AS-L1-08",
+        "regola": "I cinque Draghi (Saeryth, Vaelthrix, Ithrendal, Zheraan, Nethrak) non",
+        "dettaglio": "vengono mai nominati per nome. Non esistono nel vocabolario del Libro 1. Nessun personaggio conosce questi nomi, nemmeno nelle leggende di Dain."
+      },
+      {
+        "id": "AS-L1-09",
+        "regola": "Il Patto originale e il Tradimento non vengono mai descritti in termini",
+        "dettaglio": "cosmici. Non esistono \"fatti cosmici verificati\" — solo leggende, miti, storie attorno al fuoco. Il worldbuilding cosmico è nascosto nel folklore."
+      }
+    ],
+    "per_range": [
+      {
+        "id": "AS-L1-10",
+        "regola": "La Chiesa dei Tre appare genuinamente positiva e affidabile.",
+        "dettaglio": "Nessun commento sarcastico, nessuna lode sospetta, nessun indizio di corruzione. Deve sembrare davvero buona. Aldric crede nella Chiesa e il suo dubbio è interno, sottile, mai dichiarato apertamente. Termini negativi proibiti in contesto ecclesiale: \"corrotta\", \"corruzione\", \"corrotto\", \"tradisce\", \"tradita\", \"inganno\", \"inganna\", \"ingannare\", \"segreto oscuro\", \"manipolazione\", \"manipola\", \"complotto\", \"cospirazione\".",
+        "da": 1,
+        "a": 8
+      },
+      {
+        "id": "AS-L1-11",
+        "regola": "La Chiesa può mostrare comportamenti ambigui o contraddittori.",
+        "dettaglio": "La rivelazione del Sanatorio inizia a incrinare l'immagine — in modo graduale e attraverso le azioni dei personaggi, non commenti autoriali. La Chiesa rimane un'istituzione con persone buone (Aldric, Aldwyn): il problema è sistemico, non individuale. Non \"villain cartoonesco\". Il tradimento cosmico (Draghi incatenati, Traditori) resta nascosto.",
+        "da": 9,
+        "a": "fine"
+      },
+      {
+        "id": "AS-L1-12",
+        "regola": "Elara non sa cosa sia. Le sue percezioni sono un peso e un mistero,",
+        "dettaglio": "non un dono compreso. Non nominarle, non spiegarle, non collegarle ad altri personaggi o eventi in modo che risultino classificabili. Dal capitolo 10 il legame con Vera inizia a emergere, ma senza etichette.",
+        "da": 1,
+        "a": 9
+      },
+      {
+        "id": "AS-L1-13",
+        "regola": "Vera non è ancora nel party. Non è presente nelle scene di gruppo.",
+        "dettaglio": "La sua esistenza è nota solo come \"la ragazza sulla collina\" (dal Cap 6). Aldric non l'ha ancora incontrata fino al Capitolo 9.",
+        "da": 1,
+        "a": 9
+      }
+    ]
+  },
+  "tutti": {
+    "globali": [
+      {
+        "id": "AS-GLOBAL-01",
+        "regola": "I cinque Draghi non vengono mai nominati per nome prima che la",
+        "dettaglio": "rivelazione sia prevista dalla sinossi del libro in lavorazione. Verificare sempre la sinossi prima di usare nomi come Saeryth, Vaelthrix, Ithrendal, Zheraan, Nethrak nel testo narrativo."
+      },
+      {
+        "id": "AS-GLOBAL-02",
+        "regola": "Il Patto originale e il Tradimento non vengono mai descritti in termini",
+        "dettaglio": "cosmici prima delle rivelazioni pianificate nella sinossi. Dain può citare \"leggende\" — non \"fatti cosmici verificati\"."
+      },
+      {
+        "id": "AS-GLOBAL-03",
+        "regola": "Mirael appartiene alla Scuola della Furia (evocazione/elementi).",
+        "dettaglio": "NON usa divinazione, visioni, profezie o magia temporale (Scuola dell'Eco). Questa regola vale per TUTTI i libri della saga."
+      }
+    ],
+    "per_range": []
+  }
+}

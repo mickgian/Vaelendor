@@ -2,42 +2,87 @@
 # ============================================================================
 # PRE-EDIT HOOK — Carica contesto prima di lavorare su un capitolo
 # ============================================================================
-# Uso: ./hooks/pre-edit.sh <libro> <capitolo>
+# Uso: ./hooks/pre-edit.sh <libro> <capitolo|pro|epi>
 # Esempio: ./hooks/pre-edit.sh libro1-la-scelta 12
+#          ./hooks/pre-edit.sh libro1-la-scelta pro
+#          ./hooks/pre-edit.sh libro1-la-scelta epi
 # ============================================================================
 
 set -euo pipefail
 
 LIBRO="${1:?Errore: specificare il libro (es: libro1-la-scelta)}"
-CAP_NUM="${2:?Errore: specificare il numero del capitolo (es: 12)}"
-
-# Formatta il numero con zero iniziale
-CAP_PADDED=$(printf "%02d" "$CAP_NUM")
-PREV_CAP=$((CAP_NUM - 1))
-PREV_PADDED=$(printf "%02d" "$PREV_CAP")
+CAP_INPUT="${2:?Errore: specificare il capitolo (es: 12, pro, epi)}"
 
 BASE_DIR="$(cd "$(dirname "$0")/.." && pwd)"
 LIBRO_DIR="$BASE_DIR/$LIBRO"
 SERIE_DIR="$BASE_DIR/serie"
 
+# Determina tipo di unità narrativa e checkpoint precedente
+CAP_LABEL=""
+PREV_CHECKPOINT=""
+
+case "$CAP_INPUT" in
+    pro|prologo)
+        CAP_LABEL="Prologo"
+        CAP_KEY="pro"
+        # Il prologo non ha checkpoint precedente
+        ;;
+    epi|epilogo)
+        CAP_LABEL="Epilogo"
+        CAP_KEY="epi"
+        # Checkpoint precedente = ultimo capitolo
+        # Cerca il checkpoint più alto disponibile
+        LAST_CP=$(ls "$LIBRO_DIR/checkpoint"/dopo-capitolo-*.md 2>/dev/null | sort -V | tail -1)
+        if [ -n "$LAST_CP" ]; then
+            PREV_CHECKPOINT="$LAST_CP"
+        fi
+        ;;
+    *)
+        # Capitolo numerico
+        CAP_NUM="$CAP_INPUT"
+        CAP_PADDED=$(printf "%02d" "$CAP_NUM")
+        PREV_CAP=$((CAP_NUM - 1))
+        PREV_PADDED=$(printf "%02d" "$PREV_CAP")
+        CAP_LABEL="Capitolo $CAP_NUM"
+        CAP_KEY="$CAP_NUM"
+
+        if [ "$CAP_NUM" -gt 1 ]; then
+            PREV_CHECKPOINT="$LIBRO_DIR/checkpoint/dopo-capitolo-${PREV_PADDED}.md"
+        elif [ "$CAP_NUM" -eq 1 ]; then
+            # Cap 1: checkpoint precedente è il prologo (se esiste)
+            PREV_CHECKPOINT="$LIBRO_DIR/checkpoint/dopo-prologo.md"
+        fi
+        ;;
+esac
+
 echo "============================================"
-echo "  BRIEFING — Capitolo $CAP_NUM ($LIBRO)"
+echo "  BRIEFING — $CAP_LABEL ($LIBRO)"
 echo "============================================"
 echo ""
 
 # 1. Checkpoint precedente
-CHECKPOINT="$LIBRO_DIR/checkpoint/dopo-capitolo-${PREV_PADDED}.md"
-if [ "$CAP_NUM" -gt 1 ] && [ -f "$CHECKPOINT" ]; then
-    echo "📍 STATO DEL MONDO (dopo Capitolo $PREV_CAP):"
+if [ -n "$PREV_CHECKPOINT" ] && [ -f "$PREV_CHECKPOINT" ]; then
+    PREV_NAME=$(basename "$PREV_CHECKPOINT" .md)
+    echo "📍 STATO DEL MONDO ($PREV_NAME):"
     echo "--------------------------------------------"
-    cat "$CHECKPOINT"
+    cat "$PREV_CHECKPOINT"
     echo ""
-elif [ "$CAP_NUM" -eq 1 ]; then
-    echo "📍 Capitolo 1 — Nessun checkpoint precedente."
+elif [ "$CAP_KEY" = "pro" ]; then
+    echo "📍 Prologo — Nessun checkpoint precedente."
     echo ""
-else
-    echo "⚠️  Checkpoint dopo-capitolo-${PREV_PADDED}.md NON TROVATO"
+elif [ "$CAP_KEY" = "1" ]; then
+    # Cap 1 senza checkpoint prologo
+    echo "📍 Capitolo 1 — Nessun checkpoint precedente (prologo non ha checkpoint o non trovato)."
     echo ""
+elif [ -n "$PREV_CHECKPOINT" ]; then
+    echo "⚠️  Checkpoint $(basename "$PREV_CHECKPOINT") NON TROVATO"
+    echo ""
+fi
+
+# 1b. POV del capitolo corrente
+POV_SCRIPT="$BASE_DIR/hooks/pov-check.py"
+if [ -f "$POV_SCRIPT" ]; then
+    python3 "$POV_SCRIPT" "$LIBRO" "$CAP_KEY" 2>/dev/null || true
 fi
 
 # 2. Memorie personaggi
@@ -98,7 +143,13 @@ fi
 # 7. Tecnica narrativa del libro
 TECNICA_SCRIPT="$BASE_DIR/hooks/tecnica-check.py"
 if [ -f "$TECNICA_SCRIPT" ]; then
-    python3 "$TECNICA_SCRIPT" "$LIBRO" "$CAP_NUM" 2>/dev/null || true
+    python3 "$TECNICA_SCRIPT" "$LIBRO" "$CAP_KEY" 2>/dev/null || true
+fi
+
+# 8. Anti-spoiler attivi per questo capitolo
+ANTISPOILER_SCRIPT="$BASE_DIR/hooks/antispoiler-check.py"
+if [ -f "$ANTISPOILER_SCRIPT" ]; then
+    python3 "$ANTISPOILER_SCRIPT" "$LIBRO" "$CAP_KEY" 2>/dev/null || true
 fi
 
 echo "============================================"
