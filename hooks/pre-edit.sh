@@ -146,6 +146,12 @@ if [ -f "$TECNICA_SCRIPT" ]; then
     python3 "$TECNICA_SCRIPT" "$LIBRO" "$CAP_KEY" 2>/dev/null || true
 fi
 
+# 8. Anti-spoiler attivi per questo capitolo
+ANTISPOILER_SCRIPT="$BASE_DIR/hooks/antispoiler-check.py"
+if [ -f "$ANTISPOILER_SCRIPT" ]; then
+    python3 "$ANTISPOILER_SCRIPT" "$LIBRO" "$CAP_KEY" 2>/dev/null || true
+fi
+
 echo "============================================"
 echo "  BRIEFING COMPLETATO — Buona scrittura!"
 echo "============================================"
