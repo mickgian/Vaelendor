@@ -221,6 +221,51 @@ Ma qualcosa resta. Nei sogni degli orchi. Nel vento delle Steppe. Nella memoria 
 
 ---
 
+## Archetipo Narrativo
+
+**Archetipo:** L'Amore che Non Riesce a Lasciar Andare
+
+**Ferita centrale:**
+Era il Vento Prima della Tempesta — il dio degli orchi, della
+libertà, del cambiamento. Vorreth lo ha divorato: non ucciso,
+consumato. Non è quello che era. Non ricorda completamente
+cosa fosse. L'unica cosa che lo tiene insieme sono millenni
+di amicizia con Zheraan. Anche quando quella stessa amicizia
+è diventata una prigione per entrambi.
+
+**Momento-gancio per il lettore:**
+"Quando mi sono disperso ad Aethermor, sapevo dove sarei andato.
+L'unico posto dove ero ancora amato."
+
+Non è un archetipo umano — è qualcosa di più primordiale.
+Il lettore arriva al Libro 9 e capisce che tutto il mistero,
+tutto il terrore, era semplicemente: qualcuno che non riusciva
+a dire addio.
+
+**Comportamento narrativo da rispettare:**
+- Non parla mai. Mai. Otto anni di silenzio assoluto fino al
+  Libro 5. Ogni sua azione comunica attraverso la presenza,
+  non le parole.
+- L'ombra arriva sempre mezzo secondo in ritardo. Questo
+  dettaglio va mantenuto ogni volta che compare.
+- Quando è in una stanza, tutti lo sentono — un peso nell'aria,
+  una pressione che non ha nome. Non va spiegato. Va mostrato
+  nelle reazioni degli altri.
+- Con Lyra: qualcosa in lui risponde. Non con parole. Con
+  presenza. Con attenzione. L'aria si ammorbidisce.
+- Con Thorn: le voci tacciono quando è vicino. Entrambe.
+  Questo è terrificante, non rassicurante.
+- Non agisce quasi mai. Ma quando agisce, è decisivo e preciso.
+  Poi torna immobile come se niente fosse successo.
+
+**Lettore che cattura:**
+Chiunque abbia amato qualcosa o qualcuno così tanto da non
+riuscire a lasciarlo andare anche quando sarebbe stato meglio.
+È l'archetipo del lasciar andare — universale nel modo in
+cui solo le cose più semplici sanno esserlo.
+
+---
+
 ## Tratti Distintivi
 
 ### Il silenzio

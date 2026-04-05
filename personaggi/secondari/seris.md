@@ -248,6 +248,40 @@ Quindi lavora più duramente. Dorme meno. Pianifica per un futuro in cui non ci 
 
 ---
 
+## Archetipo Narrativo
+
+**Archetipo:** Colei che Porta il Peso degli Altri
+
+**Ferita centrale:**
+Ha bruciato la sua vita — nome, titolo, futuro, ogni possibilità
+di normalità — per una causa e per un fratello. Fa le scelte sporche
+perché Kaelen non può farle. Sta morendo, e nessuno lo sa.
+Pianifica un futuro in cui non ci sarà.
+
+**Momento-gancio per il lettore:**
+"Devo finire questo. Prima che il tempo finisca."
+Detto a se stessa. Non a nessun altro. Mai.
+
+**Comportamento narrativo da rispettare:**
+- Non spreca parole, tempo o risorse. Ogni cosa ha uno scopo.
+- Valuta tutti immediatamente — postura, mani, occhi, respiro.
+  In pochi secondi ha già deciso chi è, come usarlo, quanto vale.
+- Non mostra emozioni in pubblico. Le emozioni sono vulnerabilità.
+  In privato, con Kaelen, le crepe emergono.
+- Le decisioni sporche — sacrificare qualcuno, abbandonare una
+  missione, eliminare una spia — le prende lei. Kaelen non deve
+  sapere. Deve restare il simbolo.
+- La malattia non si vede mai direttamente. Si vede nell'urgenza:
+  lavora troppo, dorme poco, pianifica come se avesse fretta.
+- Solo Kaelen la chiama Seris. Per tutti gli altri è "la Tessitrice."
+
+**Lettore che cattura:**
+Chi lavora nell'ombra perché altri possano brillare. Chi porta
+sacrifici invisibili che nessuno vedrà mai. Chi si chiede cosa
+resta di sé dopo anni in cui la missione è venuta prima di tutto.
+
+---
+
 ## Arco Narrativo
 
 **Libro 3:** Il party la incontra al Conclave delle Ombre. Prima impressione fredda, distante, calcolatrice. Ma anche competente. Efficace. Qualcuno che sa cosa sta facendo.

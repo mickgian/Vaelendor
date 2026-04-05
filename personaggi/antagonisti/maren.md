@@ -202,6 +202,47 @@ Maren non ci pensa. Non deve pensarci.
 
 ---
 
+## Archetipo Narrativo
+
+**Archetipo:** Il Mostro Fabbricato dalla Fede
+
+**Ferita centrale:**
+Ha costruito trent'anni di atrocità sulla certezza che la Chiesa
+avesse ragione. Se avesse torto, sarebbe stato tutto per niente.
+Non è crudele — è efficiente. Non odia — è indifferente. Nel
+silenzio dopo le preghiere, guarda indietro. Poi smette.
+
+**Momento-gancio per il lettore:**
+"Nel profondo — in un posto che non guarda mai — sa che qualcosa
+non va. Ma non può permettersi di guardare. Non dopo tutto quello
+che ha fatto. Se la Chiesa avesse torto... cosa sarebbe lui?"
+
+È lo specchio oscuro di Aldric. Stesso punto di partenza,
+scelta opposta. Il vero orrore non è ciò che fa — è che potrebbe
+fermarsi, e non lo fa.
+
+**Comportamento narrativo da rispettare:**
+- Non alza mai la voce. Non ha bisogno di urlare per essere
+  terrificante. Parla piano, con calma, con certezza assoluta.
+- Non è sadico. Non gode del dolore. Il dolore è uno strumento.
+  Se serve, lo usa. Niente di personale.
+- Interroga con domande, non con violenza. Sa quale domanda
+  fare, quando farla, dove premere.
+- I silenzi sono armi: li lascia allungare fino all'insopportabile.
+  Quasi tutti parlano per riempirli.
+- I dubbi esistono. Vengono soffocati immediatamente. Mai
+  mostrati apertamente, ma percepibili nelle crepe della narrazione.
+- Nel Libro 1-2: antagonista puro. Le crepe emergono solo
+  nel Libro 3, nei confronti diretti con Aldric e Vera.
+
+**Lettore che cattura:**
+Chi ha continuato a fare qualcosa di sbagliato perché fermarsi
+avrebbe significato ammettere gli anni precedenti. Chi ha
+costruito l'identità su una certezza e non riesce a esaminarla.
+Chi riconosce in lui la parte di sé che razionalizza.
+
+---
+
 ## Arco Narrativo
 
 **Libro 1:** L'antagonista. Freddo, efficiente, terrificante. Dà la caccia al party. È sempre un passo indietro — ma quel passo si accorcia.

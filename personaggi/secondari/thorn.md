@@ -311,6 +311,44 @@ Non sa per quanto ancora potrà resistere.
 
 ---
 
+## Archetipo Narrativo
+
+**Archetipo:** Il Combattente Eterno Contro Se Stesso
+
+**Ferita centrale:**
+Sente due voci ogni ora di ogni giorno. La bugia è più dolce.
+La verità è più dolorosa. Ogni giorno sceglie la verità. Ogni
+giorno è stanco prima ancora di alzarsi. Non lo dice a nessuno
+perché è il loro teologo — l'esempio di fede ricostruita.
+Non sa per quanto ancora potrà resistere.
+
+**Momento-gancio per il lettore:**
+"Non sono pazzo. I pazzi non sanno. Io so esattamente cosa
+succede nella mia testa. So quale voce è vera e quale è falsa.
+So che la falsa è più dolce. È per questo che è peggio."
+
+**Comportamento narrativo da rispettare:**
+- Le mani tremano. Sempre. Un tremore leggero e costante che
+  non può controllare.
+- Non dorme. Qualche ora qua e là quando il corpo crolla.
+  Nel silenzio le voci diventano più forti, non più deboli.
+- Parla come un sacerdote — caldo, ritmico, persuasivo. È
+  automatico. A volte se ne accorge a metà e si ferma, disgustato.
+- Si interrompe. A volte fissa il vuoto per qualche secondo.
+  Poi torna. "Scusa. Stavano parlando."
+- La tentazione esiste sempre. La voce falsa promette pace.
+  Ogni giorno sarebbe così facile cedere. Non lo fa. Ogni giorno.
+- Con Fizzle: l'unico che lo fa ridere davvero. Le esplosioni
+  e il caos mettono a tacere le voci per un momento.
+
+**Lettore che cattura:**
+Chi combatte qualcosa dentro di sé ogni giorno. Chi sceglie il
+difficile sapendo che esiste il facile. Chi ha tenuto duro così
+a lungo che non ricorda com'era non farlo. Chi porta una battaglia
+interna che gli altri non vedono.
+
+---
+
 ## Arco Narrativo
 
 **Libro 3:** Il party lo incontra con Kaelen. Strano, tremante, gentile. Parla come un sacerdote ma serve qualcos'altro. Inquietante e rassicurante insieme.
