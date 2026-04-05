@@ -40,6 +40,12 @@ else
     echo ""
 fi
 
+# 1b. POV del capitolo corrente
+POV_SCRIPT="$BASE_DIR/hooks/pov-check.py"
+if [ -f "$POV_SCRIPT" ]; then
+    python3 "$POV_SCRIPT" "$LIBRO" "$CAP_NUM" 2>/dev/null || true
+fi
+
 # 2. Memorie personaggi
 echo "🧠 MEMORIE PERSONAGGI:"
 echo "--------------------------------------------"
