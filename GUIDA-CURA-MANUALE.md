@@ -9,19 +9,25 @@ Gli hook li lancia Claude Code — tu curi i file che gli hook leggono.
 
 | Azione | Chi la fa |
 |--------|-----------|
-| Curare checkpoint, memorie, tracker, timeline | **Tu** (prima/dopo ogni capitolo) |
-| Lanciare `pre-edit.sh`, `post-edit.sh`, linter, validator | **Claude Code** (automaticamente) |
+| Lanciare `pre-edit.sh`, linter, validator, `post-edit.sh` | **Claude Code** (automaticamente) |
 | Scrivere/espandere il capitolo | **Claude Code** (Modalità 1/3) oppure **tu** (Modalità 2) |
-| Aggiornare checkpoint e memorie dopo la scrittura | **Claude Code** (genera template + suggerimenti), **tu** verifichi e approvi |
+| Aggiornare checkpoint e memorie dopo la scrittura | **Claude Code** (li genera nella pipeline post-edit) |
+| Verificare checkpoint e memorie generati | **Tu** (correggi se servono aggiustamenti) |
+| Aggiornare i tracker della serie (timeline, foreshadowing, relazioni, rivelazioni, morti) | **Tu** (Claude Code non li tocca) |
+| Preparare la sinossi del prossimo capitolo | **Tu** |
 
-In pratica: tu prepari il terreno, dai le indicazioni ("Scrivi il capitolo 10"), e Claude Code gestisce tutta la pipeline di hook. Tu intervieni per **verificare e approvare** i risultati.
+**Il ciclo normale:**
+1. Tu verifichi che la sinossi copra il capitolo → dici "Scrivi il capitolo N"
+2. Claude Code esegue tutta la pipeline (pre-edit → scrittura → linter → validator → checkpoint → memorie → post-edit)
+3. Tu verifichi checkpoint e memorie, aggiorni i tracker serie, commit
 
 ---
 
 ## Prima di chiedere a Claude Code di scrivere
 
-Se hai fatto bene il "dopo" del capitolo precedente, checkpoint, memorie e timeline sono già pronti.
-L'unica cosa che devi assicurarti è che Claude sappia **cosa succede** nel capitolo.
+Checkpoint e memorie del capitolo precedente li ha già generati Claude Code alla fine della pipeline.
+Tu li hai verificati nel "dopo" del capitolo precedente, quindi sono pronti.
+L'unica cosa che devi preparare è la **sinossi** del capitolo che stai per far scrivere.
 
 | File | Cosa fare | Quando |
 |------|-----------|--------|
@@ -39,15 +45,21 @@ L'unica cosa che devi assicurarti è che Claude sappia **cosa succede** nel capi
 
 ## Dopo che Claude Code ha scritto il capitolo
 
-Claude Code lancia gli hook automaticamente e produce suggerimenti per checkpoint e memorie.
-Tu **verifichi** che i dati siano corretti e **approvi** o correggi.
+Claude Code genera automaticamente checkpoint e memorie nella pipeline post-edit.
+
+**Verifichi** (generati da Claude Code):
 
 | File | Cosa fare | Quando |
 |------|-----------|--------|
-| `libro1-la-scelta/checkpoint/dopo-capitolo-NN.md` | Verificare/correggere il contenuto generato da Claude. Le sezioni `[Da compilare]` vanno riempite con gli eventi reali | Dopo ogni capitolo |
-| `libro1-la-scelta/memoria-personaggi/*.md` | Verificare che Claude abbia aggiornato correttamente cosa sa/sospetta/non sa ogni personaggio | Dopo ogni capitolo |
+| `libro1-la-scelta/checkpoint/dopo-capitolo-NN.md` | Verificare che sia corretto. Correggere se necessario | Dopo ogni capitolo |
+| `libro1-la-scelta/memoria-personaggi/*.md` | Verificare che cosa sa/sospetta/non sa sia corretto per ogni personaggio | Dopo ogni capitolo |
+
+**Aggiorni tu** (Claude Code non li tocca):
+
+| File | Cosa fare | Quando |
+|------|-----------|--------|
 | `libro1-la-scelta/timeline.md` | Completare giorno ed eventi principali | Dopo ogni capitolo |
-| `libro1-la-scelta/note/foreshadowing-tracker.md` | Aggiungere semi piantati nel capitolo (🌱), aggiornare semi cresciuti (🌿) o raccolti (🌳) | Dopo ogni capitolo che pianta o raccoglie un seme |
+| `libro1-la-scelta/note/foreshadowing-tracker.md` | Aggiungere semi piantati (🌱), cresciuti (🌿) o raccolti (🌳) | Dopo ogni capitolo che pianta o raccoglie un seme |
 | `serie/tracker/relazioni.md` | Aggiungere/aggiornare coppie di personaggi se il rapporto evolve | Quando una relazione cambia in modo significativo |
 | `serie/tracker/rivelazioni.md` | Registrare rivelazioni avvenute; spostare da "Pianificate" ad "Avvenute" | Quando il lettore o un personaggio scopre qualcosa |
 | `serie/tracker/morti.md` | Registrare il decesso | Quando un personaggio muore |
