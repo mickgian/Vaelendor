@@ -141,6 +141,42 @@ Le leggende di Dain piantano semi di dubbio — ma anche semi di speranza. Se gl
 
 ---
 
+## Archetipo Narrativo
+
+**Archetipo:** Il Credente in Crisi
+
+**Ferita centrale:**
+Ha costruito tutta la sua identità su una fede che sta crollando.
+Senza di essa non sa chi sarebbe. La cosa più terrificante non è
+che la Chiesa menta — è che lui ci ha creduto con tutto sé stesso.
+
+**Momento-gancio per il lettore:**
+Zorgar ha iniziato a mettergli il cibo in mano senza chiedere.
+È l'unico modo per farlo mangiare. Un barbaro mezz'orco che nutre
+silenziosamente un chierico che si dimentica di sé stesso perché
+aspetta che tutti abbiano abbastanza. Il lettore capisce entrambi in tre secondi.
+
+**Comportamento narrativo da rispettare:**
+- Le mani si muovono verso le ferite prima che il cervello dia il permesso.
+  Non è eroismo — è riflesso.
+- Le preghiere diventano più brevi e incerte man mano che la fede vacilla.
+  Nei capitoli avanzati, si interrompono a metà.
+- Si scusa per cose che non sono colpa sua. Sempre.
+- Non mente. Mai. Non per principio — non ne è capace. Sylas lo trova
+  disorientante.
+- Vede la sofferenza degli altri prima della propria. Inclusa quella
+  dei nemici. Inclusa quella di chi lo attacca.
+- Non critica mai la Chiesa apertamente nel Libro 1. Il dubbio è interno,
+  non dichiarato.
+
+**Lettore che cattura:**
+Chi ha attraversato o sta attraversando una crisi di fede — religiosa,
+ideologica, istituzionale. Chi continua a fare il bene anche mentre
+i suoi fondamenti crollano. Chi si è accorto che il sistema in cui
+credeva era diverso da come glielo avevano descritto.
+
+---
+
 ## Segreto / Arco Narrativo
 
 ### Il problema con Vera

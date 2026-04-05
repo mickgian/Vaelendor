@@ -244,6 +244,43 @@ Riconoscimento profondo. Quando Kaelen vede Vera per la prima volta, qualcosa sc
 
 ---
 
+## Archetipo Narrativo
+
+**Archetipo:** L'Usata dalla Profezia
+
+**Ferita centrale:**
+Non ha mai avuto controllo su nulla — né sulla propria mente, né
+sul proprio corpo, né sul proprio destino. Prima la Chiesa, ora
+le voci. Non sa chi la sta usando. Sa solo che non vuole
+essere uno strumento di nessuno.
+
+**Momento-gancio per il lettore:**
+"Non mi fido di te. Di nessuno di voi. Ma siete meglio dell'alternativa."
+Non è gratitudine. Non è speranza. È la matematica fredda di qualcuno
+che ha imparato che la fiducia non esiste — e che sceglie comunque
+il male minore.
+
+**Comportamento narrativo da rispettare:**
+- Parla pochissimo. Quando parla, ogni parola è soppesata.
+- Non è una vittima passiva — ha un'agenda. Ma la rivela in frammenti,
+  non in dichiarazioni. Nel Libro 1, più quello che non dice che quello
+  che dice.
+- La rabbia è fredda, non esplosiva. Diventa più calma e più pericolosa
+  quando è arrabbiata.
+- Nasconde cibo. È automatico. Anni di incertezza.
+- Non si scusa per i suoi poteri. Ne è esausta, non vergognosa.
+- Con Elara: unico legame in cui abbassa completamente la guardia.
+  Con gli altri: sempre una parte di sé in riserva.
+- Gli occhi dorati non sono controllabili. Quando arrivano, arrivano.
+
+**Lettore che cattura:**
+Chi si sente definito da ciò che gli altri vogliono che sia.
+Lettori più giovani che stanno scoprendo che il mondo è più complicato
+di come glielo hanno descritto. Chi ha vissuto senza il controllo
+della propria vita.
+
+---
+
 ## Il Suo Segreto
 
 ### Cosa sa che non dice

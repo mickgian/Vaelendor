@@ -270,6 +270,41 @@ NESSUNO LO SA. Possibilità:
 
 ---
 
+## Archetipo Narrativo
+
+**Archetipo:** La Mente che Non Si Ferma
+
+**Ferita centrale:**
+Ha paura di ciò che ha creato. Micio non è un gatto — e parte di lei
+lo sa da sei anni. Ha costruito sistemi per spiegare tutto, ma c'è
+una domanda al centro di tutto che non vuole porre perché potrebbe
+non sopravvivere alla risposta.
+
+**Momento-gancio per il lettore:**
+"Il quaderno. Una volta l'ha perso. È stato traumatico. Non ne parla."
+In quel quaderno c'è chi è. Perderlo era perdere sé stessa.
+
+**Comportamento narrativo da rispettare:**
+- La mente salta da un'idea all'altra anche in situazioni di pericolo.
+  Non è incapacità — è come processa il mondo. Le osservazioni
+  accademiche in piena battaglia sono involontarie, non battute.
+- Dice cose socialmente inappropriate non per cattiveria ma per
+  incapacità genuina di leggere i segnali. Se se ne accorge, si corregge.
+- Dimentica di mangiare quando si concentra. Non è affettazione.
+- NON ha capacità di divinazione o visioni. È una maga della Congiurazione:
+  evoca, connette, apre. Non vede il futuro.
+- Con Micio: non gli chiede mai direttamente cosa sia. Lo circonda
+  con domande indirette. Ha paura della risposta.
+- Tratta le leggende di Dain come dati, non folklore. È il massimo
+  rispetto che può offrire.
+
+**Lettore che cattura:**
+Chi pensa più velocemente del mondo che lo circonda. Chi si sente
+socialmente disastroso ma intellettualmente preciso. Chi usa la
+conoscenza come controllo sul caos — e sa che un giorno il caos vincerà.
+
+---
+
 ## Segreto / Arco Narrativo
 
 ### Il mistero vero

@@ -244,6 +244,42 @@ E così, senza cerimonie, il gruppo acquista uno gnomo.
 
 ---
 
+## Archetipo Narrativo
+
+**Archetipo:** Il Buffone con la Ferita Nascosta
+
+**Ferita centrale:**
+Tutti lo evitano. È abituato. Si dice che vada bene — più tempo
+per gli esperimenti. Ma c'è un momento in cui si interrompe:
+*"Anche se a volte... no, niente. Più tempo per gli esperimenti."*
+Quella frase incompiuta è la ferita più profonda di tutto il party.
+
+**Momento-gancio per il lettore:**
+"Tutti mi evitano. Va bene. Meno distrazioni. Più tempo per gli
+esperimenti. Anche se a volte... no, niente. Più tempo per gli esperimenti."
+Non va cambiata una parola. Va usata esattamente così, una volta,
+nel momento giusto.
+
+**Comportamento narrativo da rispettare:**
+- La distrazione è reale, non performance. Si distrae davvero.
+  Ma gli "incidenti" utili al momento giusto sono troppo frequenti
+  per essere puri accidenti — lasciare ambiguità.
+- Non ricorda i nomi. Mai. Usa descrizioni. Non è scortesia — è come
+  funziona la sua memoria.
+- Quando qualcuno lo ringrazia, lo rifiuta. "Non l'ho fatto per te."
+  Ma poi aggiunge "prego. Credo." L'esitazione è reale.
+- La gentilezza genuina lo disarma. Non sa come gestirla. La ricorda.
+- Il fuoco lo tratta diversamente dagli altri. Non lo nota. Gli altri sì.
+- Non esprime mai solitudine direttamente. Se emerge, è in frasi
+  interrotte o cambiate a metà.
+
+**Lettore che cattura:**
+Chi usa l'ironia e il caos come armatura. Chi è stato escluso per
+essere "troppo diverso." Chi sa che la solitudine è più tollerabile
+se la chiami con un altro nome.
+
+---
+
 ## Segreto / Arco Narrativo
 
 ### La tradizione gnomesca
