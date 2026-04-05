@@ -221,6 +221,28 @@ tu impari dai tuoi errori. Io ho solo imparato a sopravviverci."
   verità cancellate. Per le vite spezzate.
 - Non vuole affezionarsi al party. Lo fa comunque. Nonostante tutto.
 
+### Tre Tratti Distintivi
+
+**Tratto 1 — I nomi sbagliati (ricorrente):**
+Thyra a volte chiama le persone con nomi sbagliati. Non per
+distrazione — per memoria. Vede in loro qualcuno che ha conosciuto
+secoli fa. "Aldric... scusa. Avevi lo stesso sguardo di qualcuno
+che ho conosciuto. È morto quattrocento anni fa." Il lettore
+capisce ogni volta quanto sia pesante avere ottocento anni
+di ricordi sovrapposti al presente.
+
+**Tratto 2 — Le storie dirette (emotivo):**
+Le storie di Thyra non sono folklore. Sono memorie. "Ero lì quando
+misero la prima pietra. Il vescovo pianse. Non di gioia — di paura."
+Quando il lettore capisce che le sue storie sono testimonianze
+dirette, la portata di quello che ha visto diventa vertiginosa.
+
+**Tratto 3 — Il giardino che risponde (raro):**
+Nella Valle Nascosta, Thyra parla con le piante. Non metaforicamente
+— letteralmente. E a volte rispondono. Il lettore la vede farlo
+una volta e non lo dimentica: qualcosa di antico e strano, che
+non viene spiegato, che non ha bisogno di esserlo.
+
 **Lettore che cattura:**
 Chi ha aspettato il momento giusto per troppo tempo. Chi porta
 il peso di un'occasione mancata. Chi conserva cose preziose

@@ -382,6 +382,31 @@ non sa cosa ho fatto. Nessuno lo sa."
 - Il segreto di quella notte pesa su ogni scena in cui compare.
   Non va detto — va sentito sotto la superficie.
 
+### Tre Tratti Distintivi
+
+**Tratto 1 — Mira (ricorrente):**
+La bambola di pezza, logora, rappezzata mille volte. L'unica
+cosa che le resta di casa, del prima. Porta il nome di sua madre.
+Lyra la tiene quando ha paura — cioè spesso. Le parla quando
+nessuno guarda. Non va mai criticata per questo. Il lettore
+capisce subito che quella bambola non è infantilismo: è l'unica
+cosa che sa ancora di prima.
+
+**Tratto 2 — L'oscillazione (emotivo):**
+Un momento matura e saggia oltre i suoi anni. Il momento dopo
+vuole un abbraccio e piange per una sciocchezza. Poi chiede
+se ci sono biscotti. Non è instabilità — è un bambino che
+elabora traumi d'adulto senza avere gli strumenti per farlo.
+Il lettore ride e ha il cuore spezzato nello stesso momento.
+
+**Tratto 3 — Il calore nelle mani (raro):**
+Quando è molto turbata, le mani di Lyra brillano. L'aria si
+scalda. Una luce dorata che pulsa con il battito del cuore.
+Ha bruciato il giaciglio due volte. Sa cosa può fare — lo ha
+già fatto. Per questo il tratto è raro: Lyra fa di tutto per
+non arrivare a quel punto, e il lettore che conosce il suo
+segreto lo sa meglio di chiunque altro.
+
 **Lettore che cattura:**
 Chi porta una colpa per qualcosa che non ha controllato. Chi ha
 paura di se stesso. I lettori più giovani che si sentono "troppo"

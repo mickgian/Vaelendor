@@ -235,6 +235,30 @@ fermarsi, e non lo fa.
 - Nel Libro 1-2: antagonista puro. Le crepe emergono solo
   nel Libro 3, nei confronti diretti con Aldric e Vera.
 
+### Tre Tratti Distintivi
+
+**Tratto 1 — I silenzi come arma (ricorrente):**
+Maren smette di parlare. Fissa. Aspetta. Il silenzio si allunga
+fino a diventare insopportabile. Quasi tutti parlano per riempirlo.
+Lui lo sa. Lo usa. Il lettore lo riconosce come tecnica e si
+trova comunque a sentire la pressione ogni volta che appare.
+
+**Tratto 2 — Le preghiere che cambiano (emotivo):**
+Maren prega ancora. Ogni mattina, ogni sera. Ma le sue preghiere
+non chiedono più guida o benedizioni — chiedono solo forza per
+continuare. Nel silenzio dopo la preghiera, i dubbi affiorano.
+Li scaccia. Il lettore che segue questo rituale nel tempo
+ha una mappa precisa di quanto sia vicino a cedere.
+
+**Tratto 3 — La cicatrice che non spiega (raro):**
+Se qualcuno chiede della cicatrice dalla tempia al mento,
+Maren lo guarda fino a che non si pentono di aver chiesto.
+Non la spiega mai. Ma il lettore viene a sapere la verità
+in un'altra scena — una donna che stava interrogando, un pezzo
+di ceramica rotta, il momento in cui qualcosa è cambiato.
+Quando cicatrice e storia si connettono nella mente del lettore,
+Maren diventa improvvisamente più reale.
+
 **Lettore che cattura:**
 Chi ha continuato a fare qualcosa di sbagliato perché fermarsi
 avrebbe significato ammettere gli anni precedenti. Chi ha

@@ -273,6 +273,30 @@ nel momento giusto.
 - Non esprime mai solitudine direttamente. Se emerge, è in frasi
   interrotte o cambiate a metà.
 
+### Tre Tratti Distintivi
+
+**Tratto 1 — Leccare tutto (ricorrente):**
+Fizzle assaggia sostanze sconosciute. È il suo metodo di analisi
+principale. Funghi, polveri, liquidi misteriosi, pietre — se non
+sa cos'è, lo lecca. Ha uno stomaco di ferro (o è già morto dentro,
+nessuno è sicuro). Il lettore lo vede farlo continuamente e oscilla
+tra disgusto e ammirazione per l'efficacia del metodo.
+
+**Tratto 2 — Gli incidenti troppo convenienti (emotivo):**
+Le cose esplodono intorno a Fizzle al momento giusto. Inciampa,
+urta, rovescia — e stranamente, l'incidente è sempre utile.
+Sylas lo osserva con sospetto crescente: è un genio che finge
+o un idiota fortunato? Il lettore non lo sa mai con certezza.
+Quando l'ambiguità si risolve — se si risolve — avrà un peso enorme.
+
+**Tratto 3 — La frase interrotta (raro):**
+Una volta, una sola, Fizzle si interrompe. "Tutti mi evitano.
+Va bene. Meno distrazioni. Più tempo per gli esperimenti.
+Anche se a volte... no, niente. Più tempo per gli esperimenti."
+Non va mai usata più di una volta. Va usata al momento esatto
+giusto. È la ferita più nascosta del party e la più potente
+quando emerge.
+
 **Lettore che cattura:**
 Chi usa l'ironia e il caos come armatura. Chi è stato escluso per
 essere "troppo diverso." Chi sa che la solitudine è più tollerabile

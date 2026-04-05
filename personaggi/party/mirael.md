@@ -298,6 +298,30 @@ In quel quaderno c'è chi è. Perderlo era perdere sé stessa.
 - Tratta le leggende di Dain come dati, non folklore. È il massimo
   rispetto che può offrire.
 
+### Tre Tratti Distintivi
+
+**Tratto 1 — Il quaderno (ricorrente):**
+Mirael annota tutto nel suo quaderno logoro e macchiato. Osservazioni,
+teorie, connessioni, domande — scrive anche mentre gli altri parlano,
+anche nei momenti sbagliati, anche durante situazioni di pericolo.
+Il quaderno è chi è: perderlo una volta è stato traumatico.
+Non ne parla. Il lettore capisce da solo perché.
+
+**Tratto 2 — I monologhi nel momento sbagliato (emotivo):**
+Nel mezzo di un combattimento, di una fuga, di una conversazione
+tesa — Mirael nota qualcosa di interessante e lo dice ad alta voce.
+Non è incapacità: è come processa il mondo. Il lettore la trova
+irritante e affascinante in ugual misura, e col tempo capisce
+che quei monologhi spesso contengono la chiave del problema
+che tutti stanno cercando di risolvere.
+
+**Tratto 3 — La conversazione con Micio (raro):**
+Mirael parla con Micio come se lui capisse. Tutti pensano sia
+un vezzo da maga eccentrica. Ma Elara sospetta che il gatto
+capisca davvero — e il lettore, nei momenti in cui Micio inclina
+la testa esattamente al momento giusto, comincia a sospettarlo
+anche lui. Questi momenti sono rari e deliberatamente ambigui.
+
 **Lettore che cattura:**
 Chi pensa più velocemente del mondo che lo circonda. Chi si sente
 socialmente disastroso ma intellettualmente preciso. Chi usa la

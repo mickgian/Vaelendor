@@ -157,6 +157,29 @@ sono contenute in quella frase.
 - Le sue bugie sono sopravvivenza. Le sue verità sono rare e pesanti.
 - Non chiede mai "come stai?" — osserva e deduce.
 
+### Tre Tratti Distintivi
+
+**Tratto 1 — Le uscite (ricorrente):**
+Sylas non entra mai in una stanza senza aver identificato almeno
+due uscite. Finestre, porte di servizio, camini, punti deboli
+nei muri. È automatico, compulsivo. Lo fa anche nelle situazioni
+più banali. Il lettore lo vede farlo ogni volta che entra da
+qualche parte — e col tempo capisce che non è tattica, è trauma.
+
+**Tratto 2 — Le tasche svuotate (emotivo):**
+A fine giornata, Sylas svuota le tasche e trova oggetti che non
+ricorda di aver preso: monete, spillette, lettere, piccoli furti
+automatici. Non sempre per necessità — spesso per abitudine,
+a volte per sfida, a volte perché può. Quando inizia a non rubare
+più a qualcuno del party, è il segnale silenzioso che si fida.
+
+**Tratto 3 — Il sonno impossibile (raro):**
+Non dorme mai profondamente. Non da cinque anni. Ma nei rarissimi
+momenti in cui qualcuno lo vede dormire davvero — rilassato,
+senza una mano sul coltello — il lettore capisce quanto sia costato
+arrivare a quel momento di fiducia. Appare una o due volte
+nell'intera saga, e ogni volta pesa.
+
 **Lettore che cattura:**
 Chi ha imparato che fidarsi fa male. Chi usa il sarcasmo come armatura.
 Chi vuole disperatamente credere nelle persone ma non sa da dove cominciare.

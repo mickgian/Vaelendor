@@ -169,6 +169,30 @@ aspetta che tutti abbiano abbastanza. Il lettore capisce entrambi in tre secondi
 - Non critica mai la Chiesa apertamente nel Libro 1. Il dubbio è interno,
   non dichiarato.
 
+### Tre Tratti Distintivi
+
+**Tratto 1 — Le mani che si muovono (ricorrente):**
+Le mani di Aldric si muovono verso le ferite prima che il cervello
+dia il permesso. Amico, nemico, sconosciuto — non importa. È un
+riflesso condizionato da anni di guarigione. Il lettore lo vede
+farlo continuamente, anche in situazioni scomode, anche verso
+chi lo stava attaccando un momento prima.
+
+**Tratto 2 — Le preghiere interrotte (emotivo):**
+Prega sottovoce, quasi inconsciamente. Ma man mano che la fede
+vacilla, le preghiere diventano più brevi, più incerte, fino
+a interrompersi a metà frase. Il lettore che segue questo
+cambiamento nel tempo ha una mappa precisa del crollo interiore
+di Aldric — senza che lui lo dica mai esplicitamente.
+
+**Tratto 3 — Il pasto saltato (raro):**
+Non mangia mai prima che tutti abbiano cibo. Divide sempre
+la sua porzione se qualcuno ha fame. Nei momenti di crisi più
+intensa, si dimentica completamente di mangiare. Zorgar ha
+iniziato a mettergli cibo in mano senza chiedere — ed è diventato
+uno dei gesti più teneri dell'intera saga, proprio perché nessuno
+dei due lo commenta mai.
+
 **Lettore che cattura:**
 Chi ha attraversato o sta attraversando una crisi di fede — religiosa,
 ideologica, istituzionale. Chi continua a fare il bene anche mentre
