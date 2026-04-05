@@ -24,10 +24,16 @@ def read_file_safe(filepath):
 
 def extract_chapter_info(filepath):
     """Extract book and chapter number from filepath."""
-    chapter_match = re.search(r'capitolo-(\d+)', os.path.basename(filepath))
-    book_match = re.search(r'(libro\d+)-', filepath)
+    basename = os.path.basename(filepath)
+    if basename == "prologo.md":
+        chapter_num = "pro"
+    elif basename == "epilogo.md":
+        chapter_num = "epi"
+    else:
+        chapter_match = re.search(r'capitolo-(\d+)', basename)
+        chapter_num = int(chapter_match.group(1)) if chapter_match else None
 
-    chapter_num = int(chapter_match.group(1)) if chapter_match else None
+    book_match = re.search(r'(libro\d+)-', filepath)
     book_id = book_match.group(1) if book_match else None
     book_dir_match = re.search(r'(libro\d+-[^/]+)', filepath)
     book_dir = book_dir_match.group(1) if book_dir_match else None

@@ -19,11 +19,17 @@ def get_project_root():
     return os.path.dirname(get_script_dir())
 
 def extract_chapter_info(filepath):
-    chapter_match = re.search(r'capitolo-(\d+)', os.path.basename(filepath))
+    basename = os.path.basename(filepath)
+    if basename == "prologo.md":
+        chapter_num = "pro"
+    elif basename == "epilogo.md":
+        chapter_num = "epi"
+    else:
+        chapter_match = re.search(r'capitolo-(\d+)', basename)
+        chapter_num = int(chapter_match.group(1)) if chapter_match else None
+
     book_dir_match = re.search(r'(libro\d+-[^/]+)', filepath)
     book_match = re.search(r'(libro\d+)', filepath)
-
-    chapter_num = int(chapter_match.group(1)) if chapter_match else None
     book_dir = book_dir_match.group(1) if book_dir_match else None
     book_id = book_match.group(1) if book_match else None
 
@@ -95,6 +101,8 @@ def analyze_tone(content):
     return warmth_pct, unease_pct
 
 def get_party_members(chapter_num):
+    if chapter_num in ("pro", "epi"):
+        return ["Zorgar", "Sylas", "Dain", "Aldric", "Elara", "Mirael", "Fizzle", "Vera"]
     members = ["Zorgar", "Sylas", "Dain", "Aldric", "Elara", "Mirael"]
     if chapter_num >= 3:
         members.append("Fizzle")
@@ -120,8 +128,9 @@ def main():
     with open(filepath, "r", encoding="utf-8") as f:
         content = f.read()
 
+    cap_label = "Prologo" if chapter_num == "pro" else "Epilogo" if chapter_num == "epi" else f"Capitolo {chapter_num:02d}"
     print(f"\n{'='*60}")
-    print(f"  RAPPORTO DI REVISIONE — Capitolo {chapter_num:02d}")
+    print(f"  RAPPORTO DI REVISIONE — {cap_label}")
     print(f"{'='*60}\n")
 
     # Run linter
@@ -210,7 +219,8 @@ def main():
     print("Prossimi passi:")
     print("  1. Correggere eventuali errori critici")
     print("  2. Verificare le segnalazioni manuali")
-    print(f"  3. Aggiornare checkpoint/dopo-capitolo-{chapter_num:02d}.md")
+    cp_name = "dopo-prologo" if chapter_num == "pro" else "dopo-epilogo" if chapter_num == "epi" else f"dopo-capitolo-{chapter_num:02d}"
+    print(f"  3. Aggiornare checkpoint/{cp_name}.md")
     print("  4. Aggiornare le memorie dei personaggi coinvolti")
     print()
 

@@ -147,14 +147,15 @@ Il libro alterna i punti di vista per costruire le diverse "posture epistemiche"
 ## Panoramica
 
 - **Titolo:** La Scelta
-- **Capitoli:** 22
-- **Target parole:** ~121.000 (5.000–5.800 per capitolo)
+- **Struttura:** Prologo + 22 Capitoli + Epilogo
+- **Target parole:** ~121.000 (5.000–5.800 per capitolo; prologo ~1.800)
 - **Tono:** 85% calore/avventura/cameratismo, 15% malinconia/inquietudine sottile
 
 ## Sequenza POV
-| Capitolo | POV |
-|---|---|
-| 1 | Sylas |
+| Capitolo | POV | File |
+|---|---|---|
+| Prologo | Zorgar | capitoli/prologo.md |
+| 1 | Sylas | capitoli/capitolo-01.md |
 | 2 | Elara |
 | 3 | Dain |
 | 4 | Aldric |
@@ -176,12 +177,18 @@ Il libro alterna i punti di vista per costruire le diverse "posture epistemiche"
 | 20 | Mirael |
 | 21 | Dain |
 | 22 | Fizzle |
-| Epi | Vera |
+| Epi | Vera | capitoli/epilogo.md |
 
 ## Sinossi per Capitolo
 
+### Prologo — La Fuga
+POV: Zorgar
+- In medias res: il party in fuga, Vera ferita, la Chiesa alle calcagna (Giorno 21)
+- File: `capitoli/prologo.md`
+
 ### Capitolo 1 — [Titolo TBD]
 POV: Sylas
+- "Tre settimane prima..." — inizio del flashback, il funerale (Giorno 1)
 <!-- Sinossi -->
 
 ### Capitolo 2 — [Titolo TBD]
@@ -288,7 +295,8 @@ POV: Fizzle
 - Prospettiva alchemica — pozioni reagiscono, la notte prima della visione di Vera
 <!-- Sinossi -->
 
-### Epilogo
+### Epilogo — La Soglia
 POV: Vera
 - La grande visione: catene, qualcosa di immenso, tre figure, "TROVA KAELEN"
+- File: `capitoli/epilogo.md`
 <!-- Sinossi -->

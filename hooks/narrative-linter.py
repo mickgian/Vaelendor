@@ -25,7 +25,12 @@ def load_json_config(filename):
         return json.load(f)
 
 def extract_chapter_number(filepath):
-    match = re.search(r'capitolo-(\d+)', os.path.basename(filepath))
+    basename = os.path.basename(filepath)
+    if basename == "prologo.md":
+        return "pro"
+    if basename == "epilogo.md":
+        return "epi"
+    match = re.search(r'capitolo-(\d+)', basename)
     if match:
         return int(match.group(1))
     return None
@@ -113,6 +118,14 @@ def check_character_presence(content, chapter_num):
     """Check that required characters are mentioned."""
     warnings = []
     content_lower = content.lower()
+
+    # Prologo e epilogo: tutti presenti (inclusa Vera e Fizzle)
+    if chapter_num == "pro" or chapter_num == "epi":
+        all_members = ["Zorgar", "Sylas", "Dain", "Aldric", "Elara", "Mirael", "Fizzle", "Vera"]
+        for name in all_members:
+            if name.lower() not in content_lower:
+                warnings.append(f"⚠��  {name} non menzionato nel {'prologo' if chapter_num == 'pro' else 'epilogo'}")
+        return warnings
 
     # Core party members (always present from their introduction)
     party = {
