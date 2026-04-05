@@ -1,30 +1,49 @@
 # Cosa Curare Manualmente — Vaelendor
 
 Guida minimale per l'autore. Solo quello che tocchi tu.
-Gli script fanno il resto.
+Gli hook li lancia Claude Code — tu curi i file che gli hook leggono.
 
 ---
 
-## Prima di scrivere un capitolo
+## Chi fa cosa
+
+| Azione | Chi la fa |
+|--------|-----------|
+| Curare checkpoint, memorie, tracker, timeline | **Tu** (prima/dopo ogni capitolo) |
+| Lanciare `pre-edit.sh`, `post-edit.sh`, linter, validator | **Claude Code** (automaticamente) |
+| Scrivere/espandere il capitolo | **Claude Code** (Modalità 1/3) oppure **tu** (Modalità 2) |
+| Aggiornare checkpoint e memorie dopo la scrittura | **Claude Code** (genera template + suggerimenti), **tu** verifichi e approvi |
+
+In pratica: tu prepari il terreno, dai le indicazioni ("Scrivi il capitolo 10"), e Claude Code gestisce tutta la pipeline di hook. Tu intervieni per **verificare e approvare** i risultati.
+
+---
+
+## Prima di chiedere a Claude Code di scrivere
+
+Questi file devono essere pronti **prima** che tu dica "Scrivi il capitolo N".
+Claude Code li legge tramite `pre-edit.sh` per avere il contesto corretto.
 
 | File | Cosa fare | Quando |
 |------|-----------|--------|
+| `libro1-la-scelta/checkpoint/dopo-capitolo-{N-1}.md` | Deve essere compilato (non template) — è lo stato del mondo da cui Claude parte | Prima di ogni capitolo |
+| `libro1-la-scelta/memoria-personaggi/*.md` | Devono essere aggiornati al capitolo N-1 | Prima di ogni capitolo |
 | `libro1-la-scelta/sinossi.md` | Verificare che il capitolo da scrivere sia coperto dalla sinossi | Prima di ogni capitolo nuovo |
-| `libro1-la-scelta/timeline.md` | Compilare la riga del giorno/capitolo (ora è quasi vuota) | Prima di ogni capitolo |
+| `libro1-la-scelta/timeline.md` | Compilare la riga del giorno/capitolo precedente (ora è quasi vuota) | Prima di ogni capitolo |
 | `personaggi/party/*.md` | Aggiornare la scheda se hai deciso cambiamenti al personaggio | Quando cambi qualcosa nell'arco del personaggio |
 | `personaggi/secondari/*.md` | Creare la scheda se introduci un personaggio secondario nuovo | Quando appare un nuovo secondario |
 | `worldbuilding/*.md` | Aggiornare se il capitolo introduce nuovi elementi del mondo | Quando aggiungi lore nuova |
 
-Poi lancia `./hooks/pre-edit.sh libro1-la-scelta <capitolo>` e verifica che il briefing sia corretto.
-
 ---
 
-## Dopo aver scritto un capitolo
+## Dopo che Claude Code ha scritto il capitolo
+
+Claude Code lancia gli hook automaticamente e produce suggerimenti per checkpoint e memorie.
+Tu **verifichi** che i dati siano corretti e **approvi** o correggi.
 
 | File | Cosa fare | Quando |
 |------|-----------|--------|
-| `libro1-la-scelta/checkpoint/dopo-capitolo-NN.md` | Compilare tutte le sezioni `[Da compilare]` con gli eventi reali del capitolo | Dopo ogni capitolo — lo script crea il template, tu lo riempi |
-| `libro1-la-scelta/memoria-personaggi/*.md` | Per ogni personaggio presente: aggiungere cosa sa, sospetta, non sa. Aggiornare la riga `Aggiornato al:` | Dopo ogni capitolo |
+| `libro1-la-scelta/checkpoint/dopo-capitolo-NN.md` | Verificare/correggere il contenuto generato da Claude. Le sezioni `[Da compilare]` vanno riempite con gli eventi reali | Dopo ogni capitolo |
+| `libro1-la-scelta/memoria-personaggi/*.md` | Verificare che Claude abbia aggiornato correttamente cosa sa/sospetta/non sa ogni personaggio | Dopo ogni capitolo |
 | `libro1-la-scelta/timeline.md` | Completare giorno ed eventi principali | Dopo ogni capitolo |
 | `libro1-la-scelta/note/foreshadowing-tracker.md` | Aggiungere semi piantati nel capitolo (🌱), aggiornare semi cresciuti (🌿) o raccolti (🌳) | Dopo ogni capitolo che pianta o raccoglie un seme |
 | `serie/tracker/relazioni.md` | Aggiungere/aggiornare coppie di personaggi se il rapporto evolve | Quando una relazione cambia in modo significativo |
@@ -32,8 +51,6 @@ Poi lancia `./hooks/pre-edit.sh libro1-la-scelta <capitolo>` e verifica che il b
 | `serie/tracker/morti.md` | Registrare il decesso | Quando un personaggio muore |
 | `serie/tracker/foreshadowing-cross.md` | Aggiungere semi che si raccoglieranno in libri futuri | Quando pianti un seme cross-libro |
 | `serie/tracker/regole-mondo.md` | Aggiungere regole stabilite nel testo (distanze, tempi, limiti magia) | Quando il testo stabilisce un fatto vincolante |
-
-Poi lancia `./hooks/post-edit.sh libro1-la-scelta <capitolo>` per verificare che tutto sia a posto.
 
 ---
 
@@ -100,15 +117,21 @@ Se hai bisogno di aggiungere un termine proibito o un nome canonico, modifica il
 
 Il prossimo capitolo da allineare è il **Capitolo 10** (primo con checkpoint e memorie non aggiornati).
 
-1. **Compilare** `libro1-la-scelta/timeline.md` — riempire i giorni dei capitoli 1–9 (li hai già scritti, basta riportare i dati)
+**Tu fai (prima):**
+1. **Compilare** `libro1-la-scelta/timeline.md` — riempire i giorni dei capitoli 1–9
 2. **Compilare** `libro1-la-scelta/note/foreshadowing-tracker.md` — registrare i semi piantati nei capitoli 1–9
 3. **Compilare** `serie/tracker/relazioni.md` — registrare le relazioni significative emerse nei capitoli 1–9
 4. **Compilare** `serie/tracker/rivelazioni.md` — registrare le rivelazioni avvenute nei capitoli 1–9
-5. Lancia `./hooks/pre-edit.sh libro1-la-scelta 10`
-6. Scrivi (o revisiona) il capitolo
-7. **Compilare** `checkpoint/dopo-capitolo-10.md` — riempire le sezioni `[Da compilare]`
-8. **Aggiornare** `memoria-personaggi/*.md` per i personaggi presenti — portare a "Aggiornato al: Capitolo 10"
-9. Lancia `./hooks/post-edit.sh libro1-la-scelta 10`
-10. Verifica ✅ e commit
+5. Verificare che `checkpoint/dopo-capitolo-09.md` e le memorie siano corretti
+
+**Dici a Claude Code:** "Scrivi il capitolo 10" (con le tue indicazioni su eventi, tono, vincoli)
+
+**Claude Code fa:** pre-edit → scrittura → linter → validator → checkpoint → memorie → post-edit
+
+**Tu fai (dopo):**
+6. **Verificare** il checkpoint generato — correggere se necessario
+7. **Verificare** le memorie aggiornate — correggere se necessario
+8. **Aggiornare** timeline, foreshadowing, tracker serie
+9. Commit
 
 ⚠️ **DA VERIFICARE CON L'AUTORE:** I checkpoint 10–22 hanno contenuto parziale (28 righe con 2 placeholder ciascuno). Non è chiaro se siano stati pre-compilati con dati reali o se contengano solo il template. Verificare prima di procedere.
