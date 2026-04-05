@@ -20,17 +20,19 @@ In pratica: tu prepari il terreno, dai le indicazioni ("Scrivi il capitolo 10"),
 
 ## Prima di chiedere a Claude Code di scrivere
 
-Questi file devono essere pronti **prima** che tu dica "Scrivi il capitolo N".
-Claude Code li legge tramite `pre-edit.sh` per avere il contesto corretto.
+Se hai fatto bene il "dopo" del capitolo precedente, checkpoint, memorie e timeline sono già pronti.
+L'unica cosa che devi assicurarti è che Claude sappia **cosa succede** nel capitolo.
 
 | File | Cosa fare | Quando |
 |------|-----------|--------|
-| `libro1-la-scelta/checkpoint/dopo-capitolo-{N-1}.md` | Deve essere compilato (non template) — è lo stato del mondo da cui Claude parte | Prima di ogni capitolo |
-| `libro1-la-scelta/memoria-personaggi/*.md` | Devono essere aggiornati al capitolo N-1 | Prima di ogni capitolo |
-| `libro1-la-scelta/sinossi.md` | Verificare che il capitolo da scrivere sia coperto dalla sinossi | Prima di ogni capitolo nuovo |
-| `libro1-la-scelta/timeline.md` | Compilare la riga del giorno/capitolo precedente (ora è quasi vuota) | Prima di ogni capitolo |
-| `personaggi/party/*.md` | Aggiornare la scheda se hai deciso cambiamenti al personaggio | Quando cambi qualcosa nell'arco del personaggio |
-| `personaggi/secondari/*.md` | Creare la scheda se introduci un personaggio secondario nuovo | Quando appare un nuovo secondario |
+| `libro1-la-scelta/sinossi.md` | Verificare che il capitolo da scrivere sia coperto dalla sinossi | Prima di ogni capitolo |
+
+**Occasionalmente** (solo se hai deciso cambiamenti tra un capitolo e l'altro):
+
+| File | Cosa fare | Quando |
+|------|-----------|--------|
+| `personaggi/party/*.md` | Aggiornare la scheda se hai deciso cambiamenti all'arco del personaggio | Quando cambi qualcosa |
+| `personaggi/secondari/*.md` | Creare la scheda se il capitolo introduce un personaggio secondario nuovo | Quando appare un nuovo secondario |
 | `worldbuilding/*.md` | Aggiornare se il capitolo introduce nuovi elementi del mondo | Quando aggiungi lore nuova |
 
 ---
@@ -118,20 +120,17 @@ Se hai bisogno di aggiungere un termine proibito o un nome canonico, modifica il
 Il prossimo capitolo da allineare è il **Capitolo 10** (primo con checkpoint e memorie non aggiornati).
 
 **Tu fai (prima):**
-1. **Compilare** `libro1-la-scelta/timeline.md` — riempire i giorni dei capitoli 1–9
-2. **Compilare** `libro1-la-scelta/note/foreshadowing-tracker.md` — registrare i semi piantati nei capitoli 1–9
-3. **Compilare** `serie/tracker/relazioni.md` — registrare le relazioni significative emerse nei capitoli 1–9
-4. **Compilare** `serie/tracker/rivelazioni.md` — registrare le rivelazioni avvenute nei capitoli 1–9
-5. Verificare che `checkpoint/dopo-capitolo-09.md` e le memorie siano corretti
+1. Verificare che la sinossi copra il capitolo 10
+2. _(Una tantum)_ Compilare i tracker arretrati dei capitoli 1–9: `timeline.md`, `foreshadowing-tracker.md`, `relazioni.md`, `rivelazioni.md`
 
 **Dici a Claude Code:** "Scrivi il capitolo 10" (con le tue indicazioni su eventi, tono, vincoli)
 
 **Claude Code fa:** pre-edit → scrittura → linter → validator → checkpoint → memorie → post-edit
 
 **Tu fai (dopo):**
-6. **Verificare** il checkpoint generato — correggere se necessario
-7. **Verificare** le memorie aggiornate — correggere se necessario
-8. **Aggiornare** timeline, foreshadowing, tracker serie
-9. Commit
+3. **Verificare** il checkpoint generato — correggere se necessario
+4. **Verificare** le memorie aggiornate — correggere se necessario
+5. **Aggiornare** timeline, foreshadowing, tracker serie
+6. Commit
 
 ⚠️ **DA VERIFICARE CON L'AUTORE:** I checkpoint 10–22 hanno contenuto parziale (28 righe con 2 placeholder ciascuno). Non è chiaro se siano stati pre-compilati con dati reali o se contengano solo il template. Verificare prima di procedere.
