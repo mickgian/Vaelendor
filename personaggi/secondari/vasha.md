@@ -324,6 +324,79 @@ Non ne parla. Mai. È troppo prezioso. Troppo fragile. Se lo dicesse ad alta voc
 
 ---
 
+## Archetipo Narrativo
+
+**Archetipo:** L'Arma che Impara a Essere Persona
+
+**Ferita centrale:**
+Vent'anni di cancellazione sistematica. Non le hanno preso qualcosa
+di specifico — le hanno preso tutto. Non ha nome, non ha passato,
+non ha preferenze, non ha emozioni riconoscibili.
+"Vasha" significa *lama*. Le hanno limato le zanne perché un'arma
+deve essere presentabile. Il suo corpo è una mappa di morti altrui.
+L'unica cosa che ha di *prima* è un frammento così fragile che ha
+paura di toccarlo: calore, braccia che la tengono, una voce.
+Non sa nemmeno se è reale.
+
+La domanda degli altri personaggi spezzati è "cosa sono diventato?"
+La domanda di Vasha è più radicale: "sono qualcosa?"
+
+**Momento-gancio per il lettore:**
+Il primo incontro con Zorgar e le sue zanne intere.
+
+"Le tue zanne..."
+"Cosa?"
+"Sono... intere."
+"Sì. Perché?"
+"Le mie no."
+[Zorgar la guarda, capisce, non dice niente. Non c'è bisogno.]
+
+In quattro righe il lettore capisce vent'anni di storia.
+Non serve nient'altro.
+
+**Comportamento narrativo da rispettare:**
+- Non sa come funzionano le emozioni. Non le nomina — le descrive
+  come sensazioni fisiche: "c'è qualcosa quando combatto", "il vuoto
+  si riempie", "una fame ma diversa". Non è freddezza — è assenza
+  di vocabolario per sé stessa.
+- Ride in battaglia. Non per crudeltà — è l'unico momento in cui
+  sente qualcosa di reale. Va trattato come sintomo, non tratto.
+- Le zanne limate non si citano mai come fatto neutro. Ogni volta
+  che compaiono sono un promemoria permanente di quello che le è
+  stato tolto.
+- Non fa conversazione. Non sa fare sottintesi. Dice quello che
+  pensa nel modo più diretto possibile — non brutalità, assenza
+  di modelli sociali.
+- Con Zorgar: non sa nominare quello che prova. Lo descrive come
+  fame, calore, tensione. Non ha mai avuto un modello di cosa
+  significhi volere qualcosa per sé stessa. L'avvicinamento è
+  lento, confuso, goffo — per entrambi.
+- Con Lyra: protezione feroce e silenziosa. Riconosce qualcuno
+  che non ha avuto scelta. Non lo verbalizza mai.
+- Il frammento di memoria (calore, braccia, una voce) è sacro.
+  Va rivelato una volta sola, al momento giusto, solo a Zorgar.
+  Non va mai sfruttato come battuta o dettaglio di colore.
+- Con il Silenzioso: terrore primordiale del sangue orchesco.
+  Il corpo sa qualcosa che la mente non sa. Non riesce a
+  controllarlo. Non cerca spiegazioni.
+
+**Distinzione dagli altri personaggi spezzati:**
+Rhen aveva un'identità — l'ha corrotta.
+Thorn aveva un'identità — l'ha tradita.
+Lyra aveva un'identità — è stata distrutta in una notte.
+Vasha non ha mai avuto un'identità da cui partire.
+Non cerca redenzione o armonia o perdono.
+Cerca se stessa — qualcosa di più fondamentale di tutto il resto.
+
+**Lettore che cattura:**
+Chi è stato così completamente definito da altri — un ruolo,
+un'istituzione, una relazione, un trauma — da non sapere chi
+è senza di essi. Chi deve imparare da zero cose che gli altri
+danno per scontate. Chi si chiede se quello che sente è reale
+o se lo sta immaginando perché dovrebbe sentirlo.
+
+---
+
 ## Arco Narrativo
 
 **Libro 3:** Primo incontro con il party. Intimidatoria, silenziosa, terrificante. Ma anche chiaramente dalla loro parte. Inizio della connessione con Zorgar.

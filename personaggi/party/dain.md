@@ -151,6 +151,38 @@ Qualcuno che conoscevano. Dain porta il peso con la calma di chi sa che la morte
 
 ---
 
+## Archetipo Narrativo
+
+**Archetipo:** Il Testimone Ignorato
+
+**Ferita centrale:**
+Sa la verità da decenni. L'ha sempre saputa. E nessuno gli crede.
+Ha lasciato casa, onore e nome per non tradire quella verità —
+e vaga da vent'anni cercando qualcuno che finalmente ascolti.
+
+**Momento-gancio per il lettore:**
+Zorgar prova a guardare la pietra per curiosità. Dain quasi estrae l'ascia.
+"Lasciato tutto il resto — casa, onore, nome. Ma questa l'ho portata.
+Perché è più importante di tutto quello che ho lasciato."
+La reazione sproporzionata rivela tutto: quella pietra è l'unica prova
+che non è pazzo.
+
+**Comportamento narrativo da rispettare:**
+- Parla lentamente, pensa prima di aprire bocca. Le sue frasi arrivano intere.
+- Collega sempre il presente a qualcosa di antico. È automatico.
+- Non si agita. Nemmeno in battaglia. La calma è la sua identità.
+- Quando qualcuno prende sul serio le sue leggende, ne è genuinamente
+  sorpreso — non ci è abituato.
+- Tocca i muri. Sempre. È un riflesso condizionato, non una performance.
+- La birra è un metro di giudizio morale. Non è una battuta — ci crede davvero.
+
+**Lettore che cattura:**
+Chi porta conoscenze o verità che il mondo non vuole sentire.
+Chi ha sacrificato sicurezza per fedeltà a qualcosa in cui crede.
+Chi aspetta da anni che qualcuno dica "hai ragione."
+
+---
+
 ## Segreto / Arco Narrativo
 
 ### La Pietra

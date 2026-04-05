@@ -134,6 +134,35 @@ Qualcuno del loro passato comune. Sylas porta il peso in modo diverso da Zorgar 
 
 ---
 
+## Archetipo Narrativo
+
+**Archetipo:** Il Cinico che Vuole Credere
+
+**Ferita centrale:**
+Ha visto il marcio del mondo così presto e così da vicino che credere
+è diventato pericoloso. Ma segretamente *vuole* qualcuno di cui fidarsi —
+e quando trova quella persona, morirebbe per lei senza ammetterlo mai.
+
+**Momento-gancio per il lettore:**
+"Non ha mai dormito profondamente. Non da cinque anni."
+Una frase. Nessuna spiegazione. Il lettore capisce quante notti
+sono contenute in quella frase.
+
+**Comportamento narrativo da rispettare:**
+- Analizza tutto: persone, stanze, situazioni. È automatico, non arroganza.
+- Identifica sempre le vie di fuga prima di qualsiasi altra cosa.
+- Non esprime affetto direttamente. Lo dimostra con azioni pratiche e protettive.
+- Quando qualcuno fa la cosa giusta senza secondi fini, resta genuinamente
+  disorientato — non sa come catalogarlo.
+- Le sue bugie sono sopravvivenza. Le sue verità sono rare e pesanti.
+- Non chiede mai "come stai?" — osserva e deduce.
+
+**Lettore che cattura:**
+Chi ha imparato che fidarsi fa male. Chi usa il sarcasmo come armatura.
+Chi vuole disperatamente credere nelle persone ma non sa da dove cominciare.
+
+---
+
 ## Segreto / Arco Narrativo
 
 ### Cosa sa (ma non capisce)

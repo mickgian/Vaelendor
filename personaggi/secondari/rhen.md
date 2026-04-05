@@ -260,6 +260,40 @@ Non lo dice a nessuno. Mai. È sepolto troppo in profondità. Ma è lì. Sempre.
 
 ---
 
+## Archetipo Narrativo
+
+**Archetipo:** Il Penitente Senza Assoluzione
+
+**Ferita centrale:**
+Ha ucciso per trent'anni credendo di fare il bene. La donna del
+villaggio con gli occhi della persona che amava lo ha spezzato.
+Non cerca perdono perché non crede di meritarlo. Non bilancerà
+mai la bilancia. Continua lo stesso, perché è tutto quello che ha.
+
+**Momento-gancio per il lettore:**
+"La redenzione non esiste. C'è solo quello che fai dopo.
+Non bilancia niente. Ma è tutto quello che hai."
+
+**Comportamento narrativo da rispettare:**
+- Parla poco. Quando lo fa, ogni parola è scelta con cura e pesa.
+- Beve — non abbastanza da essere inutile, abbastanza da smussare
+  gli angoli. La fiaschetta è sempre presente.
+- Non si scusa. Non cerca conforto. Se qualcuno lo ringrazia,
+  lo respinge: "Non lo merito."
+- È terribilmente bravo in quello che faceva. Usa le competenze
+  dell'Inquisizione per il Circolo. Lo odia. Lo fa lo stesso.
+- Con Vera: non riesce a guardarla negli occhi a lungo. Vede
+  i fantasmi di tutti quelli come lei che non ha salvato.
+- Con Aldric: specchio doloroso. Vede in lui quello che avrebbe
+  potuto essere se si fosse svegliato prima.
+
+**Lettore che cattura:**
+Chi ha fatto qualcosa di sbagliato e sa che non tornerà indietro —
+ma continua lo stesso. Chi non cerca perdono ma azione. Chi porta
+il passato come peso e non come scusa. Chi ha imparato troppo tardi.
+
+---
+
 ## Arco Narrativo
 
 **Libro 3:** Il party lo incontra al Conclave. Prima impressione: cupo, intimidatorio, non amichevole. Ma anche chiaramente dalla loro parte. Uno che sa cose utili.

@@ -122,6 +122,35 @@ Qualcuno che tutti e tre conoscevano. Per Zorgar il peso è più personale che p
 
 ---
 
+## Archetipo Narrativo
+
+**Archetipo:** Il Protettore Silenzioso
+
+**Ferita centrale:**
+Non appartiene a nessun posto. Troppo orchesco per gli umani, mai abbastanza
+per gli orchi. Ha smesso di cercare approvazione — non perché sia forte,
+ma perché ha imparato che non arriverà mai.
+
+**Momento-gancio per il lettore:**
+L'origine della sua ossessione per le porte chiuse: i ragazzini del villaggio
+che lo rinchiudono in cantina per tre giorni "per vedere se il mostro sapeva
+piangere." Il lettore non lo apprende come spiegazione — lo apprende come
+illuminazione retrospettiva. Ogni calcio alle porte acquista nuovo significato.
+
+**Comportamento narrativo da rispettare:**
+- Non nomina mai le proprie emozioni. Le agisce.
+- La lealtà si manifesta nel corpo: si mette fisicamente tra il pericolo e i suoi.
+- Non fa discorsi. Al massimo una frase. Poi agisce.
+- Quando è arrabbiato davvero, l'aria intorno a lui cambia — non lo nota, gli altri sì.
+- Non usa mai un tono di vittimismo. Il passato è un fatto, non una lamentela.
+
+**Lettore che cattura:**
+Chi si sente outsider in ogni gruppo. Chi mostra amore con i fatti e si
+vergogna di non saper fare altro. Chi ha smesso di chiedere approvazione
+ma non ha smesso di volerla.
+
+---
+
 ## Segreto / Arco Narrativo
 
 ### Cosa non sa

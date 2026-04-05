@@ -315,6 +315,45 @@ E, in fondo, sono simili. Entrambi credevano. Entrambi hanno dedicato tutto alla
 
 ---
 
+## Archetipo Narrativo
+
+**Archetipo:** Il Giusto che il Sistema ha Rotto
+
+**Ferita centrale:**
+Era tutto — nome, potere, amore, fede. Ha perso tutto in una notte
+per aver detto la verità. E ha scoperto che non era mai stato suo:
+era della Chiesa. Quello che era prima è morto nelle stanze di
+purificazione. Quello che ne è uscito non sa ancora se è meglio
+o peggio. Sa solo che è necessario.
+
+**Momento-gancio per il lettore:**
+"Ho avuto tutto. Nome, potere, amore, fede. L'ho perso tutto in
+una notte. E sai cosa ho scoperto? Non era mai stato mio.
+Io ero solo un altro strumento."
+
+**Comportamento narrativo da rispettare:**
+- Non perde mai la calma. Non urla, non si agita. La calma
+  è il risultato di aver già visto il peggio — e averlo sopravvissuto.
+- Gli occhi diventano oro nei momenti critici. Ha imparato a
+  nasconderlo. Nei momenti di massima intensità, non ci riesce.
+- Porta il peso visibilmente — nel modo in cui si muove, nel modo
+  in cui guarda le cose. Come se portasse qualcosa di invisibile.
+- La certezza è la sua forza e il suo punto cieco. Non dubita.
+  A volte dovrebbe.
+- La gentilezza emerge nei momenti inaspettati: con Lyra, con i
+  nuovi arrivati, con Rhen. Va trattata come un lusso raro, non
+  come caratteristica primaria.
+- Non è l'eroe. Gli eroi salvano tutti. Lui sceglie chi salvare
+  e chi sacrificare. Questo lo sa. Lo porta.
+
+**Lettore che cattura:**
+Chi ha subito le conseguenze di aver detto la verità in un sistema
+che non la voleva sentire. Chi ha perso tutto per aver fatto la
+cosa giusta. Chi porta cicatrici non per vergogna ma come prove
+di sopravvivenza.
+
+---
+
 ## Il Suo Piano
 
 Kaelen ha un obiettivo: **spezzare le catene**.

@@ -188,6 +188,40 @@ Sono sorelle. Non di sangue — di qualcosa di più profondo.
 
 ---
 
+## Archetipo Narrativo
+
+**Archetipo:** L'Ipersensibile che Si Nasconde
+
+**Ferita centrale:**
+Ha passato vent'anni a soffocare quello che è per sopravvivere.
+L'unico che la conosceva davvero è stato ucciso per averla protetta.
+Vuole appartenere da qualche parte con disperazione — e ha paura
+che il suo "troppo" la condanni di nuovo alla solitudine.
+
+**Momento-gancio per il lettore:**
+Dain le dice "sei rara. E importante."
+Nessuno le aveva mai detto importante.
+Non sa come reagire.
+
+**Comportamento narrativo da rispettare:**
+- Percepisce il mondo come input costante. Deve filtrare sempre. È estenuante.
+- Sa fisicamente quando qualcuno mente. Non è metafora — è sensazione fisica
+  nel petto. Non lo spegne perché non può.
+- È pessima nelle chiacchiere. Non per scortesia — non ha mai imparato
+  le regole sociali. Risponde troppo direttamente o non risponde.
+- Gli animali la cercano. È imbarazzante, soprattutto quando vuole
+  essere discreta.
+- Non cerca mai conforto esplicitamente. Se lo riceve, non sa come gestirlo.
+- Con Vera: questo legame è il più importante della sua vita. Va trattato
+  con la stessa intensità di un legame di sangue.
+
+**Lettore che cattura:**
+Chi si sente "troppo sensibile" per il mondo. Chi ha imparato a nascondere
+le proprie percezioni perché spaventano gli altri. Chi ha perso la persona
+che lo capiva davvero.
+
+---
+
 ## Segreto / Arco Narrativo
 
 ### Cosa è

@@ -351,6 +351,45 @@ Questo terrore la definisce. Ogni volta che i poteri crescono, cresce anche la p
 
 ---
 
+## Archetipo Narrativo
+
+**Archetipo:** Il Mostro Innocente
+
+**Ferita centrale:**
+A nove anni ha bruciato tutto. Ha ucciso i soldati senza sceglierlo,
+senza controllarlo. Sua madre era ancora viva. L'ha guardata
+diventare quella cosa luminosa e terribile. Poi è morta.
+La bambola si chiama Mira come sua madre. Ogni incubo è
+quella notte e quegli occhi. Nessuno sa. Nessuno può sapere.
+
+**Momento-gancio per il lettore:**
+"Kaelen dice che non sono un mostro. Voglio credergli. Ma lui
+non sa cosa ho fatto. Nessuno lo sa."
+
+**Comportamento narrativo da rispettare:**
+- Oscilla: un momento matura e saggia oltre i suoi anni, il
+  momento dopo vuole un abbraccio e piange per una sciocchezza.
+  Non è instabilità — è un bambino che elabora traumi d'adulto.
+- Mira non è mai lontana. La tiene quando ha paura. Le parla
+  quando nessuno guarda. Non va mai criticata per questo.
+- L'attaccamento a Kaelen è intenso. Panica quando si allontana
+  troppo. Non per debolezza — perché ha già perso tutti.
+- Non ha paura del Silenzioso. Lo sente come triste e solo.
+  È l'unica che si siede con lui. L'unica che gli parla.
+- I poteri sono incontrollati. Arrivano con le emozioni intense.
+  Le mani brillano. L'aria si scalda. Nei momenti peggiori,
+  il calore diventa pericoloso.
+- Il segreto di quella notte pesa su ogni scena in cui compare.
+  Non va detto — va sentito sotto la superficie.
+
+**Lettore che cattura:**
+Chi porta una colpa per qualcosa che non ha controllato. Chi ha
+paura di se stesso. I lettori più giovani che si sentono "troppo"
+per il mondo. Chi ha dovuto crescere prima del tempo e non sa
+più come essere bambino.
+
+---
+
 ## Arco Narrativo
 
 **Libro 3:** Il party la incontra con Kaelen. Silenziosa, attaccata a lui, chiaramente traumatizzata. I poteri emergono in momenti di stress — lampi di quello che può fare.

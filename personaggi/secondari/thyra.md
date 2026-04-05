@@ -194,6 +194,40 @@ Divertimento. Dopo secoli di serietà, lo gnomo è... rinfrescante.
 
 ---
 
+## Archetipo Narrativo
+
+**Archetipo:** La Custode che Ha Aspettato Troppo
+
+**Ferita centrale:**
+Ottocento anni di memoria. Cinquecento anni fa ha avuto la possibilità
+di agire e non l'ha fatto: tutti sono morti, l'occasione è svanita.
+Non sa se era prudenza o codardia. Non lo saprà mai. Ora ha
+un'altra possibilità — e ha paura di sprecarla di nuovo.
+
+**Momento-gancio per il lettore:**
+"Non sono saggia. Sono solo vecchia. La saggezza richiede che
+tu impari dai tuoi errori. Io ho solo imparato a sopravviverci."
+
+**Comportamento narrativo da rispettare:**
+- Parla lentamente. I ritmi umani — urgenza, fretta, panico — le
+  sono estranei. Ha visto troppe crisi risolversi.
+- Chiama le persone con nomi sbagliati a volte: non per
+  distrazione, per memoria. Vede in loro qualcuno di secoli fa.
+- Le sue storie non sono folklore — sono memorie dirette. "Ero
+  lì quando misero la prima pietra. Il vescovo pianse."
+- Non è distaccata. È stanca. C'è differenza. Il peso di otto
+  secoli si vede nel modo in cui guarda le cose.
+- Sotto la pazienza c'è rabbia: antica, fredda, viva. Per le
+  verità cancellate. Per le vite spezzate.
+- Non vuole affezionarsi al party. Lo fa comunque. Nonostante tutto.
+
+**Lettore che cattura:**
+Chi ha aspettato il momento giusto per troppo tempo. Chi porta
+il peso di un'occasione mancata. Chi conserva cose preziose
+invece di usarle e si chiede se sia cautela o paura.
+
+---
+
 ## Il Suo Ruolo nella Storia
 
 **Libro 2:** Il party arriva nella Valle Nascosta. Thyra li accoglie — non con calore, ma con accettazione. Racconta la verità. Non tutta — sarebbe troppo. Ma abbastanza.
