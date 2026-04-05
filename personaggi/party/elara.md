@@ -215,6 +215,29 @@ Non sa come reagire.
 - Con Vera: questo legame è il più importante della sua vita. Va trattato
   con la stessa intensità di un legame di sangue.
 
+### Tre Tratti Distintivi
+
+**Tratto 1 — Il rilevatore di bugie (ricorrente):**
+Elara sente fisicamente quando qualcuno mente. Una stretta nel
+petto, una sensazione di sbagliato. Non può spegnerlo. Non può
+ignorarlo. Il lettore la vede reagire a ogni menzogna del party
+— soprattutto di Sylas — e capisce che vivere con questo senso
+sempre attivo è estenuante.
+
+**Tratto 2 — Gli animali che la seguono (emotivo):**
+Gli animali cercano Elara. Cani, gatti, cavalli, uccelli —
+si calmano, si avvicinano, la seguono. È imbarazzante, soprattutto
+quando cerca di essere discreta. Ma in certi momenti, quando
+Elara è sola e sopraffatta, un animale che si siede vicino a lei
+vale più di qualsiasi parola. Il lettore lo capisce prima di lei.
+
+**Tratto 3 — I silenzi che rispondono (raro):**
+Elara è pessima nelle chiacchiere — risponde troppo direttamente
+o non risponde affatto. I silenzi si allungano. Ma nei rarissimi
+momenti in cui sceglie davvero di parlare, senza filtri, le parole
+hanno un peso enorme proprio perché il lettore sa quanto le costa
+dirle. Appare poco, colpisce ogni volta.
+
 **Lettore che cattura:**
 Chi si sente "troppo sensibile" per il mondo. Chi ha imparato a nascondere
 le proprie percezioni perché spaventano gli altri. Chi ha perso la persona

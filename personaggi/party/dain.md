@@ -176,6 +176,30 @@ che non è pazzo.
 - Tocca i muri. Sempre. È un riflesso condizionato, non una performance.
 - La birra è un metro di giudizio morale. Non è una battuta — ci crede davvero.
 
+### Tre Tratti Distintivi
+
+**Tratto 1 — Toccare i muri (ricorrente):**
+Dain tocca i muri. Sempre. Entra in una stanza e le dita sfiorano
+la pietra — automaticamente, inconsciamente. Può dire l'età di
+un edificio dal tipo di roccia, sentire passaggi nascosti dalla
+densità delle pareti. Non è magia. Sono 127 anni di esperienza.
+Il lettore lo vede farlo in ogni ambiente nuovo, e col tempo
+capisce che è il suo modo di leggere il mondo.
+
+**Tratto 2 — La birra come verdetto (emotivo):**
+Dain giudica ogni posto — e ogni persona — dalla qualità della
+birra. Non è un vezzo: ci crede davvero. "Birra annacquata.
+Non mi fido." Quando ordina da bere e lo approva in silenzio,
+il lettore sa che quel posto, o quella persona, ha superato
+il suo esame più importante.
+
+**Tratto 3 — La pietra scaldata (raro):**
+Il frammento di roccia che porta con sé diventa caldo. A volte
+vibra. A volte emette una luce tenue che solo Dain sembra vedere.
+Appare nei momenti in cui qualcosa di importante sta accadendo —
+qualcosa che le leggende di Dain potrebbero spiegare. È il tratto
+più inquietante perché lui stesso non sa cosa significhi.
+
 **Lettore che cattura:**
 Chi porta conoscenze o verità che il mondo non vuole sentire.
 Chi ha sacrificato sicurezza per fedeltà a qualcosa in cui crede.

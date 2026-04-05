@@ -275,6 +275,30 @@ Detto a se stessa. Non a nessun altro. Mai.
   lavora troppo, dorme poco, pianifica come se avesse fretta.
 - Solo Kaelen la chiama Seris. Per tutti gli altri è "la Tessitrice."
 
+### Tre Tratti Distintivi
+
+**Tratto 1 — Lo sguardo che smonta (ricorrente):**
+Quando Seris guarda qualcuno per la prima volta, lo *smonta*.
+Postura, mani, occhi, respiro — in pochi secondi ha già deciso
+chi è, come usarlo, quanto vale. Il lettore lo vede fare con
+ogni nuovo personaggio, e la scena in cui analizza il party
+intero in trenta secondi è uno dei momenti più efficaci
+per stabilire chi è Seris.
+
+**Tratto 2 — Le decisioni che Kaelen non sa (emotivo):**
+Seris prende le decisioni sporche. Kaelen non deve sapere —
+deve restare il simbolo. Ogni volta che il lettore vede Seris
+fare qualcosa che Kaelen non sa, e capisce che lo protegge
+deliberatamente da quella conoscenza, la complessità del loro
+rapporto si approfondisce in modo silenzioso.
+
+**Tratto 3 — Il sonno impossibile (raro):**
+"Quando hai dormito l'ultima volta?" "Quale giorno è oggi?"
+Seris non dorme mai abbastanza. Ma i rarissimi momenti in cui
+qualcuno la trova addormentata — non pianificato, non voluto —
+sono i più vulnerabili della sua caratterizzazione. Il lettore
+capisce quanto costi la missione senza che lei lo dica mai.
+
 **Lettore che cattura:**
 Chi lavora nell'ombra perché altri possano brillare. Chi porta
 sacrifici invisibili che nessuno vedrà mai. Chi si chiede cosa

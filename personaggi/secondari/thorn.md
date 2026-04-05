@@ -341,6 +341,29 @@ So che la falsa è più dolce. È per questo che è peggio."
 - Con Fizzle: l'unico che lo fa ridere davvero. Le esplosioni
   e il caos mettono a tacere le voci per un momento.
 
+### Tre Tratti Distintivi
+
+**Tratto 1 — Le mani che tremano (ricorrente):**
+Sempre. Un tremore leggero e costante. Non può tenerle ferme
+nemmeno quando si concentra. Il lettore le vede in ogni scena
+in cui Thorn compare — e ogni volta è un promemoria silenzioso
+della battaglia che sta combattendo dentro di sé, sempre,
+senza sosta.
+
+**Tratto 2 — Il sermone involontario (emotivo):**
+Parla come un sacerdote — caldo, ritmico, persuasivo. È automatico.
+Vent'anni di abitudine non svaniscono. A volte se ne accorge
+a metà e si interrompe, disgustato da se stesso. Il lettore
+vive questa tensione ogni volta: le stesse tecniche che usava
+per la bugia, ora usate per la verità. Il sapore è lo stesso.
+
+**Tratto 3 — Il silenzio improvviso (raro):**
+A volte Thorn si ferma a metà frase. Fissa il vuoto. Ascolta
+qualcosa che altri non sentono. Poi torna, come se niente fosse.
+"Scusa. Stavano parlando." Appare raramente ma è devastante:
+il lettore capisce in quel momento quanto sia solitaria e costante
+la battaglia che nessun altro può vedere.
+
 **Lettore che cattura:**
 Chi combatte qualcosa dentro di sé ogni giorno. Chi sceglie il
 difficile sapendo che esiste il facile. Chi ha tenuto duro così

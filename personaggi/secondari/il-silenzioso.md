@@ -258,6 +258,30 @@ a dire addio.
 - Non agisce quasi mai. Ma quando agisce, è decisivo e preciso.
   Poi torna immobile come se niente fosse successo.
 
+### Tre Tratti Distintivi
+
+**Tratto 1 — L'ombra sfasata (ricorrente):**
+L'ombra del Silenzioso arriva sempre mezzo secondo in ritardo
+rispetto ai movimenti. Come se la luce non sapesse cosa fare
+di lui. Come se non fosse completamente qui. Il lettore lo nota
+la prima volta e non riesce più a non notarlo ogni volta che
+il Silenzioso compare.
+
+**Tratto 2 — La presenza senza parole (emotivo):**
+Quando il Silenzioso è in una stanza, tutti lo sentono. Non
+fisicamente — qualcosa di più sottile. Un peso nell'aria.
+Una pressione che non ha nome. Lyra dice che è tristezza.
+Il lettore, che ha letto più del party, comincia a credere
+che Lyra abbia ragione molto prima che qualcuno lo confermi.
+
+**Tratto 3 — L'aria che si ammorbidisce (raro):**
+Quando Lyra gli parla — solo lei, solo lei non ha paura —
+qualcosa cambia nell'aria intorno a lui. Si ammorbidisce.
+Il lettore lo vede e capisce che dentro quella presenza silenziosa
+e terrificante c'è ancora qualcosa capace di rispondere
+all'affetto. È il momento più umano di un personaggio
+che non è umano.
+
 **Lettore che cattura:**
 Chiunque abbia amato qualcosa o qualcuno così tanto da non
 riuscire a lasciarlo andare anche quando sarebbe stato meglio.

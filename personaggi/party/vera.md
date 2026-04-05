@@ -273,6 +273,29 @@ il male minore.
   Con gli altri: sempre una parte di sé in riserva.
 - Gli occhi dorati non sono controllabili. Quando arrivano, arrivano.
 
+### Tre Tratti Distintivi
+
+**Tratto 1 — Il cibo nascosto (ricorrente):**
+Vera mangia come se ogni pasto potesse essere l'ultimo — veloce,
+efficiente, senza lasciare nulla. Nasconde cibo nelle tasche,
+nella borsa, ovunque. Anni di incertezza. Aldric una volta ha
+trovato mezzo pane nel suo giaciglio. Lei non si è scusata:
+"Potrei avere fame dopo." Non è paranoia — è memoria del corpo.
+
+**Tratto 2 — La rabbia fredda (emotivo):**
+Vera non esplode. Non urla. Quando è arrabbiata diventa più calma,
+più silenziosa, più precisa. È il contrario di quello che il
+lettore si aspetta — e per questo è più efficace. Nei momenti
+in cui la temperatura della scena si abbassa invece di salire,
+il lettore sa che Vera ha raggiunto un limite.
+
+**Tratto 3 — Gli occhi dorati (raro):**
+Quando i poteri si manifestano, i suoi occhi cambiano colore.
+Oro liquido, incontrollabile. Le danno mal di testa lancinanti.
+Ogni manifestazione la esaurisce. Il lettore impara a temerli
+non perché siano pericolosi — ma perché sa il costo che hanno
+per lei ogni volta che appaiono.
+
 **Lettore che cattura:**
 Chi si sente definito da ciò che gli altri vogliono che sia.
 Lettori più giovani che stanno scoprendo che il mondo è più complicato

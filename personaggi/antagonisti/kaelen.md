@@ -346,6 +346,30 @@ Io ero solo un altro strumento."
 - Non è l'eroe. Gli eroi salvano tutti. Lui sceglie chi salvare
   e chi sacrificare. Questo lo sa. Lo porta.
 
+### Tre Tratti Distintivi
+
+**Tratto 1 — La calma assoluta (ricorrente):**
+Kaelen non perde mai la calma. Nel caos, nel pericolo, nel dolore —
+parla con voce ferma, pensa con lucidità, agisce con precisione.
+Non è stoicismo: è il risultato di aver già visto il peggio
+e averlo sopravvissuto. Il lettore lo trova inquietante finché
+non capisce da dove viene quella calma.
+
+**Tratto 2 — Il peso visibile (emotivo):**
+C'è qualcosa di pesante in Kaelen nel modo in cui si muove,
+nel modo in cui guarda le cose. Come se portasse qualcosa di
+invisibile sulle spalle. Nei rarissimi momenti in cui quel peso
+si alleggerisce — con Lyra, con Seris nei momenti privati —
+il lettore vede per un istante chi era prima. E capisce cosa
+ha perso.
+
+**Tratto 3 — Gli occhi che cambiano (raro):**
+Quando si concentra, quando usa i suoi poteri, quando le visioni
+lo toccano — i suoi occhi diventano oro liquido. Ha imparato
+a nasconderlo. Ma nei momenti critici, il controllo scivola.
+È il legame visivo con Vera e Elara — e quando il lettore
+lo riconosce per la prima volta, qualcosa si connette.
+
 **Lettore che cattura:**
 Chi ha subito le conseguenze di aver detto la verità in un sistema
 che non la voleva sentire. Chi ha perso tutto per aver fatto la

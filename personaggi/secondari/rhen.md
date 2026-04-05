@@ -287,6 +287,28 @@ Non bilancia niente. Ma è tutto quello che hai."
 - Con Aldric: specchio doloroso. Vede in lui quello che avrebbe
   potuto essere se si fosse svegliato prima.
 
+### Tre Tratti Distintivi
+
+**Tratto 1 — La fiaschetta (ricorrente):**
+Rhen beve. Non in modo distruttivo — ha imparato a gestirlo —
+ma costante. Una fiaschetta sempre a portata di mano. Un sorso
+prima delle cose difficili. Il lettore la vede ogni volta che
+la situazione si fa pesante, e capisce senza spiegazioni cosa
+sta tenendo a bada.
+
+**Tratto 2 — "Non vuoi saperlo" (emotivo):**
+Quando ottiene informazioni con metodi che non descrive, risponde
+sempre allo stesso modo: "Non vuoi saperlo." Non è arroganza —
+è protezione. Sa esattamente cosa ha fatto e sa che il lettore,
+se lo sapesse, lo guarderebbe diversamente. Ogni volta che lo
+dice, il peso di trent'anni pesa un po' di più.
+
+**Tratto 3 — Le mani osservate (raro):**
+Rhen guarda le proprie mani. Non spesso — raramente, nei momenti
+di silenzio. "Queste mani hanno fatto cose." Non lo dice ad alta
+voce quasi mai. Ma quando il lettore lo vede farlo, capisce che
+quello sguardo contiene tutto il non detto del personaggio.
+
 **Lettore che cattura:**
 Chi ha fatto qualcosa di sbagliato e sa che non tornerà indietro —
 ma continua lo stesso. Chi non cerca perdono ma azione. Chi porta

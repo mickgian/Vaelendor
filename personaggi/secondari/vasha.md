@@ -388,6 +388,33 @@ Vasha non ha mai avuto un'identità da cui partire.
 Non cerca redenzione o armonia o perdono.
 Cerca se stessa — qualcosa di più fondamentale di tutto il resto.
 
+### Tre Tratti Distintivi
+
+**Tratto 1 — La risata in battaglia (ricorrente):**
+Vasha ride quando combatte. È inquietante, terrificante — e non
+è gioia. È rilascio. L'unico momento in cui le emozioni escono,
+in cui il vuoto si riempie, in cui si sente reale. Il lettore
+la vede farlo ogni volta che c'è un combattimento e capisce
+col tempo che quella risata è il contrario di quello che sembra:
+non è crudeltà — è il suono di qualcuno che torna a esistere.
+
+**Tratto 2 — Le zanne limate (emotivo):**
+I templi gliele hanno limate. Un segno di "civiltà". Un modo
+per renderla meno bestiale. Le odia. Ogni volta che vede Zorgar
+con le sue zanne intere — fiere, non toccate — vede quello
+che le hanno rubato e quello che avrebbe potuto essere.
+Il lettore non ha bisogno di spiegazioni: quella differenza
+dice tutto sulla distanza tra chi è stata e chi avrebbe potuto
+diventare.
+
+**Tratto 3 — Il frammento (raro):**
+C'è un ricordo. Uno solo. Calore. Braccia che la tengono.
+Una voce dolce. Non sa se è reale — potrebbe averlo inventato
+per sopravvivere. Non lo dice a nessuno. Troppo fragile.
+Troppo prezioso. Una volta sola, a Zorgar, molto tardi nella
+saga: "C'è qualcosa. Un ricordo. Forse." È il momento più
+vulnerabile di Vasha in tutta la storia — e il più importante.
+
 **Lettore che cattura:**
 Chi è stato così completamente definito da altri — un ruolo,
 un'istituzione, una relazione, un trauma — da non sapere chi

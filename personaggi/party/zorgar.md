@@ -144,6 +144,30 @@ illuminazione retrospettiva. Ogni calcio alle porte acquista nuovo significato.
 - Quando è arrabbiato davvero, l'aria intorno a lui cambia — non lo nota, gli altri sì.
 - Non usa mai un tono di vittimismo. Il passato è un fatto, non una lamentela.
 
+### Tre Tratti Distintivi
+
+**Tratto 1 — Le porte sfondate (ricorrente):**
+Zorgar non bussa. Se una porta è chiusa e deve passare, la prima
+reazione è spalancarla con un calcio o una spallata — locanda,
+biblioteca, camera da letto di un nobile, non importa. È automatico.
+L'origine è una lieve claustrofobia da quando i ragazzini del
+villaggio lo chiusero in cantina per tre giorni. Non lo sa.
+Non lo ammetterebbe mai.
+
+**Tratto 2 — Il cibo silenzioso (emotivo):**
+Zorgar mette cibo in mano ad Aldric senza chiedere — l'unico modo
+per farlo mangiare. Non dice niente. Non si spiega. È la sua forma
+di cura: silenziosa, pratica, non negoziabile. Quando fa questo
+con qualcuno del party, il lettore capisce che quel personaggio
+è diventato suo.
+
+**Tratto 3 — L'aria che cambia (raro):**
+Quando Zorgar è arrabbiato davvero — non la rabbia di superficie,
+quella vera — l'aria intorno a lui cambia. Una tensione che non
+ha nome. Sylas lo ha notato. Dain lo ha notato. Zorgar no.
+Appare raramente, ma quando appare il lettore sa che qualcosa
+di più grande sta emergendo.
+
 **Lettore che cattura:**
 Chi si sente outsider in ogni gruppo. Chi mostra amore con i fatti e si
 vergogna di non saper fare altro. Chi ha smesso di chiedere approvazione
