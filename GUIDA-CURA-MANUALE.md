@@ -13,13 +13,14 @@ Gli hook li lancia Claude Code — tu curi i file che gli hook leggono.
 | Scrivere/espandere il capitolo | **Claude Code** (Modalità 1/3) oppure **tu** (Modalità 2) |
 | Aggiornare checkpoint e memorie dopo la scrittura | **Claude Code** (li genera nella pipeline post-edit) |
 | Verificare checkpoint e memorie generati | **Tu** (correggi se servono aggiustamenti) |
-| Aggiornare i tracker della serie (timeline, foreshadowing, relazioni, rivelazioni, morti) | **Tu** — gli hook li leggono per validare, ma non li scrivono |
+| Aggiornare i tracker della serie (timeline, foreshadowing, relazioni, rivelazioni, morti, regole-mondo) | **Claude Code** (li aggiorna nella pipeline post-capitolo) |
+| Verificare i tracker aggiornati | **Tu** (correggi se servono aggiustamenti) |
 | Sinossi del libro | **Già pronta** per tutti i 22 capitoli — tu la verifichi solo se vuoi cambiare qualcosa |
 
 **Il ciclo normale:**
 1. Dici "Scrivi il capitolo N" (con le tue indicazioni su eventi, tono, vincoli)
-2. Claude Code esegue tutta la pipeline (pre-edit → scrittura → linter → validator → checkpoint → memorie → post-edit)
-3. Tu verifichi checkpoint e memorie, aggiorni i tracker serie, commit
+2. Claude Code esegue tutta la pipeline (pre-edit → scrittura → linter → validator → checkpoint → memorie → tracker serie → post-edit)
+3. Tu verifichi checkpoint, memorie e tracker — correggi se necessario — commit
 
 ---
 
@@ -42,26 +43,20 @@ Di norma **non devi fare nulla** — dici "Scrivi il capitolo N" e Claude Code h
 
 ## Dopo che Claude Code ha scritto il capitolo
 
-Claude Code genera automaticamente checkpoint e memorie nella pipeline post-edit.
+Claude Code genera automaticamente checkpoint, memorie e tracker nella pipeline post-capitolo.
+Tu **verifichi** che siano corretti e **correggi** se necessario.
 
-**Verifichi** (generati da Claude Code):
-
-| File | Cosa fare | Quando |
-|------|-----------|--------|
-| `libro1-la-scelta/checkpoint/dopo-capitolo-NN.md` | Verificare che sia corretto. Correggere se necessario | Dopo ogni capitolo |
-| `libro1-la-scelta/memoria-personaggi/*.md` | Verificare che cosa sa/sospetta/non sa sia corretto per ogni personaggio | Dopo ogni capitolo |
-
-**Aggiorni tu** (Claude Code non li tocca):
-
-| File | Cosa fare | Quando |
-|------|-----------|--------|
-| `libro1-la-scelta/timeline.md` | Completare giorno ed eventi principali | Dopo ogni capitolo |
-| `libro1-la-scelta/note/foreshadowing-tracker.md` | Aggiungere semi piantati (🌱), cresciuti (🌿) o raccolti (🌳) | Dopo ogni capitolo che pianta o raccoglie un seme |
-| `serie/tracker/relazioni.md` | Aggiungere/aggiornare coppie di personaggi se il rapporto evolve | Quando una relazione cambia in modo significativo |
-| `serie/tracker/rivelazioni.md` | Registrare rivelazioni avvenute; spostare da "Pianificate" ad "Avvenute" | Quando il lettore o un personaggio scopre qualcosa |
-| `serie/tracker/morti.md` | Registrare il decesso | Quando un personaggio muore |
-| `serie/tracker/foreshadowing-cross.md` | Aggiungere semi che si raccoglieranno in libri futuri | Quando pianti un seme cross-libro |
-| `serie/tracker/regole-mondo.md` | Aggiungere regole stabilite nel testo (distanze, tempi, limiti magia) | Quando il testo stabilisce un fatto vincolante |
+| File | Generato da | Tu fai |
+|------|-------------|--------|
+| `libro1-la-scelta/checkpoint/dopo-capitolo-NN.md` | Claude Code | Verifichi che sia corretto |
+| `libro1-la-scelta/memoria-personaggi/*.md` | Claude Code | Verifichi cosa sa/sospetta/non sa |
+| `libro1-la-scelta/timeline.md` | Claude Code | Verifichi giorno ed eventi |
+| `libro1-la-scelta/note/foreshadowing-tracker.md` | Claude Code | Verifichi semi 🌱🌿🌳 |
+| `serie/tracker/relazioni.md` | Claude Code | Verifichi evoluzione rapporti |
+| `serie/tracker/rivelazioni.md` | Claude Code | Verifichi rivelazioni e sezione "Pianificate" |
+| `serie/tracker/morti.md` | Claude Code | Verifichi (se qualcuno muore) |
+| `serie/tracker/foreshadowing-cross.md` | Claude Code | Verifichi semi cross-libro |
+| `serie/tracker/regole-mondo.md` | Claude Code | Verifichi regole stabilite nel testo |
 
 ---
 
@@ -133,12 +128,10 @@ Il prossimo capitolo da allineare è il **Capitolo 10** (primo con checkpoint e 
 
 **Dici a Claude Code:** "Scrivi il capitolo 10" (con le tue indicazioni su eventi, tono, vincoli)
 
-**Claude Code fa:** pre-edit → scrittura → linter → validator → checkpoint → memorie → post-edit
+**Claude Code fa:** pre-edit → scrittura → linter → validator → checkpoint → memorie → tracker serie → post-edit
 
 **Tu fai (dopo):**
-3. **Verificare** il checkpoint generato — correggere se necessario
-4. **Verificare** le memorie aggiornate — correggere se necessario
-5. **Aggiornare** timeline, foreshadowing, tracker serie
-6. Commit
+3. **Verificare** checkpoint, memorie e tracker generati — correggere se necessario
+4. Commit
 
 ⚠️ **DA VERIFICARE CON L'AUTORE:** I checkpoint 10–22 hanno contenuto parziale (28 righe con 2 placeholder ciascuno). Non è chiaro se siano stati pre-compilati con dati reali o se contengano solo il template. Verificare prima di procedere.
