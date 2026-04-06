@@ -152,7 +152,8 @@ Se pre-edit.sh non è stato eseguito nella sessione corrente, **non iniziare la 
 ### Dopo QUALSIASI modifica a un capitolo:
 1. Aggiornare **immediatamente** il checkpoint corrispondente (`checkpoint/dopo-capitolo-N.md`)
 2. Aggiornare i file `memoria-personaggi/*.md` dei personaggi coinvolti
-3. Se il cambiamento ha impatto sui capitoli successivi: ⚠️ **PROPAGAZIONE NECESSARIA**
+3. Aggiornare i **tracker della serie** (vedi sezione dedicata sotto)
+4. Se il cambiamento ha impatto sui capitoli successivi: ⚠️ **PROPAGAZIONE NECESSARIA**
 
 ### Verifiche obbligatorie:
 - Chi è presente nella scena
@@ -167,6 +168,63 @@ Ogni capitolo completato deve includere una sezione di analisi con:
 - Elementi a doppio strato
 - Momenti chiave per personaggio
 
+### 📊 Aggiornamento Tracker della Serie (obbligatorio post-capitolo)
+
+Dopo aver aggiornato checkpoint e memorie, Claude **DEVE** aggiornare i seguenti tracker
+analizzando il contenuto del capitolo appena scritto/modificato. Ogni tracker va aggiornato
+**solo se il capitolo contiene eventi rilevanti** per quel tracker — non aggiungere righe vuote.
+
+#### 1. Timeline (`<libro>/timeline.md`)
+Aggiungere/aggiornare la riga del capitolo con giorno e eventi principali.
+```
+| 3 | Cap 7 | Il party lascia Millbrook, incontro con i mercanti sulla strada |
+```
+
+#### 2. Foreshadowing intra-libro (`<libro>/note/foreshadowing-tracker.md`)
+Aggiungere semi piantati (🌱), aggiornare semi cresciuti (🌿) o raccolti (🌳).
+```
+| Il medaglione di Elara si illumina | Cap 4 🌱 | Cap 9 🌿 | | Collegato alla Stirpe |
+```
+
+#### 3. Foreshadowing cross-libro (`serie/tracker/foreshadowing-cross.md`)
+Solo per semi che si raccoglieranno in **libri futuri**. Non duplicare quelli intra-libro.
+```
+| La profezia del viandante | Libro 1/Cap 15 🌱 | | | Payoff previsto Libro 3+ |
+```
+
+#### 4. Relazioni (`serie/tracker/relazioni.md`)
+Aggiungere/aggiornare una coppia **solo quando il rapporto evolve in modo significativo**.
+```
+### Zorgar ↔ Dain
+| Libro | Capitolo | Stato | Nota |
+|---|---|---|---|
+| Libro 1 | Cap 5 | Rispetto crescente | Zorgar difende Dain in combattimento |
+```
+
+#### 5. Rivelazioni (`serie/tracker/rivelazioni.md`)
+Registrare quando un personaggio o il lettore scopre qualcosa di importante.
+Se una rivelazione era nella sezione "Pianificate", spostarla nella tabella principale.
+```
+| Il Sanatorio esiste | Party | Libro 1 | Cap 9 | Scoperta durante l'esplorazione |
+```
+
+#### 6. Morti (`serie/tracker/morti.md`)
+Registrare **immediatamente** se un personaggio muore nel capitolo.
+```
+| [Nome] | Libro 1 | Cap N | [Come] | [Conseguenze] |
+```
+
+#### 7. Regole del mondo (`serie/tracker/regole-mondo.md`)
+Aggiungere **solo** fatti vincolanti stabiliti nel testo narrativo (distanze, tempi di viaggio,
+costi, regole magiche, leggi, usanze) che non potranno essere contraddetti in futuro.
+```
+## Distanze e Tempi di Viaggio
+| Millbrook | Foresta di Thornwood | Mezza giornata a piedi | Libro 1, Cap 7 |
+```
+
+> **Principio:** i tracker sono il registro dei fatti della storia. Se è successo nel capitolo,
+> deve essere nei tracker. L'autore verificherà e correggerà se necessario.
+
 ---
 
 ## 🔄 TRE MODALITÀ DI LAVORO
@@ -177,7 +235,7 @@ Gli hook funzionano in tutte e tre le modalità.
 L'utente fornisce indicazioni (POV, eventi, tono, vincoli). Claude esegue pre-edit.sh,
 scrive il capitolo rispettando checkpoint e memorie, poi esegue l'intera pipeline di hook.
 
-**Flusso:** indicazioni utente → pre-edit → scrittura → linter → validator → checkpoint → memorie → post-edit
+**Flusso:** indicazioni utente → pre-edit → scrittura → linter → validator → checkpoint → memorie → tracker serie → post-edit
 
 ### Modalità 2 — L'UTENTE SCRIVE, CLAUDE REVISIONA
 L'utente scrive il capitolo e chiede a Claude di revisionarlo.
@@ -185,14 +243,14 @@ Claude esegue la pipeline di hook come revisione, poi produce un **RAPPORTO DI R
 con errori, incongruenze e suggerimenti, **SENZA modificare il testo** dell'utente a meno che
 non venga esplicitamente chiesto.
 
-**Flusso:** push/file utente → pre-edit (contesto) → linter → validator → rapporto revisione → utente approva → checkpoint → memorie → post-edit
+**Flusso:** push/file utente → pre-edit (contesto) → linter → validator → rapporto revisione → utente approva → checkpoint → memorie → tracker serie → post-edit
 
 ### Modalità 3 — IBRIDA (BOZZA + ESPANSIONE)
 L'utente scrive una bozza (anche incompleta o schematica). Claude la legge, esegue
 pre-edit per avere il contesto, poi espande/raffina il testo mantenendo la voce e le
 scelte dell'utente. Dopo l'espansione, esegue la pipeline completa.
 
-**Flusso:** bozza utente → pre-edit → espansione rispettando la bozza → linter → validator → checkpoint → memorie → post-edit
+**Flusso:** bozza utente → pre-edit → espansione rispettando la bozza → linter → validator → checkpoint → memorie → tracker serie → post-edit
 
 ### Come capire quale modalità:
 | Comando | Modalità |
@@ -216,8 +274,9 @@ In caso di dubbio, **chiedere all'utente**.
 [5] SE OK → tracker-validator.py          (morti, regole mondo, rivelazioni, foreshadowing)
 [6] SE OK → checkpoint-generator.py       (aggiorna checkpoint)
 [7] INFINE → memoria-updater.py           (aggiorna memorie personaggi)
-[8] POST-EDIT → post-edit.sh              (verifica che tutto sia aggiornato)
-[9] FINE ✅
+[8] TRACKER → aggiorna tracker serie      (timeline, foreshadowing, relazioni, rivelazioni, morti, regole-mondo)
+[9] POST-EDIT → post-edit.sh              (verifica che tutto sia aggiornato)
+[10] FINE ✅
 
 [OPZIONALE] python hooks/personaggi-secondari-checker.py <libro-dir>
             (verifica a livello libro che i personaggi secondari siano menzionati)
