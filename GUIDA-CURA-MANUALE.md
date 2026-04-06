@@ -13,11 +13,11 @@ Gli hook li lancia Claude Code — tu curi i file che gli hook leggono.
 | Scrivere/espandere il capitolo | **Claude Code** (Modalità 1/3) oppure **tu** (Modalità 2) |
 | Aggiornare checkpoint e memorie dopo la scrittura | **Claude Code** (li genera nella pipeline post-edit) |
 | Verificare checkpoint e memorie generati | **Tu** (correggi se servono aggiustamenti) |
-| Aggiornare i tracker della serie (timeline, foreshadowing, relazioni, rivelazioni, morti) | **Tu** (Claude Code non li tocca) |
-| Preparare la sinossi del prossimo capitolo | **Tu** |
+| Aggiornare i tracker della serie (timeline, foreshadowing, relazioni, rivelazioni, morti) | **Tu** — gli hook li leggono per validare, ma non li scrivono |
+| Sinossi del libro | **Già pronta** per tutti i 22 capitoli — tu la verifichi solo se vuoi cambiare qualcosa |
 
 **Il ciclo normale:**
-1. Tu verifichi che la sinossi copra il capitolo → dici "Scrivi il capitolo N"
+1. Dici "Scrivi il capitolo N" (con le tue indicazioni su eventi, tono, vincoli)
 2. Claude Code esegue tutta la pipeline (pre-edit → scrittura → linter → validator → checkpoint → memorie → post-edit)
 3. Tu verifichi checkpoint e memorie, aggiorni i tracker serie, commit
 
@@ -25,18 +25,15 @@ Gli hook li lancia Claude Code — tu curi i file che gli hook leggono.
 
 ## Prima di chiedere a Claude Code di scrivere
 
-Checkpoint e memorie del capitolo precedente li ha già generati Claude Code alla fine della pipeline.
-Tu li hai verificati nel "dopo" del capitolo precedente, quindi sono pronti.
-L'unica cosa che devi preparare è la **sinossi** del capitolo che stai per far scrivere.
+La sinossi copre già tutti i 22 capitoli. Checkpoint e memorie del capitolo precedente li ha generati Claude Code nella pipeline post-edit.
+
+Di norma **non devi fare nulla** — dici "Scrivi il capitolo N" e Claude Code ha tutto il contesto.
+
+**Solo se hai deciso cambiamenti** tra un capitolo e l'altro:
 
 | File | Cosa fare | Quando |
 |------|-----------|--------|
-| `libro1-la-scelta/sinossi.md` | Verificare che il capitolo da scrivere sia coperto dalla sinossi | Prima di ogni capitolo |
-
-**Occasionalmente** (solo se hai deciso cambiamenti tra un capitolo e l'altro):
-
-| File | Cosa fare | Quando |
-|------|-----------|--------|
+| `libro1-la-scelta/sinossi.md` | Verificare che sia ancora in linea con quello che vuoi | Se hai cambiato idea sulla trama |
 | `personaggi/party/*.md` | Aggiornare la scheda se hai deciso cambiamenti all'arco del personaggio | Quando cambi qualcosa |
 | `personaggi/secondari/*.md` | Creare la scheda se il capitolo introduce un personaggio secondario nuovo | Quando appare un nuovo secondario |
 | `worldbuilding/*.md` | Aggiornare se il capitolo introduce nuovi elementi del mondo | Quando aggiungi lore nuova |
@@ -131,9 +128,8 @@ Se hai bisogno di aggiungere un termine proibito o un nome canonico, modifica il
 
 Il prossimo capitolo da allineare è il **Capitolo 10** (primo con checkpoint e memorie non aggiornati).
 
-**Tu fai (prima):**
-1. Verificare che la sinossi copra il capitolo 10
-2. _(Una tantum)_ Compilare i tracker arretrati dei capitoli 1–9: `timeline.md`, `foreshadowing-tracker.md`, `relazioni.md`, `rivelazioni.md`
+**Tu fai (prima — una tantum):**
+1. Compilare i tracker arretrati dei capitoli 1–9: `timeline.md`, `foreshadowing-tracker.md`, `relazioni.md`, `rivelazioni.md`
 
 **Dici a Claude Code:** "Scrivi il capitolo 10" (con le tue indicazioni su eventi, tono, vincoli)
 
