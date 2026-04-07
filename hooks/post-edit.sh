@@ -91,7 +91,24 @@ else
     check_warn "Validator non eseguibile (python3 o script non trovato)"
 fi
 
-# 4. Checkpoint aggiornato
+# 4. Struttura capitolo (sezioni di fine capitolo)
+echo ""
+echo "📐 Struttura capitolo:"
+if command -v python3 &>/dev/null && [ -f "$BASE_DIR/hooks/struttura-capitolo-validator.py" ]; then
+    STRUCT_OUTPUT=$(python3 "$BASE_DIR/hooks/struttura-capitolo-validator.py" "$CAP_FILE" 2>&1) || true
+    if echo "$STRUCT_OUTPUT" | grep -q "❌"; then
+        check_fail "Sezioni di fine capitolo mancanti o incomplete"
+        echo "$STRUCT_OUTPUT" | grep "❌" | sed 's/^/    /'
+    elif echo "$STRUCT_OUTPUT" | grep -q "bozza"; then
+        check_pass "Capitolo in bozza — struttura non richiesta"
+    else
+        check_pass "Struttura capitolo completa"
+    fi
+else
+    check_warn "Struttura validator non eseguibile (python3 o script non trovato)"
+fi
+
+# 5. Checkpoint aggiornato
 echo ""
 echo "📍 Checkpoint:"
 if [ -f "$CHECKPOINT_FILE" ]; then
@@ -100,7 +117,7 @@ else
     check_fail "$(basename "$CHECKPOINT_FILE") NON aggiornato"
 fi
 
-# 5. Memorie personaggi aggiornate
+# 6. Memorie personaggi aggiornate
 echo ""
 echo "🧠 Memorie personaggi:"
 MEMORIA_DIR="$LIBRO_DIR/memoria-personaggi"
@@ -119,7 +136,7 @@ else
     check_fail "Directory memoria-personaggi non trovata"
 fi
 
-# 6. Tracker della serie
+# 7. Tracker della serie
 echo ""
 echo "📊 Tracker serie:"
 

@@ -1,6 +1,6 @@
 # Memoria di Aldric — Libro 1
 
-**Aggiornato al:** Capitolo 9
+**Aggiornato al:** Capitolo 10
 
 ## Cosa SA
 - Cap 1: Tre stranieri (Zorgar, Sylas, Dain) hanno partecipato al funerale — conoscevano il defunto
@@ -30,12 +30,26 @@
 - Cap 9: Ha aperto le catene — "Il mio dovere. Per la prima volta in vent'anni."
 - Cap 9: Aldwyn ha accettato un giorno di vantaggio negoziato da Sylas — poi si è avviato verso la capitale
 - Cap 9: Il party è fuggito verso est, verso le montagne, su indicazione di Vera (sogni)
+- Cap 10: Ha guidato con il party nei boschi a est di Millbrook, evitando la strada principale
+- Cap 10: Zorgar guida il gruppo — leader naturale senza che nessuno glielo abbia chiesto
+- Cap 10: Dain gli ha offerto pane nanico e una conversazione: "il tradimento è infrangere una promessa giusta; se era ingiusta, è dovere"
+- Cap 10: Ha guarito il cavallo (taglio allo zoccolo) SENZA la preghiera formale della Chiesa — la magia ha funzionato comunque
+- Cap 10: Il costo della guarigione è stato lo stesso (pallore, debolezza) anche senza preghiera
+- Cap 10: Mirael ha osservato e annotato la guarigione senza preghiera — "Hai guarito senza la preghiera. Lo stesso di prima. Solo senza le parole."
+- Cap 10: Fizzle gli ha chiesto da dove viene l'energia della guarigione — "Se non è la fede, e la Chiesa non c'entra, allora è tuo"
+- Cap 10: Ha provato a pregare da solo nel bosco — le parole della liturgia suonano vuote
+- Cap 10: Vera gli ha detto "Ci sono cose vere. Ma non sono dove te le hanno insegnate."
+- Cap 10: Le provviste del gruppo sono limitate — servirà cacciare
+- Cap 10: Zorgar ha usato il suo nome per la prima volta
 
 ## Cosa SOSPETTA
 - Cap 4: Maren potrebbe aver saputo dell'attacco a Thornwick prima di partire — ma non lo chiede
 - Cap 4: Il gatto della maga lo fissa con un'intensità non normale — "troppo intelligente per un animale"
 - Cap 9: Le catene d'argento "per le particolarità di certi soggetti" — non ha mai chiesto cosa significasse. Ora sa che significava qualcosa di preciso.
 - Cap 9: La Chiesa ha un piano sistematico, non una casistica di cura — lo capisce solo adesso
+- Cap 10: Se la magia funziona senza la preghiera della Chiesa, forse non è mai stata della Chiesa — pensiero pericoloso ma inevitabile
+- Cap 10: La connessione tra Elara e Vera è qualcosa di profondo, antico — comunicano senza parole
+- Cap 10: Micio si è avvicinato a lui brevemente, guardandolo con quegli occhi troppo intelligenti — poi se ne è andato
 
 ## Cosa NON Sa
 - Chi siano davvero gli altri membri del party (Elara, Mirael, Fizzle)
@@ -51,11 +65,11 @@
 |---|---|---|
 | Vera | Colpa trasformata in responsabilità | L'ha incatenata. L'ha liberata. Sa che non basta ma è l'inizio. |
 | Elara | Rispetto + debito | È stata lei a fargli la domanda che non aveva osato fare da solo |
-| Zorgar | Fiducia consolidata | "Questione di numeri. Uno di voi. Otto di noi." — stava dalla sua parte |
+| Zorgar | Fiducia + rispetto a distanza | Ha usato il suo nome per la prima volta. Guida il gruppo con naturalezza — non il mostro che la Chiesa descrive. |
 | Sylas | Gratitudine operativa | Ha negoziato il giorno di vantaggio — senza di lui la situazione esplodeva |
-| Dain | Dialogo autentico + peso | "Non puoi tornare indietro." — lo ha detto con il tono di chi sa cosa significa |
-| Mirael + Micio | Perplessità rispettosa | Ha sentito "Come ti senti?" a Vera — un gesto di cura genuino |
-| Fizzle | Imbarazzo affettuoso | Esaminava le ruote del carro nel momento peggiore possibile — ma era lì |
+| Dain | Primo legame vero | Il pane, la conversazione: "libertà che non sa dove andare". Riconoscimento tra chi ha lasciato tutto. |
+| Mirael + Micio | Osservazione reciproca | Ha visto la guarigione senza preghiera e ha annotato tutto — sguardo da scienziata, non da giudice. Micio troppo intelligente per un animale. |
+| Fizzle | Curiosità reciproca | "Se non è la fede, allora è tuo" — lo gnomo ha formulato in una frase quello che Aldric non riusciva a pensare |
 | Aldwyn | Rispetto per l'onore | Ha accettato il patto e lo manterrà. Non è un nemico — è qualcuno che fa il suo dovere in un sistema sbagliato. |
 | Chiesa dei Tre | Rotto | Vent'anni di obbedienza terminati. La fede in qualcosa di vero resiste — ma non ha più la forma della Chiesa. |
 
@@ -65,4 +79,7 @@
 - I voti fatti alla Chiesa: valgono ancora? Per chi? Per cosa? Non ha risposta.
 - La sensazione strana di essere "nel posto giusto anche se è il posto più pericoloso" — accettazione del cambiamento
 - "La mia gente" — pensiero spontaneo di fronte al party. L'ha sorpreso lui stesso.
-- La magia divina: ce l'ha ancora. Non sa se è ancora la sua, o se era solo prestata.
+- La magia divina: ce l'ha ancora. Funziona SENZA preghiera. Non sa cosa significhi — ma sa che non appartiene alla Chiesa.
+- La preghiera formale è vuota — le parole non hanno più sostanza. Ma qualcosa dentro di lui continua a cercare.
+- Primo senso di appartenenza al gruppo — piccoli gesti (il pane di Dain, la domanda di Fizzle, il nome usato da Zorgar) che costruiscono un legame.
+- "Cose vere che non sono dove me le hanno insegnate" — le parole di Vera restano.

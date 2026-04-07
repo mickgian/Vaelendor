@@ -1,6 +1,6 @@
 # Memoria di Elara — Libro 1
 
-**Aggiornato al:** Capitolo 9
+**Aggiornato al:** Capitolo 10
 
 ## Cosa SA
 - Cap 2: Millbrook è un villaggio tranquillo — né accogliente né ostile, realistico
@@ -36,6 +36,9 @@
 - Cap 9: Aldwyn ha accettato un giorno di vantaggio — negoziato da Sylas
 - Cap 9: Il group fugge verso le montagne, su indicazione di Vera (sogni)
 - Cap 9: Vera è libera, con il gruppo — la promessa "Non vai da sola" è mantenuta
+- Cap 10: Ha aiutato Zorgar con l'orientamento nel bosco — tracce di animali, sentieri
+- Cap 10: Continua a viaggiare vicino a Vera — comunicano senza parole, condividono sguardi che precedono le frasi
+- Cap 10: Micio si è avvicinato a Vera come si era avvicinato a lei — lo stesso comportamento
 
 ## Cosa SOSPETTA
 - Cap 2: Micio la osserva in modo sbagliato — "troppo intelligente, troppo consapevole"
@@ -46,6 +49,7 @@
 - Cap 8: Quello che condivide con Vera ha un nome che la Chiesa conosce e lei non ancora
 - Cap 8: La reazione alla magia divina non è accidentale — è una caratteristica di chi sono
 - Cap 9: Sylas ha agito con precisione tattica durante il confronto — sa come gestire situazioni ad alto rischio
+- Cap 10: Micio si avvicina a Vera come si era avvicinato a lei — il gatto riconosce qualcosa in comune tra loro
 
 ## Cosa NON Sa
 - Chi fosse il defunto del funerale e il suo legame col gruppo
@@ -73,3 +77,4 @@
 - "Non si torna indietro" — il momento chiave del suo arco nel Libro 1 — adesso è reale
 - Non ha ancora un nome per quello che è, ma sa che non è un'anomalia isolata
 - È in fuga, ma con una direzione — le montagne — e con persone che hanno scelto di esserci
+- Cap 10: Collabora con Zorgar per l'orientamento — competenze da tracker che emergono. Si muove nel bosco come Sylas si muove nella città.

@@ -1,6 +1,6 @@
 # Memoria di Vera — Libro 1
 
-**Aggiornato al:** Capitolo 9
+**Aggiornato al:** Capitolo 10
 
 ## Cosa SA
 - Cap 8: Due sconosciuti (Elara e Sylas) sono entrati dalla finestra nella sua stanza di notte
@@ -17,6 +17,10 @@
 - Cap 9: Il party: otto persone, ognuna con le proprie ragioni. Ha sentito le intenzioni di tutti durante il confronto.
 - Cap 9: Tomás prometterà di essere stato minacciato — lei gliel'ha chiesto. Lui ha accettato.
 - Cap 9: Aldwyn ha accettato un giorno di vantaggio. È un uomo d'onore — lo ha sentito.
+- Cap 10: Il party ha lasciato la strada principale per i boschi — viaggia verso le montagne
+- Cap 10: Micio si è avvicinato a lei durante la sosta — lo stesso comportamento avuto con Elara
+- Cap 10: Ha detto ad Aldric "Ci sono cose vere. Ma non sono dove te le hanno insegnate." — prima guida diretta verso Aldric
+- Cap 10: Ha comunicato con Elara senza parole più volte — la connessione tra loro si approfondisce
 
 ## Cosa È Noto al Lettore (ma non ancora al Party completo)
 - Si chiama Vera
@@ -44,7 +48,7 @@
 |---|---|---|
 | Elara | Fiducia piena | "Non vai da sola" — mantenuto. La prima persona "come lei." |
 | Sylas | Rispetto + domanda aperta | Sa che sa qualcosa. Ha detto "non stanotte" a qualcosa. Aspetta ancora. |
-| Aldric | Rispetto senza odio | L'ha incatenata e liberata. Sa che l'ha fatto per scelta, non per dovere. "La luce non è la stessa cosa di chi la usa." |
+| Aldric | Rispetto + guida silenziosa | Ha iniziato a guidarlo — "cose vere, ma non dove te le hanno insegnate". Lo vede cercare, e gli indica una direzione senza imporre. |
 | Tomás | Addio definitivo | Abbraccio breve, forte, disperato. Sa che lo ha lasciato per proteggerlo. |
 | Zorgar | Percepito come protezione genuina | "Questione di numeri" — le sue intenzioni erano chiare anche senza parole |
 | Dain | Non ancora incontrato davvero | Ha sentito le intenzioni — cerca la verità nelle storie. Interessante. |
@@ -58,3 +62,5 @@
 - Segni rossi ai polsi dove le catene erano chiuse — il corpo porta quello che la mente ha già elaborato
 - Non ha guardato indietro quando si è allontanata da Tomás — cicatrice aperta, non ancora toccata
 - Sa dove stanno andando — le montagne — e sa perché. Ma non ha ancora detto tutto.
+- Cap 10: Viaggio nel bosco verso le montagne. Micio l'ha trovata — si è seduto davanti a lei. Sa che il gatto vede qualcosa.
+- Cap 10: Ha iniziato a guidare Aldric — il sacerdote sta cercando, e lei sa dove guardare anche se non sa ancora tutto.

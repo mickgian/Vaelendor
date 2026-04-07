@@ -292,6 +292,7 @@ In caso di dubbio, **chiedere all'utente**.
 | Checkpoint | `python hooks/checkpoint-generator.py <file>` |
 | Memorie | `python hooks/memoria-updater.py <file>` |
 | Post-edit | `./hooks/post-edit.sh <libro> <capitolo>` |
+| Struttura capitolo | `python hooks/struttura-capitolo-validator.py <file>` |
 | Tecnica narrativa | `python hooks/tecnica-check.py <libro> <capitolo>` |
 | Revisione | `python hooks/review-report.py <file>` |
 | Personaggi secondari | `python hooks/personaggi-secondari-checker.py <libro-dir>` |
