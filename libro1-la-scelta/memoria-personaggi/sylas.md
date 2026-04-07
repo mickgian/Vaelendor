@@ -1,6 +1,6 @@
 # Memoria di Sylas — Libro 1
 
-**Aggiornato al:** Capitolo 9
+**Aggiornato al:** Capitolo 10
 
 ## Cosa SA
 - Cap 1: Ha partecipato a un funerale per un defunto anonimo (nessun nome sulla lapide)
@@ -39,6 +39,9 @@
 - Cap 9: Ha negoziato con Aldwyn: un giorno di vantaggio in cambio di nessun combattimento
 - Cap 9: Aldwyn è un soldato d'onore — ha accettato il patto e lo manterrà fino a domani
 - Cap 9: Il group fugge verso le montagne, su indicazione di Vera
+- Cap 10: Cavalca in coda al gruppo, controlla la strada alle spalle — nessun inseguimento per ora
+- Cap 10: Ha perimetrato la radura durante la sosta — scomparso e riapparso da un punto diverso del bosco
+- Cap 10: Le provviste sono limitate — servirà procurare cibo
 
 ## Cosa SOSPETTA
 - Cap 1: Cosa ci fa un sacerdote che menziona il Sanatorio in un villaggio così piccolo? — la risposta si avvicina
@@ -75,3 +78,4 @@
 - Ha gestito la situazione con Aldwyn con precisione — il patto d'onore era la soluzione più sicura
 - Emotivamente: la fuga verso le montagne dà direzione al caos. Ma il peso di Velanthis è ancora lì.
 - Cap 9 fine: in sella, in fuga. Il momento per parlare si avvicina — non ancora, ma si avvicina.
+- Cap 10: Gestisce la sicurezza del gruppo in silenzio — perimetra, controlla, appare dove serve. Non ha ancora parlato di Velanthis.

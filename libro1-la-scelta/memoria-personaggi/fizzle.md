@@ -1,6 +1,6 @@
 # Memoria di Fizzle — Libro 1
 
-**Aggiornato al:** Capitolo 9
+**Aggiornato al:** Capitolo 10
 
 ## Cosa SA
 - Cap 3: Un funerale ha portato Zorgar, Dain e Sylas a Millbrook — qualcuno che conoscevano
@@ -17,12 +17,17 @@
 - Cap 9: Dain lo ha chiamato: "Smettila di esaminare le ruote del carro. Dobbiamo andare."
 - Cap 9: Ha proposto "esperimenti in alta quota" per le montagne — Zorgar ha detto no automaticamente
 - Cap 9: Ha tirato fuori una fiala e l'ha esaminata alla luce del sole mentre gli altri elaboravano quello che era successo
+- Cap 10: Ha notato artemisia selvatica sul sentiero — indica altitudine superiore ai 300 metri
+- Cap 10: Ha testato la composizione minerale dell'acqua del ruscello nella radura di sosta
+- Cap 10: Ha chiesto ad Aldric da dove viene l'energia della guarigione — "Se non è la fede, e la Chiesa non c'entra, allora è tuo"
+- Cap 10: Ha misurato la temperatura di un sacerdote prima e dopo una guarigione in passato: differenza di mezzo grado
 
 ## Cosa SOSPETTA
 - Cap 3: Micio sa qualcosa — "lo studia come faccio io con le mie reazioni"
 - Cap 3: Dain sa qualcosa sulle leggende antiche che potrebbe spiegare perché il fuoco non lo brucia
 - Cap 6: Le pozioni che ha usato a Thornwick hanno reagito diversamente del previsto su alcune persone — qualcosa nei loro corpi è strano (intuizione vaga, non ancora elaborata)
 - Cap 9: La composizione del legno del carro era "molto resistente" — nota tecnica, nessun collegamento ancora
+- Cap 10: La guarigione di Aldric produce un calore misurabile e un costo fisico — è un fenomeno energetico, non puramente spirituale
 
 ## Cosa NON Sa
 - Perché il fuoco non lo brucia (lo studia da 83 anni senza risposta definitiva)
@@ -41,7 +46,7 @@
 | Zorgar | Rispetto istintivo | Obbedisce al suo "No" senza protestare — capisce il tono da predatore |
 | Elara | Intuizione strana | Sente che è "familiare" — non riesce a spiegarlo |
 | Sylas | Osservazione | Pochi scambi — ha notato la diffidenza |
-| Aldric | Imbarazzo rispettoso | Le sue pozioni hanno aiutato davvero i feriti — primo successo condiviso |
+| Aldric | Curiosità scientifica reciproca | La domanda sull'energia — Aldric non sa rispondere, ma non ha riso. Primo umano che prende sul serio la domanda. |
 | Micio | Valutazione reciproca | Si sono fissati a lungo — Fizzle lo chiama "piccolo non-gatto" |
 
 ## Stato Fisico/Emotivo
@@ -50,6 +55,7 @@
 - Piedi scalzi e anneriti come se avesse camminato sui carboni
 - Senza cognome — o dimenticato o tolto dalla comunità di Wimblebrook
 - Cap 9: in fuga verso le montagne — "minerali rari, caverne inesplorate" — entusiasta nonostante il no agli esperimenti
+- Cap 10: ha avuto una conversazione vera con Aldric sulla guarigione — la prima volta che qualcuno tratta il suo approccio scientifico alla magia come una domanda legittima
 
 ## Inventario Noto
 - Fiala arancione: fuoco alchemico (molto pericoloso)

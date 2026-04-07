@@ -1,6 +1,6 @@
 # Memoria di Zorgar — Libro 1
 
-**Aggiornato al:** Capitolo 9
+**Aggiornato al:** Capitolo 10
 
 ## Cosa SA
 - Cap 1: Il funerale è stato officiato con rispetto genuino
@@ -19,6 +19,10 @@
 - Cap 9: Si è spostato tra Aldric e Aldwyn nel momento decisivo: "Questione di numeri. Uno di voi. Otto di noi."
 - Cap 9: Il party fugge verso le montagne, su indicazione di Vera
 - Cap 9: Ha detto "Nessun esperimento" a Fizzle automaticamente, anche nel momento della fuga
+- Cap 10: Ha guidato il gruppo fuori dalla strada principale verso il bosco — "Meglio lenti e nascosti che veloci e visibili"
+- Cap 10: Si è occupato dei cavalli durante la sosta — controllo zampe, zoccoli, fiato
+- Cap 10: Ha usato il nome di Aldric per la prima volta — "In questi boschi ci sono cervi"
+- Cap 10: Ha collaborato con Elara per l'orientamento nel bosco — lei ha indicato tracce di animali, lui ha svoltato
 
 ## Cosa SOSPETTA
 - Cap 6: Il lavoro di scavare tombe ha fatto riemergere qualcosa del suo passato — non elaborato, non condiviso
@@ -37,7 +41,7 @@
 |---|---|---|
 | Sylas | Fiducia profonda | 2 anni insieme. Sa leggere i suoi silenzi. |
 | Dain | Fiducia profonda | 2 anni insieme. Tollera le sue leggende con affetto. |
-| Aldric | Rispetto + fiducia guadagnata | Ha scelto di aprire le catene. Ha scelto bene. Questo conta. |
+| Aldric | Rispetto consolidato | Ha usato il suo nome per la prima volta. Ha scelto bene — e non rallenta il gruppo. |
 | Elara | Neutro-protettivo | L'ha difesa da Mirael senza pensarci; ha visto come lavora sul campo |
 | Mirael | Ironico ma bonario | "Osserva meno. Bevi di più." |
 | Fizzle | Rispetto pragmatico | Le pozioni hanno aiutato a Thornwick — conferma pragmatica |
@@ -48,3 +52,4 @@
 - Il lutto originale si mescola con qualcosa di più antico (passato, non ancora condiviso)
 - Cap 9: ha agito con calma e precisione nel momento del confronto — la rabbia è sotto controllo, ma le catene su Vera l'hanno toccato
 - In fuga verso le montagne — direzione chiara, per ora
+- Cap 10: Guida il gruppo con naturalezza — sceglie ritmo, percorso, soste. Leader senza autoproclamarsi.
