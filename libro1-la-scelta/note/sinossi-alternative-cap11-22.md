@@ -67,11 +67,11 @@ Prima dell'alba. Elara è di guardia e sente i templari trenta secondi prima che
 
 Otto cavalieri armati emergono dalla nebbia a tutta velocità. Fuga a piedi attraverso campo aperto — terreno sbagliato, luce sbagliata, nessuna copertura. Poi il bosco: copertura, sì, ma anche trappola. I templari li circondano su tre lati.
 
-Non c'è piano. Non c'è tempo per un piano. Il party combatte per la prima volta insieme e ogni membro agisce per istinto — e per istinto funzionano, come se si conoscessero da anni. Elara non pensa, si muove; scopre abilità fisiche che non sapeva di avere, velocità e precisione che non ha mai allenato. Le mani sanno cosa fare prima che la testa lo decida.
+Non c'è piano. Non c'è tempo per un piano. Il party combatte per la prima volta insieme e ogni membro agisce per istinto — e per istinto funzionano, come se si conoscessero da anni. Elara non pensa, si muove; il corpo sa dove andare, il coltello trova le giunture dell'armatura, i piedi trovano il terreno giusto. Lo legge come sopravvivenza. Non ha un altro nome per quello che fa.
 
-Il capitolo si chiude con un templare che attacca da dietro. Elara non ha il tempo di girarsi.
+Il capitolo si chiude con un templare che attacca da dietro. Elara si volta — troppo tardi.
 
-**Momento chiave:** Nel mezzo del combattimento, Vera non scappa — resta ferma, occhi chiusi, e le piante attorno ai templari sembrano intralciarli appena, appena abbastanza. Nessuno nel caos lo nota. Elara sì.
+**Momento chiave:** Il momento in cui Elara vede tutto il campo di battaglia insieme — i suoi compagni, i templari che arretrano, la coesione non pianificata del gruppo — e capisce che stanno vincendo. Un solo istante di lucidità prima che il colpo arrivi.
 
 ---
 
@@ -86,9 +86,7 @@ Zorgar ride. In battaglia. Per la prima volta da anni.
 
 La vittoria arriva senza morti, solo feriti. Aldric guarisce tutti uno per uno — poi arriva a Vera. La sua luce tocca la sua spalla.
 
-Vera si ritrae come se l'avesse bruciata.
-
-È un movimento piccolo, involontario, subito controllato. Vera dice che è niente. Aldric crede che sia niente. Il chapter si chiude su Zorgar che fissa quel punto sul braccio di Vera, e non dice niente, e pensa molto.
+Vera sussulta. Un irrigidimento del corpo, un passo indietro involontario, subito controllato. Come se la luce bruciasse. Come se sotto il calore ci fosse qualcosa di sbagliato. Vera dice che è niente. Aldric crede che sia niente. Il capitolo si chiude su Zorgar che fissa quel punto sul braccio di Vera, e non dice niente, e pensa molto.
 
 **Momento chiave:** Fizzle che usa la Formula Sette — e poi guarda la boccetta vuota con aria pensierosa, come se avesse già in mente la Formula Otto.
 
