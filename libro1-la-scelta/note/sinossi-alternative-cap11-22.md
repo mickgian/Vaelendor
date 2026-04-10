@@ -29,7 +29,7 @@ Terza notte di fuga. Il fuoco crepita basso, i cavalli dormono, qualcuno dovrebb
 
 Dain tira fuori una leggenda che non ha mai raccontato davanti a estranei: *Il Fabbro e la Fiamma*. Una storia nanica di Fuoco primordiale — libero, antico, tradito dai Fabbri che lo imprigionarono sottoterra. Chi porta gli "Occhi del Profondo" lo sente ancora chiamare.
 
-Sylas osserva. È quello che fa. Osserva Zorgar che finge di non essere colpito. Osserva Aldric che stringe il simbolo della Chiesa come se bruciasse. Osserva Mirael che comincia a prendere appunti mentali frenetici.
+Sylas osserva. È quello che fa. Osserva Zorgar che finge di non essere colpito. Osserva Aldric che stringe il simbolo della Chiesa come se bruciasse. Osserva Mirael che chiude il libro — significativo. Osserva Fizzle smettere di armeggiare con una boccetta e stare fermo, serio per una volta.
 
 Poi osserva Vera.
 
@@ -50,9 +50,9 @@ Vera vomita sul ciglio della strada.
 
 Non è nausea: è dolore. Dalle fondamenta del tempio centrale, Vera *vede* catene di luce fredda estendersi nel terreno come radici di un albero malato, penetrando le case, avvolgendo le persone che dormono. Qualcosa viene estratto da loro ogni notte — non sangue, non anima, qualcosa di più sottile. La loro pace è reale. Non l'hanno scelta.
 
-Poi arriva il momento peggiore: Vera riconosce la frequenza di quelle catene. L'ha già sentita. Calda invece di fredda, ma identica nella struttura. È la stessa cosa che pulsa nella magia di Aldric quando guarisce.
+Poi arriva il momento peggiore. Cavalcando via, Vera guarda Aldric — il sacerdote ha lo sguardo di chi sta cercando di tenere insieme qualcosa che si rompe. Vera capisce qualcosa che non riesce ancora a formulare: c'è una connessione tra quello che ha sentito sotto il tempio e la luce delle mani di Aldric quando guarisce. Non lo dice. Non ancora. Quelle parole lo distruggerebbero, e Aldric sta appena iniziando a farsi le domande giuste.
 
-Il party accelera. Vera non dice niente ad Aldric. Non sa ancora come dirlo.
+Fizzle cavalca in silenzio, insolitamente fermo, le mani strette sulle boccette. Anche lui ha sentito qualcosa. Non sa cosa, ma le sue boccette reagiscono.
 
 **Momento chiave:** Un bambino del villaggio guarda Vera passare con occhi completamente vuoti — e sorride. È il sorriso più terrificante del libro.
 
@@ -84,7 +84,7 @@ E quello che sente in questo scontro è qualcosa che non ha mai sentito in tre a
 
 Zorgar ride. In battaglia. Per la prima volta da anni.
 
-La vittoria arriva senza morti, solo feriti. Aldric guarisce tutti uno per uno — poi arriva a Vera. La sua luce tocca la sua spalla.
+La vittoria arriva senza morti, solo feriti. Aldric guarisce tutti uno per uno. A ogni guarigione si fa un po' più pallido, un po' più lento — il costo visibile della magia divina che si accumula. Quando arriva all'ultimo, ha le mani che tremano appena e gli occhi cerchiati. Ma arriva a Vera. La sua luce tocca la sua spalla.
 
 Vera sussulta. Un irrigidimento del corpo, un passo indietro involontario, subito controllato. Come se la luce bruciasse. Come se sotto il calore ci fosse qualcosa di sbagliato. Vera dice che è niente. Aldric crede che sia niente. Il capitolo si chiude su Zorgar che fissa quel punto sul braccio di Vera, e non dice niente, e pensa molto.
 
@@ -149,7 +149,7 @@ Dain impallidisce.
 
 Nelle antiche leggende naniche, Kael'ren cammina tra il fuoco e la pietra. Non è un eroe, non è un dio — è un tramite. Compare nei momenti in cui qualcosa di molto antico sta per cambiare.
 
-Il party non capisce ancora cosa significa. Ma si fida di Vera — tutti, anche chi fino a ieri avrebbe detto di no. La fuga smette di essere *da* qualcosa. Diventa una ricerca *verso* qualcuno.
+Il party non capisce ancora cosa significa. Ma si fida di Vera — tutti, anche chi fino a ieri avrebbe detto di no. Poi Fizzle alza la mano: *"Alle montagne c'è zolfo nativo. Ho sempre voluto dello zolfo nativo."* Vera quasi ride. La fuga smette di essere *da* qualcosa. Diventa una ricerca *verso* qualcuno.
 
 **Momento chiave:** Dain che dice il nome in nanico antico — e la pietra nella sua tasca pulsa così forte che si sente.
 
